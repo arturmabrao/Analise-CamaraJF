@@ -1,0 +1,100 @@
+CREATE DATABASE atividade_camarajf_simp
+    WITH 
+    OWNER = postgres
+    ENCODING = 'UTF8'
+    CONNECTION LIMIT = -1;	
+
+
+CREATE SCHEMA atividade_camarajf
+    AUTHORIZATION postgres;
+
+-- -----------------------------------------------------
+-- Table atividade_camarajf.legislatura
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS atividade_camarajf.legislatura (
+  id_legislatura SERIAL PRIMARY KEY,
+  ano_inicio integer CHECK(ano_inicio > 0) NOT NULL,
+  ano_fim integer CHECK(ano_fim > 0) NOT NULL,
+  data_inicio DATE NOT NULL,
+  data_fim DATE NOT NULL
+  );
+
+
+ALTER TABLE IF EXISTS atividade_camarajf.legislatura
+    OWNER to postgres;
+    
+-- -----------------------------------------------------
+-- Table atividade_camarajf.partido
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS atividade_camarajf.partido (
+  id_partido SERIAL PRIMARY KEY,
+  sigla VARCHAR(45) NOT NULL,
+  nome VARCHAR(100) NULL,
+  data_entrada DATE NULL,
+  date_saida DATE NULL
+  );
+
+ALTER TABLE IF EXISTS atividade_camarajf.partido
+    OWNER to postgres;
+
+-- -----------------------------------------------------
+-- Table atividade_camarajf.parlamentar
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS atividade_camarajf.parlamentar (
+  id_parlamentar SERIAL PRIMARY KEY,
+  nome_completo VARCHAR(45) NULL,
+  nome_camara VARCHAR(45) NULL,
+  id_legislatura integer CHECK(id_legislatura > 0) NULL,
+  id_partido integer NULL,
+    FOREIGN KEY (id_legislatura)
+    REFERENCES atividade_camarajf.legislatura (id_legislatura)
+        ON DELETE NO ACTION
+        ON UPDATE NO ACTION,
+    FOREIGN KEY (id_partido)
+    REFERENCES atividade_camarajf.partido (id_partido)
+        ON DELETE NO ACTION
+        ON UPDATE NO ACTION
+    );
+
+ALTER TABLE IF EXISTS atividade_camarajf.parlamentar
+    OWNER to postgres;
+
+-- -----------------------------------------------------
+-- Table atividade_camarajf.projeto
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS atividade_camarajf.projeto (
+  id_projeto SERIAL PRIMARY KEY,
+  numero_proposicao integer CHECK(numero_proposicao > 0) NOT NULL,
+  ano integer NOT NULL,
+  ementa TEXT NULL,
+  tipo_proposicao integer CHECK(tipo_proposicao > 0) NOT NULL,
+  codigo_tipo_proposicao VARCHAR(10) NULL,
+  data_proposicao CHAR(10) NOT NULL,
+  tramitacao_encerrada CHAR(3) NOT NULL,
+  situacao VARCHAR(25) NULL,
+  aprovado VARCHAR(10) NULL
+  );
+
+ALTER TABLE IF EXISTS atividade_camarajf.projeto
+    OWNER to postgres;
+
+-- -----------------------------------------------------
+-- Table atividade_camarajf.autoria
+-- -----------------------------------------------------
+CREATE TABLE IF NOT EXISTS atividade_camarajf.autoria (
+  id_autoria SERIAL PRIMARY KEY,
+  id_projeto integer CHECK(id_projeto > 0) NOT NULL,
+  id_parlamentar integer CHECK(id_parlamentar > 0) NULL,
+  nome_autor VARCHAR(80) NULL,
+    FOREIGN KEY (id_parlamentar)
+    REFERENCES atividade_camarajf.parlamentar (id_parlamentar)
+        ON DELETE NO ACTION
+        ON UPDATE NO ACTION,
+    FOREIGN KEY (id_projeto)
+    REFERENCES atividade_camarajf.projeto (id_projeto)
+        ON DELETE NO ACTION
+        ON UPDATE NO ACTION
+  );
+
+ALTER TABLE IF EXISTS atividade_camarajf.autoria
+    OWNER to postgres;
