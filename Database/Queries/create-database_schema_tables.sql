@@ -43,7 +43,7 @@ ALTER TABLE IF EXISTS atividade_camarajf.partido
 CREATE TABLE IF NOT EXISTS atividade_camarajf.parlamentar (
   id_parlamentar SERIAL PRIMARY KEY,
   nome_completo VARCHAR(45) NULL,
-  nome_camara VARCHAR(45) NULL,
+  nome_camara VARCHAR(80) NULL,
   id_legislatura integer CHECK(id_legislatura > 0) NULL,
   id_partido integer NULL,
     FOREIGN KEY (id_legislatura)
