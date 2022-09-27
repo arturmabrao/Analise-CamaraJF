@@ -64,15 +64,15 @@ ALTER TABLE IF EXISTS atividade_camarajf.parlamentar
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS atividade_camarajf.projeto (
   id_projeto SERIAL PRIMARY KEY,
-  numero_proposicao integer CHECK(numero_proposicao > 0) NOT NULL,
+  projeto integer CHECK(numero_proposicao > 0) NOT NULL,
   ano integer NOT NULL,
   ementa TEXT NULL,
-  tipo_proposicao integer CHECK(tipo_proposicao > 0) NOT NULL,
-  codigo_tipo_proposicao VARCHAR(10) NULL,
-  data_proposicao CHAR(10) NOT NULL,
+  data_projeto CHAR(20) NOT NULL,
   tramitacao_encerrada CHAR(3) NOT NULL,
   situacao VARCHAR(25) NULL,
-  aprovado VARCHAR(10) NULL
+  aprovado VARCHAR(10) NULL,
+  codigo_tipo VARCHAR(10) NULL,
+  tipo integer CHECK(tipo_proposicao > 0) NOT NULL
   );
 
 ALTER TABLE IF EXISTS atividade_camarajf.projeto
@@ -85,7 +85,7 @@ CREATE TABLE IF NOT EXISTS atividade_camarajf.autoria (
   id_autoria SERIAL PRIMARY KEY,
   id_projeto integer CHECK(id_projeto > 0) NOT NULL,
   id_parlamentar integer CHECK(id_parlamentar > 0) NULL,
-  nome_autor VARCHAR(80) NULL,
+  autor VARCHAR(80) NULL,
     FOREIGN KEY (id_parlamentar)
     REFERENCES atividade_camarajf.parlamentar (id_parlamentar)
         ON DELETE NO ACTION
