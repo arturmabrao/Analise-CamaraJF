@@ -85,9 +85,10 @@ ALTER TABLE IF EXISTS atividade_camarajf.projeto
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS atividade_camarajf.autoria (
   id_autoria SERIAL PRIMARY KEY,
-  id_projeto integer CHECK(id_projeto > 0) NOT NULL,
+  id_projeto integer CHECK(id_projeto > 0) NULL,
+  id_projeto_camara integer NOT NULL,
   id_parlamentar integer CHECK(id_parlamentar > 0) NULL,
-  autor VARCHAR(80) NULL,
+  nome_autor VARCHAR(80) NULL,
     FOREIGN KEY (id_parlamentar)
     REFERENCES atividade_camarajf.parlamentar (id_parlamentar)
         ON DELETE NO ACTION
