@@ -1,9 +1,10 @@
+/*
 CREATE DATABASE atividade_camarajf_simp
     WITH 
     OWNER = postgres
     ENCODING = 'UTF8'
     CONNECTION LIMIT = -1;	
-
+*/
 
 CREATE SCHEMA atividade_camarajf
     AUTHORIZATION postgres;
@@ -58,21 +59,22 @@ CREATE TABLE IF NOT EXISTS atividade_camarajf.parlamentar (
 
 ALTER TABLE IF EXISTS atividade_camarajf.parlamentar
     OWNER to postgres;
-
+	
 -- -----------------------------------------------------
 -- Table atividade_camarajf.projeto
 -- -----------------------------------------------------
 CREATE TABLE IF NOT EXISTS atividade_camarajf.projeto (
   id_projeto SERIAL PRIMARY KEY,
-  projeto integer CHECK(numero_proposicao > 0) NOT NULL,
+  id_projeto_camara INTEGER NOT NULL,
+  projeto integer CHECK(projeto  > 0) NOT NULL,
   ano integer NOT NULL,
   ementa TEXT NULL,
   data_projeto CHAR(20) NOT NULL,
-  tramitacao_encerrada CHAR(3) NOT NULL,
-  situacao VARCHAR(25) NULL,
-  aprovado VARCHAR(10) NULL,
+  tramitacao_encerrada VARCHAR(15) NOT NULL,
+  situacao VARCHAR(50) NULL,
+  aprovado VARCHAR(15) NULL,
   codigo_tipo VARCHAR(10) NULL,
-  tipo integer CHECK(tipo_proposicao > 0) NOT NULL
+  tipo VARCHAR(70) NOT NULL -- integer CHECK(tipo > 0) NOT NULL
   );
 
 ALTER TABLE IF EXISTS atividade_camarajf.projeto
