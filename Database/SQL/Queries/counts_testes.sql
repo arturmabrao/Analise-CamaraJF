@@ -1,10 +1,10 @@
-SELECT 
---ementa 
+SELECT
+    -- ementa
 	COUNT(pj.id_projeto_camara) numero_projetos 
 	, pj.ano
 	, aut.nome_autor
 
-FROM atividade_camarajf.projeto		pj
+FROM atividade_camarajf_simp.atividade_camarajf.projeto		pj
 
 inner join atividade_camarajf.autoria 	aut
 	on pj.id_projeto = aut.id_projeto 
@@ -24,4 +24,4 @@ WHERE
 
 group by pj.ano, aut.nome_autor
 
-order by numero_projetos desc
+order by numero_projetos desc;
