@@ -1,6 +1,7 @@
 -- INSERT TABELA PROJETOS
 COPY atividade_camarajf.projeto(projeto,ano,tipo,ementa,situacao,codigo_tipo,id_projeto_camara,data_projeto,tramitacao_encerrada,aprovado)
 FROM 'D:\Estudo\IF\2022\TCC2\Analise-Camara\Analise-CamaraJF\ListagemExp\ListagemExport.csv'
+--FROM 'D:\Estudo\IF\2022\TCC2\Analise-Camara\Analise-CamaraJF\ListagemExp\Trabalhados\ListagemExport_2012-2015_trab_manualfinal.csv'
 --FROM 'D:\Estudo\IF\2022\TCC2\Analise-Camara\Analise-CamaraJF\ListagemExp\ListagemExport_Database.csv'
 DELIMITER ','
 CSV HEADER;
@@ -8,6 +9,7 @@ CSV HEADER;
 -- INSERT TABELA AUTORIA
 COPY atividade_camarajf.autoria(id_projeto_camara,nome_autor)
 FROM 'D:\Estudo\IF\2022\TCC2\Analise-Camara\Analise-CamaraJF\ListagemExp\AutoriasExport.csv'
+--FROM 'D:\Estudo\IF\2022\TCC2\Analise-Camara\Analise-CamaraJF\ListagemExp\Trabalhados\AutoriasExport_2012-2015_trab_manualfinal.csv'
 DELIMITER ','
 CSV HEADER;
 
@@ -23,8 +25,8 @@ UPDATE atividade_camarajf.autoria
 
 -- INSERT TABELA PARLAMENTAR
 INSERT INTO atividade_camarajf.parlamentar  (nome_camara)
-	SELECT DISTINCT(nome_autor) 
-	FROM atividade_camarajf.autoria;
+	(SELECT DISTINCT(nome_autor) 
+	FROM atividade_camarajf.autoria);
 	
 
 -- AUTALIZACAO DA TABELA DE AUTORIA, ATRIBUINDO OS IDS DOS PARLAMENTARES AO CAMPO FK
