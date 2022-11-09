@@ -68,7 +68,7 @@ id_projeto_camara,nome_autor
 25584,Executivo
 39040,Executivo
 35887,Executivo
-39041,Executivo.
+39041,Executivo
 39022,Executivo
 18130,Executivo
 166,Fiorilo
@@ -806,8 +806,9 @@ id_projeto_camara,nome_autor
 3860,Ana do Padre Frederico
 21256,Ana do Padre Frederico
 3034,José Emanuel
-38468,Isauro e Rodrigo Mattos
-38468, Rodrigo Mattos
+38468,Isauro
+38468,Rodrigo Mattos
+38468,Rodrigo Mattos
 4245,Gasparette
 11209,Gasparette
 6631,Gasparette
@@ -950,18 +951,18 @@ id_projeto_camara,nome_autor
 5775,Noraldino
 11088,Noraldino
 11087,Noraldino
-36958,Dr. Luiz Carlos
-36958, Julio Gasparette
-36958, Betão
-36958, Tico-Tico
-36958, Chico Evangelista
-36958, Fiorilo
-36958, João do Joaninho
-36958, Tico-Tico
-36958, Chico Evangelista
-36958, João do Joaninho
-36958, Dr Luiz Carlos dos Santos
-36958, Betão
+36958,Dr Luiz Carlos
+36958,Julio Gasparette
+36958,Betão
+36958,Tico-Tico
+36958,Chico Evangelista
+36958,Fiorilo
+36958,João do Joaninho
+36958,Tico-Tico
+36958,Chico Evangelista
+36958,João do Joaninho
+36958,Dr Luiz Carlos dos Santos
+36958,Betão
 38442,Noraldino
 17208,Noraldino
 17207,Noraldino
@@ -1101,12 +1102,13 @@ id_projeto_camara,nome_autor
 30829,Ana do Padre Frederico
 38723,Ana do Padre Frederico
 2688,José Laerte
-2688, Fiorilo e José Tarcísio.
-2688, José Laerte
-2688, Dr. Fiorilo
+2688,Fiorilo
+2688,José Tarcísio
+2688,José Laerte
+2688,Dr Fiorilo
 38694,José Laerte
-38694, Fiorilo
-38694, José Tarcísio
+38694,Fiorilo
+38694,José Tarcísio
 13,Noraldino
 31436,Noraldino
 5690,Noraldino
@@ -1468,8 +1470,8 @@ id_projeto_camara,nome_autor
 34384,Flávio Cheker
 38495,Flávio Cheker
 39002,Francisco Canalli
-13654,Dr. Luiz Carlos
-19585,Dr. Luiz Carlos
+13654,Dr Luiz Carlos
+19585,Dr Luiz Carlos
 13695,Ana do Padre Frederico
 10337,Fiorilo
 10336,Fiorilo
@@ -1484,11 +1486,12 @@ id_projeto_camara,nome_autor
 29914,Fiorilo
 7702,Fiorilo
 1507,Flávio Cheker
-1507, Figueirôa
-1507, Betão e Castelar
-1507, Figueirôa
-1507, Betão
-1507, Wanderson Castelar
+1507,Figueirôa
+1507,Betão
+1507,Castelar
+1507,Figueirôa
+1507,Betão
+1507,Wanderson Castelar
 13653,Wanderson Castelar
 4169,Chico Evangelista
 26129,Gasparette
@@ -1518,8 +1521,8 @@ id_projeto_camara,nome_autor
 5047,Chico Evangelista
 6624,Chico Evangelista
 6623,Chico Evangelista
-4168,Dr. Laerte
-30320,Dr. Laerte
+4168,Dr Laerte
+30320,Dr Laerte
 4167,Fiorilo
 11053,Fiorilo
 32743,José Emanuel
@@ -1546,11 +1549,12 @@ id_projeto_camara,nome_autor
 28048,Gasparette
 38676,Figueirôa
 38675,Isauro Calais
-38675, Figueirôa
-38675, Ana do Padre Frederico e José Tracísio
-38675, Ana Rossignoli
-38675, Figueirôa
-38675, Dr. José Tarcísio
+38675,Figueirôa
+38675,Ana do Padre Frederico
+38675,José Tracísio
+38675,Ana Rossignoli
+38675,Figueirôa
+38675,Dr José Tarcísio
 38674,Flávio Cheker
 6622,Betão
 34573,Betão
@@ -1791,24 +1795,24 @@ id_projeto_camara,nome_autor
 4121,Isauro Calais
 11043,Isauro Calais
 13739,Isauro Calais
-30818,Dr.Luiz Carlos
-4120,Dr.Luiz Carlos
-30311,Dr.Luiz Carlos
+30818,Dr Luiz Carlos
+4120,Dr Luiz Carlos
+30311,Dr Luiz Carlos
 36360,José Tarcísio
 22684,José Emanuel
 36955,Luis Carlos
 36955,Jílo Gasparette
 36955,Betão
-36955, Tico-Tico
-36955, João do Joaninho
+36955,Tico-Tico
+36955,João do Joaninho
 36955,Chico Evangelista
-36955,Fiorilo.
-36955, Tico-Tico
-36955, Chico Evangelista
-36955, Dr. Fiorilo
-36955, João do Joaninho
-36955, Dr Luiz Carlos dos Santos
-36955, Betão
+36955,Fiorilo
+36955,Tico-Tico
+36955,Chico Evangelista
+36955,Dr Fiorilo
+36955,João do Joaninho
+36955,Dr Luiz Carlos dos Santos
+36955,Betão
 27199,Betão
 27198,Betão
 34877,Betão
@@ -1832,9 +1836,10 @@ id_projeto_camara,nome_autor
 31956,Wanderson Castelar
 16670,Doutor Luiz Carlos
 31596,João do Joaninho
-31596, José Emanuel e Ana do Padre Frederico
-31596, Ana Rossignoli
-31596, José Emanuel
+31596,José Emanuel
+31596,Ana do Padre Frederico
+31596,Ana Rossignoli
+31596,José Emanuel
 27912,Francisco Canalli
 36879,Ana do Padre Frederico
 13843,Ana do Padre Frederico
@@ -1860,7 +1865,7 @@ id_projeto_camara,nome_autor
 3509,Chico Evangelista
 3829,Fiorilo
 21712,José Emanuel
-16,Dr.Luiz Carlos
+16,Dr Luiz Carlos
 13244,Julio Gasparette
 8073,Julio Gasparette
 25770,Julio Gasparette
@@ -1989,9 +1994,10 @@ id_projeto_camara,nome_autor
 12997,José Laerte
 38972,Chico Evangelista
 39020,Betão
-39020, Ana do Pe.Frederico e Flávio Cheker
-39020, Ana Rossignoli
-39020, Betão
+39020,Ana do Pe Frederico
+39020,Flávio Cheker
+39020,Ana Rossignoli
+39020,Betão
 30307,José Laerte
 7018,José Laerte
 38971,Rodrigo Mattos
@@ -2004,10 +2010,11 @@ id_projeto_camara,nome_autor
 17359,Ana do Padre Frederico
 38967,João do Joaninho
 38966,Chico Evangelista
-37657,Noraldino 
-37657, Chico Evangelista e João do Joaninho
-37657, Chico Evangelista
-37657, Noraldino Júnior
+37657,Noraldino
+37657,Chico Evangelista
+37657,João do Joaninho
+37657,Chico Evangelista
+37657,Noraldino Júnior
 38965,Chico Evangelista
 4102,Wanderson Castelar
 39014,Julio Gasparette
@@ -2082,7 +2089,7 @@ id_projeto_camara,nome_autor
 21705,Isauro Calais
 38940,Francisco Canalli
 25316,Francisco Canalli
-39214,Dr. Luiz Carlos
+39214,Dr Luiz Carlos
 38939,José Emanuel
 36917,Chico Evangelista
 39212,Flávio Cheker
@@ -2218,8 +2225,9 @@ id_projeto_camara,nome_autor
 32612,Noraldino
 38900,José Tarcísio
 25730,Noraldino
-23620,Betão e Figueirôa
-23620, Betão
+23620,Betão
+23620,Figueirôa
+23620,Betão
 41013,Castelar
 10306,Francisco Canalli
 38899,José Tarcísio
@@ -2309,8 +2317,8 @@ id_projeto_camara,nome_autor
 40925,Noraldino Júnior
 38878,Julio Gasparette
 28290,Isauro Calais
-28290, José Emanuel
-28290, José Tarcísio
+28290,José Emanuel
+28290,José Tarcísio
 22870,Figueirôa
 40921,Noraldino Júnior
 4947,Figueirôa
@@ -2332,7 +2340,7 @@ id_projeto_camara,nome_autor
 15822,Figueirôa
 39151,Julio Gasparette
 38873,Julio Gasparette
-40901,Noraldino Júnior.
+40901,Noraldino Júnior
 39153,José Laerte
 38872,Julio Gasparette
 26484,Figueirôa
@@ -2360,7 +2368,7 @@ id_projeto_camara,nome_autor
 6536,Doutor Luiz Carlos
 38866,Betão
 22577,Figuerôa
-40869,Noraldino Júnior.
+40869,Noraldino Júnior
 19608,Ana do Padre Frederico
 38865,Francisco Canalli
 39165,José Tarcísio
@@ -2379,15 +2387,15 @@ id_projeto_camara,nome_autor
 40847,Flávio Cheker
 38861,Francisco Canalli
 28247,José Laerte
-40841,Noraldino Júnior.
+40841,Noraldino Júnior
 39155,Isauro Calais
 38860,Francisco Canalli
-40835,Dr. Fiorilo
+40835,Dr Fiorilo
 2758,Isauro Calais
 38859,Francisco Canalli
 38565,Rodrigo Mattos
 40830,Francisco Canalli
-1484,Dr. Luiz Carlos
+1484,Dr Luiz Carlos
 38858,Francisco Canalli
 37656,Carlos Bonifácio
 40824,Francisco Canalli
@@ -2401,9 +2409,9 @@ id_projeto_camara,nome_autor
 38997,Francisco Canalli
 40812,Flávio Cheker
 39141,Mesa Diretora - Biênio 2011/2012
-39141, Pastor Carlos
-39141, Dr Luiz Carlos dos Santos
-39141, Mesa Diretora
+39141,Pastor Carlos
+39141,Dr Luiz Carlos dos Santos
+39141,Mesa Diretora
 38855,Figueirôa
 22868,Betão
 40806,Isauro Calais
@@ -2427,7 +2435,7 @@ id_projeto_camara,nome_autor
 1091,Betão
 39132,Figueirôa
 38850,Noraldino Júnior
-40779,Dr. Fiorilo
+40779,Dr Fiorilo
 967,Betão
 39131,Chico Evangelista
 38849,Noraldino Júnior
@@ -2476,7 +2484,7 @@ id_projeto_camara,nome_autor
 39129,José Tarcísio
 38840,Francisco Canalli
 38720,Noraldino Júnior
-40717,Julio Gasparette.
+40717,Julio Gasparette
 6750,Betão
 39123,Flávio Cheker
 38839,Isauro Calais
@@ -2496,7 +2504,7 @@ id_projeto_camara,nome_autor
 2999,Fiorilo
 38836,Isauro Calais
 36991,Wanderson Castelar
-40689,Figueirôa.
+40689,Figueirôa
 18686,Doutor Luiz Carlos
 807,Flávio Cheker
 39121,Figueirôa
@@ -2525,19 +2533,20 @@ id_projeto_camara,nome_autor
 4745,Julio Gasparette
 899,Betão
 39119,Flávio Cheker
-39119, Francisco Canalli e Rodrigo Mattos
-39119, Francisco Canalli
-39119, Rodrigo Mattos
+39119,Francisco Canalli
+39119,Rodrigo Mattos
+39119,Francisco Canalli
+39119,Rodrigo Mattos
 38830,José Tarcísio
 40647,Julio Gasparette
 260,Betão
 1469,Isauro Calais
-1469, Ana do Padre Frederico
-1469, José Tarcísio
-1469, Figueirôa
-1469, Ana Rossignoli
-1469, Figueirôa
-1469, Dr. José Tarcísio
+1469,Ana do Padre Frederico
+1469,José Tarcísio
+1469,Figueirôa
+1469,Ana Rossignoli
+1469,Figueirôa
+1469,Dr José Tarcísio
 38829,José Tarcísio
 26095,Julio Gasparette
 40640,Julio Gasparette
@@ -2545,29 +2554,32 @@ id_projeto_camara,nome_autor
 38828,José Tarcísio
 26481,Julio Gasparette
 24064,Isauro Calais
-24064, Ana do Padre Frederico
-24064, José Tarcísio e Figueirôa
-24064, Ana Rossignoli
-24064, Figueirôa
-24064, Dr. José Tarcísio
+24064,Ana do Padre Frederico
+24064,José Tarcísio
+24064,Figueirôa
+24064,Ana Rossignoli
+24064,Figueirôa
+24064,Dr José Tarcísio
 40633,Flávio Cheker
 6120,Fiorilo
 2422,Isauro Calais
-2422, Ana do Padre Frederico
-2422, José Tarcísio e Figueirôa
-2422, Ana Rossignoli
-2422, Figueirôa
-2422, Dr. José Tarcísio
+2422,Ana do Padre Frederico
+2422,José Tarcísio
+2422,Figueirôa
+2422,Ana Rossignoli
+2422,Figueirôa
+2422,Dr José Tarcísio
 38827,José Tarcísio
 22656,Julio Gasparette
 40625,Flávio Cheker
 9288,Julio Gasparette
 2978,Isauro Calais
-2978, Ana do Padre Frederico
-2978, José Tarcísio e Figueirôa
-2978, Ana Rossignoli
-2978, Figueirôa
-2978, Dr. José Tarcísio
+2978,Ana do Padre Frederico
+2978,José Tarcísio
+2978,Figueirôa
+2978,Ana Rossignoli
+2978,Figueirôa
+2978,Dr José Tarcísio
 38826,José Tarcísio
 38717,José Tarcísio
 40618,Flávio Cheker
@@ -2585,7 +2597,8 @@ id_projeto_camara,nome_autor
 39113,Wanderson Castelar
 38823,Doutor Luiz Carlos
 34550,José Tarcísio
-40594,Flávio Cheker e Betão
+40594,Flávio Cheker
+40594,Betão
 958,Tico-Tico
 1859,José Laerte
 39112,Noraldino Júnior
@@ -2614,7 +2627,7 @@ id_projeto_camara,nome_autor
 1857,José Laerte
 622,Betão
 38818,Julio Gasparette
-40547,Julio Gasparette.
+40547,Julio Gasparette
 932,Tico-Tico
 1856,José Laerte
 39111,João do Joaninho
@@ -2731,36 +2744,41 @@ id_projeto_camara,nome_autor
 305,João do Joaninho
 38796,Figueirôa
 37680,Noraldino Júnior
-37680, João do Joaninho e Chico Evangelista
-37680, Chico Evangelista
-37680, Noraldino Júnior
+37680,João do Joaninho
+37680,Chico Evangelista
+37680,Chico Evangelista
+37680,Noraldino Júnior
 37001,Francisco Canalli
 40329,Roberto Cupolillo
 16886,Rodrigo Mattos
 39094,Ana do Padre Frederico
 38795,Francisco Canalli
 37679,Noraldino Júnior
-37679, João do Joaninho e Chico Evangelista
-37679, Chico Evangelista
-37679, Noraldino Júnior
+37679,João do Joaninho
+37679,Chico Evangelista
+37679,Chico Evangelista
+37679,Noraldino Júnior
 40319,Roberto Cupolillo
 509,Wanderson Castelar
 39007,Figueirôa
 37678,Noraldino Júnior
-37678, Chico Evangelista e João do Joaninho
-37678, Chico Evangelista
-37678, Noraldino Júnior
+37678,Chico Evangelista
+37678,João do Joaninho
+37678,Chico Evangelista
+37678,Noraldino Júnior
 37685,Noraldino Júnior
-37685, João do Joaninho e Chico Evangelista
+37685,João do Joaninho
+37685,Chico Evangelista
 20787,Isauro Calais
 40309,Roberto Cupolillo
 12632,Julio Gasparette
 39093,Wanderson Castelar
 38794,Isauro Calais
 37677,Noraldino Júnior
-37677, João do Joaninho e Chico Evangelista
-37677, Chico Evangelista
-37677, Noraldino Júnior
+37677,João do Joaninho
+37677,Chico Evangelista
+37677,Chico Evangelista
+37677,Noraldino Júnior
 40299,Flávio Cheker
 925,Flávio Cheker
 39039,Julio Gasparette
@@ -2803,7 +2821,7 @@ id_projeto_camara,nome_autor
 27536,Francisco Canalli
 40218,Francisco Canalli
 39035,Fiorilo
-39089,Dr. Luiz Carlos
+39089,Dr Luiz Carlos
 38786,Ana do Padre Frederico
 29741,Figueirôa
 40208,Flávio Cheker
@@ -2841,7 +2859,7 @@ id_projeto_camara,nome_autor
 43,Isauro Calais
 39083,Wanderson Castelar
 38779,José Tarcísio
-40137,Isauro Calais.
+40137,Isauro Calais
 257,Todos os Vereadores
 42,Isauro Calais
 39079,Noraldino Junior
@@ -2851,7 +2869,7 @@ id_projeto_camara,nome_autor
 39078,Noraldino Junior
 38710,Tico-Tico
 38777,Flávio Cheker
-40115,Dr. Luiz Carlos
+40115,Dr Luiz Carlos
 10430,Isauro Calais
 1401,Fiorilo
 39077,Noraldino Junior
@@ -2877,8 +2895,9 @@ id_projeto_camara,nome_autor
 38772,Noraldino Júnior
 23713,Flávio Cheker
 40052,Flávio Cheker
-10726,Castelar e Chico Evangelista
-10726, Chico Evangelista
+10726,Castelar
+10726,Chico Evangelista
+10726,Chico Evangelista
 38709,Tico-Tico
 38771,Isauro Calais
 27613,João do Joaninho
@@ -2908,8 +2927,8 @@ id_projeto_camara,nome_autor
 38766,Noraldino Júnior
 39976,Flávio Cheker
 595,Mesa Diretora - Biênio 2011/2012
-595, Pastor Carlos
-595, Dr Luiz Carlos dos Santos
+595,Pastor Carlos
+595,Dr Luiz Carlos dos Santos
 38705,Ana do Padre Frederico
 38765,Noraldino Júnior
 30711,Roberto Cupolillo
@@ -2971,12 +2990,12 @@ id_projeto_camara,nome_autor
 39062,Figueirôa
 38756,Julio Gasparette
 20784,Isauro Calais
-39807,Noraldino Júnior.
+39807,Noraldino Júnior
 39063,José Laerte
 38755,Wanderson Castelar
 36845,Chico Evangelista
 35074,Isauro Calais
-39794,Noraldino Júnior.
+39794,Noraldino Júnior
 37775,Flávio Cheker
 38703,Flávio Cheker
 38754,Noraldino Júnior
@@ -2986,12 +3005,12 @@ id_projeto_camara,nome_autor
 881,Chico Evangelista
 39006,Julio Gasparette
 31077,Isauro Calais
-39768,Noraldino Júnior.
+39768,Noraldino Júnior
 880,Chico Evangelista
 39059,Isauro Calais
 38753,José Tarcísio
 20782,Isauro Calais
-39755,Noraldino Júnior.
+39755,Noraldino Júnior
 1434,João do Joaninho
 39061,Carlos Bonifácio
 38752,José Tarcísio
@@ -3017,10 +3036,10 @@ id_projeto_camara,nome_autor
 38748,João do Joaninho
 39689,Luiz Carlos dos Santos
 1311,Noraldino
-1311, Chico Evangelista
-1311, Ana do Padre Frederico
-1311, Ana Rossignoli
-1311, Chico Evangelista
+1311,Chico Evangelista
+1311,Ana do Padre Frederico
+1311,Ana Rossignoli
+1311,Chico Evangelista
 39058,Flávio Cheker
 38747,João do Joaninho
 21808,Isauro Calais
@@ -3037,7 +3056,7 @@ id_projeto_camara,nome_autor
 39650,Isauro
 39650,Figueirôa
 39650,Ana Rossignoli
-39650,Dr.Tarcí
+39650,Dr Tarcí
 2743,Flávio Cheker
 38702,Tico-Tico
 38744,João do Joaninho
@@ -3059,7 +3078,7 @@ id_projeto_camara,nome_autor
 39584,Francisco Evangelista
 39056,Wanderson Castelar
 38464,Fiorilo
-22027,Dr. Luiz Carlos
+22027,Dr Luiz Carlos
 39571,Luiz Carlos dos Santos
 39052,Chico Evangelista
 39028,Ana do Padre Frederico
@@ -3067,7 +3086,7 @@ id_projeto_camara,nome_autor
 39559,José Sóter de Figueirôa Neto
 4077,Julio Gasparette
 910,Chico Evangelista
-39048,Dr. José Laerte
+39048,Dr José Laerte
 39547,José Sóter de Figueirôa Neto
 19196,Chico Evangelista
 39047,José Emanuel
@@ -3108,21 +3127,23 @@ id_projeto_camara,nome_autor
 25716,Flávio Cheker
 39442,Flávio Cheker
 17356,Flávio Cheker
-37696,Dr. Luiz Carlos
+37696,Dr Luiz Carlos
 38737,Ana do Padre Frederico
 39429,Isauro Calais
 39033,José Laerte
 38736,Ana do Padre Frederico
 36286,Figueirôa
-36286, Isauro Calais e Ana do Padre Frederico
-36286, Ana Rossignoli
-36286, Figueirôa
+36286,Isauro Calais
+36286,Ana do Padre Frederico
+36286,Ana Rossignoli
+36286,Figueirôa
 25715,Fiorilo
 39416,Flávio Cheker
 38500,Figueirôa
-38500, Isauro Calais e Ana do Pe.Frederico
-38500, Ana Rossignoli
-38500, Figueirôa
+38500,Isauro Calais
+38500,Ana do Pe Frederico
+38500,Ana Rossignoli
+38500,Figueirôa
 38447,Isauro Calais
 38735,Isauro Calais
 39403,Roberto Cupolillo
@@ -3143,11 +3164,12 @@ id_projeto_camara,nome_autor
 39025,Ana do Padre Frederico
 38731,Ana do Padre Frederico
 38510,Isauro Calais
-38510, Ana do Padre Frederico
-38510, José Tarcísio e Figueirôa
-38510, Ana Rossignoli
-38510, Figueirôa
-38510, Dr. José Tarcísio
+38510,Ana do Padre Frederico
+38510,José Tarcísio
+38510,Figueirôa
+38510,Ana Rossignoli
+38510,Figueirôa
+38510,Dr José Tarcísio
 20775,Isauro Calais
 39346,Luiz Carlos dos Santos
 2626,Doutor Luiz Carlos
@@ -3159,10 +3181,10 @@ id_projeto_camara,nome_autor
 39023,José Emanuel
 38729,Ana do Padre Frederico
 24027,Carlos Bonifácio
-24027, Julio Gasparette
-24027, Doutor Luiz Carlos
-24027, Pastor Carlos
-24027, Dr Luiz Carlos dos Santos
+24027,Julio Gasparette
+24027,Doutor Luiz Carlos
+24027,Pastor Carlos
+24027,Dr Luiz Carlos dos Santos
 39318,Luiz Carlos dos Santos
 3480,Chico Evangelista
 591,Mesa Diretora
@@ -3172,25 +3194,25 @@ id_projeto_camara,nome_autor
 11481,Chico Evangelista
 39021,José Tarcísio
 36954,Doutor Luiz Carlos
-36954, Julio Gasparette
-36954, Betão
-36954, Tico-Tico
-36954, Chico Evangelista
-36954, Fiorilo
-36954, João do Joaninho
-36954, Tico-Tico
-36954, Chico Evangelista
-36954, Dr. Fiorilo
-36954, João do Joaninho
-36954, Dr Luiz Carlos dos Santos
-36954, Betão
+36954,Julio Gasparette
+36954,Betão
+36954,Tico-Tico
+36954,Chico Evangelista
+36954,Fiorilo
+36954,João do Joaninho
+36954,Tico-Tico
+36954,Chico Evangelista
+36954,Dr Fiorilo
+36954,João do Joaninho
+36954,Dr Luiz Carlos dos Santos
+36954,Betão
 38727,Ana do Padre Frederico
 39292,Flávio Cheker
 2986,Mesa Diretora
-2986, Pastor Carlos
-2986, Chico Evangelista
-2986, João do Joaninho
-2986, Dr Luiz Carlos dos Santos
+2986,Pastor Carlos
+2986,Chico Evangelista
+2986,João do Joaninho
+2986,Dr Luiz Carlos dos Santos
 38726,Ana do Padre Frederico
 21682,Betão
 39279,Flávio Cheker
@@ -3243,8 +3265,8 @@ id_projeto_camara,nome_autor
 46064,Zé Márcio
 46063,Zé Márcio
 46062,Zé Márcio
-46464,Dr. Fiorilo
-46463,Dr. Fiorilo
+46464,Dr Fiorilo
+46463,Dr Fiorilo
 46126,Ana Rossignoli
 46310,Luiz Otávio Fernandes Coelho - Pardal
 46309,Luiz Otávio Fernandes Coelho - Pardal
@@ -3262,15 +3284,15 @@ id_projeto_camara,nome_autor
 46152,Chico Evangelista
 46031,André Mariano
 46312,Luiz Otávio Fernandes Coelho - Pardal
-46216,Dr. Fiorilo
-46216, Luiz Otávio Fernandes Coelho - Pardal
-46216, Wanderson Castelar
-46215,Dr. Fiorilo
-46215, Luiz Otávio Fernandes Coelho - Pardal
-46215, Wanderson Castelar
-46211,Dr. Fiorilo
-46211, Luiz Otávio Fernandes Coelho - Pardal
-46211, Wanderson Castelar
+46216,Dr Fiorilo
+46216,Luiz Otávio Fernandes Coelho - Pardal
+46216,Wanderson Castelar
+46215,Dr Fiorilo
+46215,Luiz Otávio Fernandes Coelho - Pardal
+46215,Wanderson Castelar
+46211,Dr Fiorilo
+46211,Luiz Otávio Fernandes Coelho - Pardal
+46211,Wanderson Castelar
 46076,Wanderson Castelar
 46075,Wanderson Castelar
 46074,Wanderson Castelar
@@ -3287,7 +3309,7 @@ id_projeto_camara,nome_autor
 46175,Oliveira Tresse
 46174,Oliveira Tresse
 46173,Oliveira Tresse
-46461,Dr. Fiorilo
+46461,Dr Fiorilo
 46488,Cido Reis
 46541,Noraldino Júnior
 46153,Chico Evangelista
@@ -3345,9 +3367,9 @@ id_projeto_camara,nome_autor
 46536,Noraldino Júnior
 46535,Noraldino Júnior
 46534,Noraldino Júnior
-46350,Dr. Fiorilo
-46347,Dr. Fiorilo
-46345,Dr. Fiorilo
+46350,Dr Fiorilo
+46347,Dr Fiorilo
+46345,Dr Fiorilo
 46559,Cido Reis
 46558,Cido Reis
 46557,Cido Reis
@@ -3356,10 +3378,10 @@ id_projeto_camara,nome_autor
 46067,Zé Márcio
 46151,Chico Evangelista
 46560,Cido Reis
-46209,Dr. Antônio Aguiar
-46207,Dr. Antônio Aguiar
-46205,Dr. Antônio Aguiar
-46202,Dr. Antônio Aguiar
+46209,Dr Antônio Aguiar
+46207,Dr Antônio Aguiar
+46205,Dr Antônio Aguiar
+46202,Dr Antônio Aguiar
 46315,Luiz Otávio Fernandes Coelho - Pardal
 46160,Oliveira Tresse
 46159,Oliveira Tresse
@@ -3368,7 +3390,7 @@ id_projeto_camara,nome_autor
 46493,Cido Reis
 46492,Cido Reis
 46338,Vagner de Oliveira
-46363,Dr. Fiorilo
+46363,Dr Fiorilo
 46059,Zé Márcio
 46150,Chico Evangelista
 46125,Ana Rossignoli
@@ -3376,9 +3398,9 @@ id_projeto_camara,nome_autor
 46675,Júlio Gasparette
 46674,Júlio Gasparette
 46673,Júlio Gasparette
-46361,Dr. Fiorilo
-46359,Dr. Fiorilo
-46358,Dr. Fiorilo
+46361,Dr Fiorilo
+46359,Dr Fiorilo
+46358,Dr Fiorilo
 46037,Isauro Calais
 46036,Isauro Calais
 46124,Ana Rossignoli
@@ -3422,11 +3444,11 @@ id_projeto_camara,nome_autor
 46318,Luiz Otávio Fernandes Coelho - Pardal
 46317,Luiz Otávio Fernandes Coelho - Pardal
 46316,Luiz Otávio Fernandes Coelho - Pardal
-46356,Dr. Fiorilo
-46353,Dr. Fiorilo
-46351,Dr. Fiorilo
-46198,Dr. Antônio Aguiar
-46197,Dr. Antônio Aguiar
+46356,Dr Fiorilo
+46353,Dr Fiorilo
+46351,Dr Fiorilo
+46198,Dr Antônio Aguiar
+46197,Dr Antônio Aguiar
 46509,Cido Reis
 46650,Júlio Gasparette
 46647,Júlio Gasparette
@@ -3445,7 +3467,7 @@ id_projeto_camara,nome_autor
 46026,Nilton Militão
 46025,Nilton Militão
 46028,Chico Evangelista
-46199,Dr. Antônio Aguiar
+46199,Dr Antônio Aguiar
 46242,Noraldino Júnior
 46241,Noraldino Júnior
 46240,Noraldino Júnior
@@ -3469,12 +3491,12 @@ id_projeto_camara,nome_autor
 46217,Noraldino Júnior
 46336,Vagner de Oliveira
 46335,Vagner de Oliveira
-46393,Dr. Fiorilo
-46389,Dr. Fiorilo
-46386,Dr. Fiorilo
-46385,Dr. Fiorilo
-46384,Dr. Fiorilo
-46365,Dr. Fiorilo
+46393,Dr Fiorilo
+46389,Dr Fiorilo
+46386,Dr Fiorilo
+46385,Dr Fiorilo
+46384,Dr Fiorilo
+46365,Dr Fiorilo
 46046,Isauro Calais
 46045,Isauro Calais
 46044,Isauro Calais
@@ -3509,16 +3531,16 @@ id_projeto_camara,nome_autor
 46570,Noraldino Júnior
 46314,Luiz Otávio Fernandes Coelho - Pardal
 46313,Luiz Otávio Fernandes Coelho - Pardal
-46459,Dr. Fiorilo
-46430,Dr. Fiorilo
-46429,Dr. Fiorilo
-46427,Dr. Fiorilo
-46425,Dr. Fiorilo
-46424,Dr. Fiorilo
-46421,Dr. Fiorilo
+46459,Dr Fiorilo
+46430,Dr Fiorilo
+46429,Dr Fiorilo
+46427,Dr Fiorilo
+46425,Dr Fiorilo
+46424,Dr Fiorilo
+46421,Dr Fiorilo
 46029,Rodrigo Mattos
 46030,Chico Evangelista
-46200,Dr. Antônio Aguiar
+46200,Dr Antônio Aguiar
 46070,Wanderson Castelar
 46069,Wanderson Castelar
 46383,Vagner de Oliveira
@@ -3544,22 +3566,22 @@ id_projeto_camara,nome_autor
 46137,Luiz Otávio Fernandes Coelho - Pardal
 46136,Luiz Otávio Fernandes Coelho - Pardal
 46135,Luiz Otávio Fernandes Coelho - Pardal
-46420,Dr. Fiorilo
-46418,Dr. Fiorilo
-46416,Dr. Fiorilo
-46414,Dr. Fiorilo
-46413,Dr. Fiorilo
-46411,Dr. Fiorilo
-46410,Dr. Fiorilo
-46409,Dr. Fiorilo
-46408,Dr. Fiorilo
-46404,Dr. Fiorilo
-46402,Dr. Fiorilo
-46401,Dr. Fiorilo
-46400,Dr. Fiorilo
-46399,Dr. Fiorilo
-46397,Dr. Fiorilo
-46395,Dr. Fiorilo
+46420,Dr Fiorilo
+46418,Dr Fiorilo
+46416,Dr Fiorilo
+46414,Dr Fiorilo
+46413,Dr Fiorilo
+46411,Dr Fiorilo
+46410,Dr Fiorilo
+46409,Dr Fiorilo
+46408,Dr Fiorilo
+46404,Dr Fiorilo
+46402,Dr Fiorilo
+46401,Dr Fiorilo
+46400,Dr Fiorilo
+46399,Dr Fiorilo
+46397,Dr Fiorilo
+46395,Dr Fiorilo
 46035,Isauro Calais
 46034,Isauro Calais
 46149,Chico Evangelista
@@ -3608,14 +3630,14 @@ id_projeto_camara,nome_autor
 46079,Jucelio
 46078,Jucelio
 46077,Jucelio
-46196,Dr. Antônio Aguiar
-46194,Dr. Antônio Aguiar
-46192,Dr. Antônio Aguiar
-46191,Dr. Antônio Aguiar
-46201,Dr. Antônio Aguiar
-46190,Dr. Antônio Aguiar
-46189,Dr. Antônio Aguiar
-46188,Dr. Antônio Aguiar
+46196,Dr Antônio Aguiar
+46194,Dr Antônio Aguiar
+46192,Dr Antônio Aguiar
+46191,Dr Antônio Aguiar
+46201,Dr Antônio Aguiar
+46190,Dr Antônio Aguiar
+46189,Dr Antônio Aguiar
+46188,Dr Antônio Aguiar
 46122,Ana Rossignoli
 46121,Ana Rossignoli
 45919,Wanderson Castelar
@@ -3656,9 +3678,9 @@ id_projeto_camara,nome_autor
 45933,Nilton Militão
 45932,Nilton Militão
 45931,Nilton Militão
-45842,Dr. Fiorilo
-45841,Dr. Fiorilo
-45840,Dr. Fiorilo
+45842,Dr Fiorilo
+45841,Dr Fiorilo
+45840,Dr Fiorilo
 45892,Vagner de Oliveira
 45891,Vagner de Oliveira
 45890,Vagner de Oliveira
@@ -3708,9 +3730,9 @@ id_projeto_camara,nome_autor
 45991,Noraldino Júnior
 45990,Noraldino Júnior
 45989,Noraldino Júnior
-45845,Dr. Fiorilo
-45844,Dr. Fiorilo
-45843,Dr. Fiorilo
+45845,Dr Fiorilo
+45844,Dr Fiorilo
+45843,Dr Fiorilo
 45719,Jucelio
 45922,Wanderson Castelar
 45921,Wanderson Castelar
@@ -3756,13 +3778,13 @@ id_projeto_camara,nome_autor
 45886,Vagner de Oliveira
 45274,Chico Evangelista
 45273,Chico Evangelista
-45839,Dr. Fiorilo
-45814,Dr. Fiorilo
+45839,Dr Fiorilo
+45814,Dr Fiorilo
 45923,Wanderson Castelar
 45637,Ana Rossignoli
-45637, Dr. Antônio Aguiar
-45637, Luiz Otávio Fernandes Coelho - Pardal
-45637, Betão
+45637,Dr Antônio Aguiar
+45637,Luiz Otávio Fernandes Coelho - Pardal
+45637,Betão
 45686,Júlio Gasparette
 45685,Júlio Gasparette
 45684,Júlio Gasparette
@@ -3794,15 +3816,15 @@ id_projeto_camara,nome_autor
 45290,Cido Reis
 45289,Cido Reis
 45288,Cido Reis
-45420,Dr. Antônio Aguiar
-45419,Dr. Antônio Aguiar
-45418,Dr. Antônio Aguiar
-45417,Dr. Antônio Aguiar
+45420,Dr Antônio Aguiar
+45419,Dr Antônio Aguiar
+45418,Dr Antônio Aguiar
+45417,Dr Antônio Aguiar
 45298,Ana Rossignoli
 45297,Ana Rossignoli
 45296,Ana Rossignoli
 45295,Ana Rossignoli
-45838,Dr. Fiorilo
+45838,Dr Fiorilo
 45700,Júlio Gasparette
 45239,Isauro Calais
 45238,Isauro Calais
@@ -3824,7 +3846,7 @@ id_projeto_camara,nome_autor
 45893,Cido Reis
 45530,Isauro Calais
 45720,Chico Evangelista
-45416,Dr. Antônio Aguiar
+45416,Dr Antônio Aguiar
 45679,Júlio Gasparette
 45678,Júlio Gasparette
 45677,Júlio Gasparette
@@ -3870,12 +3892,12 @@ id_projeto_camara,nome_autor
 45864,Nilton Militão
 45521,Jucelio
 45520,Jucelio
-45837,Dr. Fiorilo
-45836,Dr. Fiorilo
-45835,Dr. Fiorilo
-45834,Dr. Fiorilo
-45833,Dr. Fiorilo
-45832,Dr. Fiorilo
+45837,Dr Fiorilo
+45836,Dr Fiorilo
+45835,Dr Fiorilo
+45834,Dr Fiorilo
+45833,Dr Fiorilo
+45832,Dr Fiorilo
 45831,Luiz Otávio Fernandes Coelho - Pardal
 45287,Cido Reis
 45286,Cido Reis
@@ -3914,27 +3936,27 @@ id_projeto_camara,nome_autor
 45713,Jucelio
 45712,Jucelio
 45701,Jucelio
-45813,Dr. Fiorilo
-45806,Dr. Fiorilo
-45805,Dr. Fiorilo
-45804,Dr. Fiorilo
-45803,Dr. Fiorilo
-45802,Dr. Fiorilo
-45801,Dr. Fiorilo
-45800,Dr. Fiorilo
-45799,Dr. Fiorilo
-45798,Dr. Fiorilo
-45797,Dr. Fiorilo
-45796,Dr. Fiorilo
-45795,Dr. Fiorilo
-45794,Dr. Fiorilo
-45793,Dr. Fiorilo
-45792,Dr. Fiorilo
-45791,Dr. Fiorilo
-45790,Dr. Fiorilo
-45789,Dr. Fiorilo
-45788,Dr. Fiorilo
-45787,Dr. Fiorilo
+45813,Dr Fiorilo
+45806,Dr Fiorilo
+45805,Dr Fiorilo
+45804,Dr Fiorilo
+45803,Dr Fiorilo
+45802,Dr Fiorilo
+45801,Dr Fiorilo
+45800,Dr Fiorilo
+45799,Dr Fiorilo
+45798,Dr Fiorilo
+45797,Dr Fiorilo
+45796,Dr Fiorilo
+45795,Dr Fiorilo
+45794,Dr Fiorilo
+45793,Dr Fiorilo
+45792,Dr Fiorilo
+45791,Dr Fiorilo
+45790,Dr Fiorilo
+45789,Dr Fiorilo
+45788,Dr Fiorilo
+45787,Dr Fiorilo
 45196,Isauro Calais
 45195,Isauro Calais
 45194,Isauro Calais
@@ -3959,9 +3981,9 @@ id_projeto_camara,nome_autor
 45277,Cido Reis
 45276,Cido Reis
 45275,Cido Reis
-45415,Dr. Antônio Aguiar
-45414,Dr. Antônio Aguiar
-45413,Dr. Antônio Aguiar
+45415,Dr Antônio Aguiar
+45414,Dr Antônio Aguiar
+45413,Dr Antônio Aguiar
 45647,André Mariano
 45646,André Mariano
 45645,André Mariano
@@ -3982,44 +4004,44 @@ id_projeto_camara,nome_autor
 45185,Noraldino Júnior
 45186,Isauro Calais
 45161,Ana Rossignoli
-45161, André Mariano
-45161, Antônio Almas
-45161, Dr. Antônio Aguiar
-45161, Cido Reis
-45161, Chico Evangelista
-45161, Vagner de Oliveira
-45161, Isauro Calais
-45161, Dr. Fiorilo
-45161, Zé Márcio
-45161, João do Joaninho
-45161, Jucelio
-45161, Júlio Gasparette
-45161, Luiz Otávio Fernandes Coelho - Pardal
-45161, Nilton Militão
-45161, Noraldino Júnior
-45161, Oliveira Tresse
-45161, Betão
-45161, Rodrigo Mattos
-45161, Wanderson Castelar
+45161,André Mariano
+45161,Antônio Almas
+45161,Dr Antônio Aguiar
+45161,Cido Reis
+45161,Chico Evangelista
+45161,Vagner de Oliveira
+45161,Isauro Calais
+45161,Dr Fiorilo
+45161,Zé Márcio
+45161,João do Joaninho
+45161,Jucelio
+45161,Júlio Gasparette
+45161,Luiz Otávio Fernandes Coelho - Pardal
+45161,Nilton Militão
+45161,Noraldino Júnior
+45161,Oliveira Tresse
+45161,Betão
+45161,Rodrigo Mattos
+45161,Wanderson Castelar
 45162,Isauro Calais
-45162, Ana Rossignoli
-45162, André Mariano
-45162, Dr. Antônio Aguiar
-45162, Cido Reis
-45162, Chico Evangelista
-45162, Vagner de Oliveira
-45162, Dr. Fiorilo
-45162, Zé Márcio
-45162, João do Joaninho
-45162, Jucelio
-45162, Júlio Gasparette
-45162, Luiz Otávio Fernandes Coelho - Pardal
-45162, Nilton Militão
-45162, Noraldino Júnior
-45162, Oliveira Tresse
-45162, Betão
-45162, Rodrigo Mattos
-45162, Wanderson Castelar
+45162,Ana Rossignoli
+45162,André Mariano
+45162,Dr Antônio Aguiar
+45162,Cido Reis
+45162,Chico Evangelista
+45162,Vagner de Oliveira
+45162,Dr Fiorilo
+45162,Zé Márcio
+45162,João do Joaninho
+45162,Jucelio
+45162,Júlio Gasparette
+45162,Luiz Otávio Fernandes Coelho - Pardal
+45162,Nilton Militão
+45162,Noraldino Júnior
+45162,Oliveira Tresse
+45162,Betão
+45162,Rodrigo Mattos
+45162,Wanderson Castelar
 45667,Júlio Gasparette
 45666,Júlio Gasparette
 45665,Júlio Gasparette
@@ -4044,25 +4066,25 @@ id_projeto_camara,nome_autor
 45611,Noraldino Júnior
 45610,Noraldino Júnior
 45609,Noraldino Júnior
-45184,Dr. Fiorilo
-45183,Dr. Fiorilo
-45182,Dr. Fiorilo
-45181,Dr. Fiorilo
-45180,Dr. Fiorilo
-45179,Dr. Fiorilo
-45178,Dr. Fiorilo
-45177,Dr. Fiorilo
-45176,Dr. Fiorilo
-45175,Dr. Fiorilo
-45174,Dr. Fiorilo
-45173,Dr. Fiorilo
+45184,Dr Fiorilo
+45183,Dr Fiorilo
+45182,Dr Fiorilo
+45181,Dr Fiorilo
+45180,Dr Fiorilo
+45179,Dr Fiorilo
+45178,Dr Fiorilo
+45177,Dr Fiorilo
+45176,Dr Fiorilo
+45175,Dr Fiorilo
+45174,Dr Fiorilo
+45173,Dr Fiorilo
 45086,André Mariano
 45084,André Mariano
 45080,Oliveira Tresse
 45097,Zé Márcio
-45097, Vagner de Oliveira
-45097, Noraldino Júnior
-45097, Betão
+45097,Vagner de Oliveira
+45097,Noraldino Júnior
+45097,Betão
 45078,Betão
 45233,Júlio Gasparette
 45232,Júlio Gasparette
@@ -4077,12 +4099,12 @@ id_projeto_camara,nome_autor
 45211,Júlio Gasparette
 45210,Júlio Gasparette
 45209,Júlio Gasparette
-45102,Dr. Fiorilo
-45101,Dr. Fiorilo
-45100,Dr. Fiorilo
-45099,Dr. Fiorilo
-45098,Dr. Fiorilo
-45087,Dr. Fiorilo
+45102,Dr Fiorilo
+45101,Dr Fiorilo
+45100,Dr Fiorilo
+45099,Dr Fiorilo
+45098,Dr Fiorilo
+45087,Dr Fiorilo
 45106,Isauro Calais
 45105,Isauro Calais
 45103,Betão
@@ -4120,8 +4142,8 @@ id_projeto_camara,nome_autor
 45513,Luiz Otávio Fernandes Coelho - Pardal
 45512,Luiz Otávio Fernandes Coelho - Pardal
 45510,Luiz Otávio Fernandes Coelho - Pardal
-45109,Dr. Fiorilo
-45108,Dr. Fiorilo
+45109,Dr Fiorilo
+45108,Dr Fiorilo
 45113,Cido Reis
 45112,Cido Reis
 45111,Cido Reis
@@ -4144,9 +4166,9 @@ id_projeto_camara,nome_autor
 45128,Nilton Militão
 45126,Nilton Militão
 45127,Nilton Militão
-45124,Dr. Fiorilo
-45123,Dr. Fiorilo
-45122,Dr. Fiorilo
+45124,Dr Fiorilo
+45123,Dr Fiorilo
+45122,Dr Fiorilo
 45120,Vagner de Oliveira
 45119,Vagner de Oliveira
 45118,Vagner de Oliveira
@@ -4155,9 +4177,9 @@ id_projeto_camara,nome_autor
 45145,Chico Evangelista
 45104,Zé Márcio
 45115,Jucelio
-45115, Zé Márcio
+45115,Zé Márcio
 45114,Jucelio
-45114, Zé Márcio
+45114,Zé Márcio
 45604,Noraldino Júnior
 45603,Noraldino Júnior
 45602,Noraldino Júnior
@@ -4165,19 +4187,19 @@ id_projeto_camara,nome_autor
 45600,Noraldino Júnior
 45599,Noraldino Júnior
 45598,Noraldino Júnior
-45412,Dr. Antônio Aguiar
-45411,Dr. Antônio Aguiar
-45410,Dr. Antônio Aguiar
-45409,Dr. Antônio Aguiar
-45408,Dr. Antônio Aguiar
-45407,Dr. Antônio Aguiar
-45406,Dr. Antônio Aguiar
-45405,Dr. Antônio Aguiar
-45404,Dr. Antônio Aguiar
-45403,Dr. Antônio Aguiar
-45402,Dr. Antônio Aguiar
-45401,Dr. Antônio Aguiar
-45400,Dr. Antônio Aguiar
+45412,Dr Antônio Aguiar
+45411,Dr Antônio Aguiar
+45410,Dr Antônio Aguiar
+45409,Dr Antônio Aguiar
+45408,Dr Antônio Aguiar
+45407,Dr Antônio Aguiar
+45406,Dr Antônio Aguiar
+45405,Dr Antônio Aguiar
+45404,Dr Antônio Aguiar
+45403,Dr Antônio Aguiar
+45402,Dr Antônio Aguiar
+45401,Dr Antônio Aguiar
+45400,Dr Antônio Aguiar
 45170,André Mariano
 45169,André Mariano
 45168,André Mariano
@@ -4216,16 +4238,16 @@ id_projeto_camara,nome_autor
 44915,Noraldino Júnior
 45003,Jucelio
 45002,Jucelio
-45013,Dr. Fiorilo
-45012,Dr. Fiorilo
-45011,Dr. Fiorilo
-45010,Dr. Fiorilo
-45009,Dr. Fiorilo
-45008,Dr. Fiorilo
-45007,Dr. Fiorilo
-45006,Dr. Fiorilo
-45005,Dr. Fiorilo
-45004,Dr. Fiorilo
+45013,Dr Fiorilo
+45012,Dr Fiorilo
+45011,Dr Fiorilo
+45010,Dr Fiorilo
+45009,Dr Fiorilo
+45008,Dr Fiorilo
+45007,Dr Fiorilo
+45006,Dr Fiorilo
+45005,Dr Fiorilo
+45004,Dr Fiorilo
 44898,Ana Rossignoli
 44897,Ana Rossignoli
 45027,Oliveira Tresse
@@ -4289,7 +4311,7 @@ id_projeto_camara,nome_autor
 44977,Cido Reis
 44948,Ana Rossignoli
 45014,Cido Reis
-45091,Dr. Antônio Aguiar
+45091,Dr Antônio Aguiar
 44957,Júlio Gasparette
 44956,Júlio Gasparette
 44955,Júlio Gasparette
@@ -4317,17 +4339,17 @@ id_projeto_camara,nome_autor
 44927,Noraldino Júnior
 44926,Noraldino Júnior
 44925,Noraldino Júnior
-44968,Dr. Fiorilo
-44967,Dr. Fiorilo
-44966,Dr. Fiorilo
-44965,Dr. Fiorilo
-44964,Dr. Fiorilo
-44963,Dr. Fiorilo
-44962,Dr. Fiorilo
-44961,Dr. Fiorilo
-44960,Dr. Fiorilo
-44959,Dr. Fiorilo
-44958,Dr. Fiorilo
+44968,Dr Fiorilo
+44967,Dr Fiorilo
+44966,Dr Fiorilo
+44965,Dr Fiorilo
+44964,Dr Fiorilo
+44963,Dr Fiorilo
+44962,Dr Fiorilo
+44961,Dr Fiorilo
+44960,Dr Fiorilo
+44959,Dr Fiorilo
+44958,Dr Fiorilo
 44893,Chico Evangelista
 44892,Chico Evangelista
 44891,Chico Evangelista
@@ -4367,43 +4389,43 @@ id_projeto_camara,nome_autor
 45064,Wanderson Castelar
 44860,Betão
 45029,Isauro Calais
-45029, Ana Rossignoli
-45029, André Mariano
-45029, Dr. Antônio Aguiar
-45029, Cido Reis
-45029, Chico Evangelista
-45029, Vagner de Oliveira
-45029, Dr. Fiorilo
-45029, Zé Márcio
-45029, João do Joaninho
-45029, Jucelio
-45029, Júlio Gasparette
-45029, Luiz Otávio Fernandes Coelho - Pardal
-45029, Nilton Militão
-45029, Noraldino Júnior
-45029, Oliveira Tresse
-45029, Betão
-45029, Rodrigo Mattos
-45029, Wanderson Castelar
+45029,Ana Rossignoli
+45029,André Mariano
+45029,Dr Antônio Aguiar
+45029,Cido Reis
+45029,Chico Evangelista
+45029,Vagner de Oliveira
+45029,Dr Fiorilo
+45029,Zé Márcio
+45029,João do Joaninho
+45029,Jucelio
+45029,Júlio Gasparette
+45029,Luiz Otávio Fernandes Coelho - Pardal
+45029,Nilton Militão
+45029,Noraldino Júnior
+45029,Oliveira Tresse
+45029,Betão
+45029,Rodrigo Mattos
+45029,Wanderson Castelar
 45028,Isauro Calais
-45028, Ana Rossignoli
-45028, André Mariano
-45028, Dr. Antônio Aguiar
-45028, Cido Reis
-45028, Chico Evangelista
-45028, Vagner de Oliveira
-45028, Dr. Fiorilo
-45028, Zé Márcio
-45028, João do Joaninho
-45028, Jucelio
-45028, Júlio Gasparette
-45028, Luiz Otávio Fernandes Coelho - Pardal
-45028, Nilton Militão
-45028, Noraldino Júnior
-45028, Oliveira Tresse
-45028, Betão
-45028, Rodrigo Mattos
-45028, Wanderson Castelar
+45028,Ana Rossignoli
+45028,André Mariano
+45028,Dr Antônio Aguiar
+45028,Cido Reis
+45028,Chico Evangelista
+45028,Vagner de Oliveira
+45028,Dr Fiorilo
+45028,Zé Márcio
+45028,João do Joaninho
+45028,Jucelio
+45028,Júlio Gasparette
+45028,Luiz Otávio Fernandes Coelho - Pardal
+45028,Nilton Militão
+45028,Noraldino Júnior
+45028,Oliveira Tresse
+45028,Betão
+45028,Rodrigo Mattos
+45028,Wanderson Castelar
 45263,Oliveira Tresse
 45260,Oliveira Tresse
 45259,Oliveira Tresse
@@ -4445,12 +4467,12 @@ id_projeto_camara,nome_autor
 45577,Jucelio
 45576,Jucelio
 45575,Jucelio
-44846,Dr. Fiorilo
-44845,Dr. Fiorilo
-44844,Dr. Fiorilo
-44843,Dr. Fiorilo
-44842,Dr. Fiorilo
-44840,Dr. Fiorilo
+44846,Dr Fiorilo
+44845,Dr Fiorilo
+44844,Dr Fiorilo
+44843,Dr Fiorilo
+44842,Dr Fiorilo
+44840,Dr Fiorilo
 44855,Isauro Calais
 44854,Isauro Calais
 44853,Isauro Calais
@@ -4469,21 +4491,21 @@ id_projeto_camara,nome_autor
 44839,Cido Reis
 44838,Cido Reis
 44836,Cido Reis
-45399,Dr. Antônio Aguiar
-45398,Dr. Antônio Aguiar
-45397,Dr. Antônio Aguiar
-45396,Dr. Antônio Aguiar
-45395,Dr. Antônio Aguiar
-45394,Dr. Antônio Aguiar
-45393,Dr. Antônio Aguiar
-45392,Dr. Antônio Aguiar
-45391,Dr. Antônio Aguiar
-45390,Dr. Antônio Aguiar
+45399,Dr Antônio Aguiar
+45398,Dr Antônio Aguiar
+45397,Dr Antônio Aguiar
+45396,Dr Antônio Aguiar
+45395,Dr Antônio Aguiar
+45394,Dr Antônio Aguiar
+45393,Dr Antônio Aguiar
+45392,Dr Antônio Aguiar
+45391,Dr Antônio Aguiar
+45390,Dr Antônio Aguiar
 45486,Luiz Otávio Fernandes Coelho - Pardal
 44861,Isauro Calais
-44861, Ana Rossignoli
-44861, Vagner de Oliveira
-44861, Rodrigo Mattos
+44861,Ana Rossignoli
+44861,Vagner de Oliveira
+44861,Rodrigo Mattos
 45574,Júlio Gasparette
 45573,Júlio Gasparette
 45572,Júlio Gasparette
@@ -4580,7 +4602,7 @@ id_projeto_camara,nome_autor
 45318,João do Joaninho
 45317,João do Joaninho
 44657,Jucelio
-48294,Dr. Antônio Aguiar
+48294,Dr Antônio Aguiar
 50806,Executivo
 50803,Executivo
 50804,Executivo
@@ -4697,7 +4719,7 @@ id_projeto_camara,nome_autor
 50900,André Mariano
 50899,André Mariano
 50898,Vagner de Oliveira
-50926,Dr. Fiorilo
+50926,Dr Fiorilo
 50928,Wanderson Castelar
 50927,Júlio Gasparette
 50875,Júlio Gasparette
@@ -4758,7 +4780,7 @@ id_projeto_camara,nome_autor
 50930,Cido Reis
 50929,Cido Reis
 50816,Wanderson Castelar
-50815,Dr. Fiorilo
+50815,Dr Fiorilo
 50948,Chico Evangelista
 50862,Júlio Gasparette
 50861,Júlio Gasparette
@@ -4814,13 +4836,13 @@ id_projeto_camara,nome_autor
 50766,Luiz Otávio Fernandes Coelho - Pardal
 50765,Zé Márcio
 50764,Zé Márcio
-50761,Dr. Fiorilo
-50760,Dr. Fiorilo
-50759,Dr. Fiorilo
-50758,Dr. Fiorilo
-50763,Dr. Antônio Aguiar
-50762,Dr. Antônio Aguiar
-50733,Dr. Fiorilo
+50761,Dr Fiorilo
+50760,Dr Fiorilo
+50759,Dr Fiorilo
+50758,Dr Fiorilo
+50763,Dr Antônio Aguiar
+50762,Dr Antônio Aguiar
+50733,Dr Fiorilo
 50753,Júlio Gasparette
 50752,Júlio Gasparette
 50751,Júlio Gasparette
@@ -4846,7 +4868,7 @@ id_projeto_camara,nome_autor
 50727,Jucelio
 50726,Jucelio
 50731,Chico Evangelista
-50732,Dr. Fiorilo
+50732,Dr Fiorilo
 50734,Betão
 51731,Betão
 50714,Wanderson Castelar
@@ -4861,10 +4883,10 @@ id_projeto_camara,nome_autor
 50708,Jucelio
 50707,Jucelio
 50706,Jucelio
-50725,Dr. Fiorilo
-50724,Dr. Fiorilo
-50723,Dr. Fiorilo
-50722,Dr. Fiorilo
+50725,Dr Fiorilo
+50724,Dr Fiorilo
+50723,Dr Fiorilo
+50722,Dr Fiorilo
 50710,André Mariano
 57504,Betão
 50658,Júlio Gasparette
@@ -4883,17 +4905,17 @@ id_projeto_camara,nome_autor
 50645,Júlio Gasparette
 50644,Júlio Gasparette
 50643,Júlio Gasparette
-50699,Dr. Antônio Aguiar
-50698,Dr. Antônio Aguiar
-50697,Dr. Antônio Aguiar
-50696,Dr. Antônio Aguiar
+50699,Dr Antônio Aguiar
+50698,Dr Antônio Aguiar
+50697,Dr Antônio Aguiar
+50696,Dr Antônio Aguiar
 50674,Oliveira Tresse
 50673,Oliveira Tresse
 50672,Oliveira Tresse
 50671,Zé Márcio
 50670,Zé Márcio
 50669,Zé Márcio
-50667,Dr. Fiorilo
+50667,Dr Fiorilo
 50668,Isauro Calais
 50695,Zé Márcio
 50694,Zé Márcio
@@ -4901,15 +4923,15 @@ id_projeto_camara,nome_autor
 50692,Luiz Otávio Fernandes Coelho - Pardal
 50691,Luiz Otávio Fernandes Coelho - Pardal
 50690,Luiz Otávio Fernandes Coelho - Pardal
-50688,Dr. Antônio Aguiar
-50687,Dr. Antônio Aguiar
+50688,Dr Antônio Aguiar
+50687,Dr Antônio Aguiar
 50686,Chico Evangelista
 50685,Chico Evangelista
 50811,Betão
-50684,Dr. Fiorilo
-50683,Dr. Fiorilo
-50682,Dr. Fiorilo
-50681,Dr. Fiorilo
+50684,Dr Fiorilo
+50683,Dr Fiorilo
+50682,Dr Fiorilo
+50681,Dr Fiorilo
 50660,Chico Evangelista
 50659,Chico Evangelista
 50662,Betão
@@ -4925,7 +4947,7 @@ id_projeto_camara,nome_autor
 50634,Chico Evangelista
 50633,Chico Evangelista
 50632,Chico Evangelista
-50631,Dr. Fiorilo
+50631,Dr Fiorilo
 50680,Oliveira Tresse
 50679,Oliveira Tresse
 50678,Oliveira Tresse
@@ -4942,7 +4964,7 @@ id_projeto_camara,nome_autor
 50625,Zé Márcio
 50624,Betão
 50623,Vagner de Oliveira
-50812,Dr. Antônio Aguiar
+50812,Dr Antônio Aguiar
 50599,Cido Reis
 50600,Isauro Calais
 50590,Luiz Otávio Fernandes Coelho - Pardal
@@ -4978,17 +5000,17 @@ id_projeto_camara,nome_autor
 50580,Chico Evangelista
 50572,Oliveira Tresse
 50571,Zé Márcio
-50571, Jucelio
+50571,Jucelio
 50601,Jucelio
 50957,Zé Márcio
-50563,Dr. Antônio Aguiar
-50563, Dr. Fiorilo
-50563, Noraldino Júnior
-50563, Wanderson Castelar
-50551,Dr. Antônio Aguiar
-50551, Dr. Fiorilo
-50551, Noraldino Júnior
-50551, Wanderson Castelar
+50563,Dr Antônio Aguiar
+50563,Dr Fiorilo
+50563,Noraldino Júnior
+50563,Wanderson Castelar
+50551,Dr Antônio Aguiar
+50551,Dr Fiorilo
+50551,Noraldino Júnior
+50551,Wanderson Castelar
 50553,Wanderson Castelar
 50552,Wanderson Castelar
 50558,Luiz Otávio Fernandes Coelho - Pardal
@@ -4997,16 +5019,16 @@ id_projeto_camara,nome_autor
 50555,Luiz Otávio Fernandes Coelho - Pardal
 50554,Luiz Otávio Fernandes Coelho - Pardal
 50549,Zé Márcio
-50548,Dr. Fiorilo
-50547,Dr. Fiorilo
-50546,Dr. Antônio Aguiar
+50548,Dr Fiorilo
+50547,Dr Fiorilo
+50546,Dr Antônio Aguiar
 50545,Chico Evangelista
 50527,Noraldino Júnior
 50526,Cido Reis
 50525,Cido Reis
 50524,Cido Reis
 50523,Cido Reis
-50523, Cido Reis
+50523,Cido Reis
 50522,Cido Reis
 50521,Cido Reis
 50520,Cido Reis
@@ -5027,7 +5049,7 @@ id_projeto_camara,nome_autor
 50466,Nilton Militão
 50465,Nilton Militão
 50439,Júlio Gasparette
-50444,Dr. Fiorilo
+50444,Dr Fiorilo
 50442,Luiz Otávio Fernandes Coelho - Pardal
 50536,André Mariano
 50541,Isauro Calais
@@ -5056,11 +5078,11 @@ id_projeto_camara,nome_autor
 50483,Júlio Gasparette
 50482,Júlio Gasparette
 50480,Júlio Gasparette
-50433,Dr. Fiorilo
-50432,Dr. Fiorilo
-50431,Dr. Fiorilo
-50430,Dr. Fiorilo
-50429,Dr. Fiorilo
+50433,Dr Fiorilo
+50432,Dr Fiorilo
+50431,Dr Fiorilo
+50430,Dr Fiorilo
+50429,Dr Fiorilo
 50428,Luiz Otávio Fernandes Coelho - Pardal
 50427,Luiz Otávio Fernandes Coelho - Pardal
 50411,Rodrigo Mattos
@@ -5101,7 +5123,7 @@ id_projeto_camara,nome_autor
 50481,Noraldino Júnior
 50479,Noraldino Júnior
 50478,Júlio Gasparette
-50478, Noraldino Júnior
+50478,Noraldino Júnior
 50477,Noraldino Júnior
 50475,Noraldino Júnior
 50473,Noraldino Júnior
@@ -5138,12 +5160,12 @@ id_projeto_camara,nome_autor
 50377,Chico Evangelista
 50426,Nilton Militão
 50425,Nilton Militão
-50376,Dr. Fiorilo
-50375,Dr. Fiorilo
-50374,Dr. Fiorilo
-50373,Dr. Fiorilo
-50372,Dr. Fiorilo
-50371,Dr. Fiorilo
+50376,Dr Fiorilo
+50375,Dr Fiorilo
+50374,Dr Fiorilo
+50373,Dr Fiorilo
+50372,Dr Fiorilo
+50371,Dr Fiorilo
 50424,Luiz Otávio Fernandes Coelho - Pardal
 50423,Luiz Otávio Fernandes Coelho - Pardal
 50422,Luiz Otávio Fernandes Coelho - Pardal
@@ -5227,9 +5249,9 @@ id_projeto_camara,nome_autor
 50273,Oliveira Tresse
 50267,Luiz Otávio Fernandes Coelho - Pardal
 50266,Luiz Otávio Fernandes Coelho - Pardal
-50270,Dr. Fiorilo
-50269,Dr. Fiorilo
-50268,Dr. Fiorilo
+50270,Dr Fiorilo
+50269,Dr Fiorilo
+50268,Dr Fiorilo
 50271,Wanderson Castelar
 50272,Vagner de Oliveira
 50320,Betão
@@ -5260,8 +5282,8 @@ id_projeto_camara,nome_autor
 50262,Nilton Militão
 50261,Nilton Militão
 50260,Nilton Militão
-50255,Dr. Fiorilo
-50254,Dr. Fiorilo
+50255,Dr Fiorilo
+50254,Dr Fiorilo
 50253,Isauro Calais
 50252,Isauro Calais
 50251,Isauro Calais
@@ -5277,26 +5299,26 @@ id_projeto_camara,nome_autor
 50322,Jucelio
 50321,Jucelio
 50190,Zé Márcio
-50189,Dr. Fiorilo
+50189,Dr Fiorilo
 50201,Ana Rossignoli
-50201, André Mariano
-50201, Dr. Antônio Aguiar
-50201, Cido Reis
-50201, Chico Evangelista
-50201, Vagner de Oliveira
-50201, Isauro Calais
-50201, Dr. Fiorilo
-50201, Zé Márcio
-50201, João do Joaninho
-50201, Jucelio
-50201, Júlio Gasparette
-50201, Luiz Otávio Fernandes Coelho - Pardal
-50201, Nilton Militão
-50201, Noraldino Júnior
-50201, Oliveira Tresse
-50201, Betão
-50201, Rodrigo Mattos
-50201, Wanderson Castelar
+50201,André Mariano
+50201,Dr Antônio Aguiar
+50201,Cido Reis
+50201,Chico Evangelista
+50201,Vagner de Oliveira
+50201,Isauro Calais
+50201,Dr Fiorilo
+50201,Zé Márcio
+50201,João do Joaninho
+50201,Jucelio
+50201,Júlio Gasparette
+50201,Luiz Otávio Fernandes Coelho - Pardal
+50201,Nilton Militão
+50201,Noraldino Júnior
+50201,Oliveira Tresse
+50201,Betão
+50201,Rodrigo Mattos
+50201,Wanderson Castelar
 50203,Wanderson Castelar
 50202,Wanderson Castelar
 50175,Jucelio
@@ -5338,10 +5360,10 @@ id_projeto_camara,nome_autor
 50179,Noraldino Júnior
 50178,Noraldino Júnior
 50177,Noraldino Júnior
-50145,Dr. Fiorilo
-50144,Dr. Fiorilo
-50142,Dr. Fiorilo
-50141,Dr. Fiorilo
+50145,Dr Fiorilo
+50144,Dr Fiorilo
+50142,Dr Fiorilo
+50141,Dr Fiorilo
 50163,Cido Reis
 50161,Cido Reis
 50158,Cido Reis
@@ -5352,8 +5374,8 @@ id_projeto_camara,nome_autor
 50148,Cido Reis
 50146,Cido Reis
 50143,Cido Reis
-50140,Dr. Antônio Aguiar
-50137,Dr. Antônio Aguiar
+50140,Dr Antônio Aguiar
+50137,Dr Antônio Aguiar
 50139,Ana Rossignoli
 50138,Ana Rossignoli
 50136,André Mariano
@@ -5390,12 +5412,12 @@ id_projeto_camara,nome_autor
 50116,Vagner de Oliveira
 50124,Jucelio
 50123,Jucelio
-50129,Dr. Fiorilo
-50133,Dr. Fiorilo
-50128,Dr. Fiorilo
-50127,Dr. Fiorilo
-50126,Dr. Fiorilo
-50125,Dr. Fiorilo
+50129,Dr Fiorilo
+50133,Dr Fiorilo
+50128,Dr Fiorilo
+50127,Dr Fiorilo
+50126,Dr Fiorilo
+50125,Dr Fiorilo
 50087,Zé Márcio
 50086,Zé Márcio
 50085,Zé Márcio
@@ -5413,17 +5435,17 @@ id_projeto_camara,nome_autor
 50068,Betão
 50069,Luiz Otávio Fernandes Coelho - Pardal
 50079,Chico Evangelista
-50079, Nilton Militão
-50079, Betão
-50079, Rodrigo Mattos
+50079,Nilton Militão
+50079,Betão
+50079,Rodrigo Mattos
 49847,Noraldino Júnior
 50011,Nilton Militão
 50010,Nilton Militão
 49982,Luiz Otávio Fernandes Coelho - Pardal
 49981,Luiz Otávio Fernandes Coelho - Pardal
-49968,Dr. Fiorilo
-49967,Dr. Fiorilo
-49966,Dr. Fiorilo
+49968,Dr Fiorilo
+49967,Dr Fiorilo
+49966,Dr Fiorilo
 49942,Wanderson Castelar
 49941,Betão
 49945,Oliveira Tresse
@@ -5546,7 +5568,7 @@ id_projeto_camara,nome_autor
 49815,Betão
 49814,Betão
 49813,Betão
-49813, Betão
+49813,Betão
 49957,Oliveira Tresse
 49956,Oliveira Tresse
 49955,Oliveira Tresse
@@ -5573,7 +5595,7 @@ id_projeto_camara,nome_autor
 49938,João do Joaninho
 49937,João do Joaninho
 49936,João do Joaninho
-49980,Dr. Fiorilo
+49980,Dr Fiorilo
 49903,Júlio Gasparette
 49902,Júlio Gasparette
 49900,Júlio Gasparette
@@ -5614,9 +5636,9 @@ id_projeto_camara,nome_autor
 49762,Júlio Gasparette
 49761,Júlio Gasparette
 49760,Júlio Gasparette
-49979,Dr. Fiorilo
-49978,Dr. Fiorilo
-49977,Dr. Fiorilo
+49979,Dr Fiorilo
+49978,Dr Fiorilo
+49977,Dr Fiorilo
 49827,Wanderson Castelar
 49811,Betão
 49996,Chico Evangelista
@@ -5657,7 +5679,7 @@ id_projeto_camara,nome_autor
 50040,Noraldino Júnior
 50076,Noraldino Júnior
 50074,Noraldino Júnior
-50074, Noraldino Júnior
+50074,Noraldino Júnior
 49984,Luiz Otávio Fernandes Coelho - Pardal
 49983,Luiz Otávio Fernandes Coelho - Pardal
 49992,Jucelio
@@ -5667,14 +5689,14 @@ id_projeto_camara,nome_autor
 49988,Jucelio
 49987,Jucelio
 49986,Jucelio
-49976,Dr. Fiorilo
-49975,Dr. Fiorilo
-49974,Dr. Fiorilo
-49973,Dr. Fiorilo
-49972,Dr. Fiorilo
-49971,Dr. Fiorilo
-49970,Dr. Fiorilo
-49969,Dr. Fiorilo
+49976,Dr Fiorilo
+49975,Dr Fiorilo
+49974,Dr Fiorilo
+49973,Dr Fiorilo
+49972,Dr Fiorilo
+49971,Dr Fiorilo
+49970,Dr Fiorilo
+49969,Dr Fiorilo
 50001,Chico Evangelista
 50000,Chico Evangelista
 49999,Chico Evangelista
@@ -5685,34 +5707,34 @@ id_projeto_camara,nome_autor
 49798,Cido Reis
 49944,Zé Márcio
 49703,Chico Evangelista
-49703, Dr. Fiorilo
-49703, Zé Márcio
-49703, Jucelio
-49703, Noraldino Júnior
+49703,Dr Fiorilo
+49703,Zé Márcio
+49703,Jucelio
+49703,Noraldino Júnior
 49702,Chico Evangelista
-49702, Dr. Fiorilo
-49702, Zé Márcio
-49702, Jucelio
-49702, Noraldino Júnior
+49702,Dr Fiorilo
+49702,Zé Márcio
+49702,Jucelio
+49702,Noraldino Júnior
 49711,Ana Rossignoli
-49711, André Mariano
-49711, Dr. Antônio Aguiar
-49711, Cido Reis
-49711, Chico Evangelista
-49711, Vagner de Oliveira
-49711, Isauro Calais
-49711, Dr. Fiorilo
-49711, Zé Márcio
-49711, João do Joaninho
-49711, Jucelio
-49711, Júlio Gasparette
-49711, Luiz Otávio Fernandes Coelho - Pardal
-49711, Nilton Militão
-49711, Noraldino Júnior
-49711, Oliveira Tresse
-49711, Betão
-49711, Rodrigo Mattos
-49711, Wanderson Castelar
+49711,André Mariano
+49711,Dr Antônio Aguiar
+49711,Cido Reis
+49711,Chico Evangelista
+49711,Vagner de Oliveira
+49711,Isauro Calais
+49711,Dr Fiorilo
+49711,Zé Márcio
+49711,João do Joaninho
+49711,Jucelio
+49711,Júlio Gasparette
+49711,Luiz Otávio Fernandes Coelho - Pardal
+49711,Nilton Militão
+49711,Noraldino Júnior
+49711,Oliveira Tresse
+49711,Betão
+49711,Rodrigo Mattos
+49711,Wanderson Castelar
 49700,Júlio Gasparette
 49699,Júlio Gasparette
 49698,Júlio Gasparette
@@ -5777,7 +5799,7 @@ id_projeto_camara,nome_autor
 49677,Júlio Gasparette
 49676,Júlio Gasparette
 50319,Jucelio
-49675,Dr. Fiorilo
+49675,Dr Fiorilo
 49720,Júlio Gasparette
 49641,Betão
 49640,Betão
@@ -5822,14 +5844,14 @@ id_projeto_camara,nome_autor
 49545,Jucelio
 49537,Jucelio
 49533,Jucelio
-49577,Dr. Fiorilo
-49576,Dr. Fiorilo
-49575,Dr. Fiorilo
-49574,Dr. Fiorilo
-49573,Dr. Fiorilo
-49572,Dr. Fiorilo
-49569,Dr. Fiorilo
-49568,Dr. Fiorilo
+49577,Dr Fiorilo
+49576,Dr Fiorilo
+49575,Dr Fiorilo
+49574,Dr Fiorilo
+49573,Dr Fiorilo
+49572,Dr Fiorilo
+49569,Dr Fiorilo
+49568,Dr Fiorilo
 49571,Oliveira Tresse
 49570,Oliveira Tresse
 49567,Oliveira Tresse
@@ -5859,8 +5881,8 @@ id_projeto_camara,nome_autor
 49588,Nilton Militão
 49587,Nilton Militão
 49586,Nilton Militão
-49585,Dr. Fiorilo
-49584,Dr. Fiorilo
+49585,Dr Fiorilo
+49584,Dr Fiorilo
 49583,André Mariano
 49582,André Mariano
 49581,André Mariano
@@ -5907,18 +5929,18 @@ id_projeto_camara,nome_autor
 49487,Zé Márcio
 49482,Zé Márcio
 49477,Zé Márcio
-49500,Dr. Fiorilo
-49498,Dr. Fiorilo
-49494,Dr. Fiorilo
-49488,Dr. Fiorilo
-49485,Dr. Fiorilo
-49483,Dr. Fiorilo
-49481,Dr. Fiorilo
-49479,Dr. Fiorilo
-49476,Dr. Fiorilo
-49474,Dr. Fiorilo
-49471,Dr. Fiorilo
-49466,Dr. Fiorilo
+49500,Dr Fiorilo
+49498,Dr Fiorilo
+49494,Dr Fiorilo
+49488,Dr Fiorilo
+49485,Dr Fiorilo
+49483,Dr Fiorilo
+49481,Dr Fiorilo
+49479,Dr Fiorilo
+49476,Dr Fiorilo
+49474,Dr Fiorilo
+49471,Dr Fiorilo
+49466,Dr Fiorilo
 49472,Chico Evangelista
 49467,Chico Evangelista
 49464,Chico Evangelista
@@ -5933,9 +5955,9 @@ id_projeto_camara,nome_autor
 49454,Cido Reis
 49450,Cido Reis
 49446,Cido Reis
-49444,Dr. Antônio Aguiar
-49442,Dr. Antônio Aguiar
-49441,Dr. Antônio Aguiar
+49444,Dr Antônio Aguiar
+49442,Dr Antônio Aguiar
+49441,Dr Antônio Aguiar
 49515,André Mariano
 49514,André Mariano
 49513,André Mariano
@@ -5943,7 +5965,7 @@ id_projeto_camara,nome_autor
 49511,André Mariano
 49508,Betão
 49510,Isauro Calais
-49525,Dr. Antônio Aguiar
+49525,Dr Antônio Aguiar
 49196,Júlio Gasparette
 49195,Júlio Gasparette
 49194,Júlio Gasparette
@@ -5998,7 +6020,7 @@ id_projeto_camara,nome_autor
 49045,Cido Reis
 48941,Wanderson Castelar
 49000,Zé Márcio
-48990,Dr. Fiorilo
+48990,Dr Fiorilo
 48911,Ana Rossignoli
 48938,Vagner de Oliveira
 48937,Vagner de Oliveira
@@ -6034,34 +6056,34 @@ id_projeto_camara,nome_autor
 49002,Zé Márcio
 49001,Zé Márcio
 48918,Jucelio
-48989,Dr. Fiorilo
+48989,Dr Fiorilo
 48924,André Mariano
-48994,Dr. Fiorilo
-48993,Dr. Fiorilo
-48992,Dr. Fiorilo
-48991,Dr. Fiorilo
+48994,Dr Fiorilo
+48993,Dr Fiorilo
+48992,Dr Fiorilo
+48991,Dr Fiorilo
 48940,Wanderson Castelar
 49027,Chico Evangelista
 48957,Luiz Otávio Fernandes Coelho - Pardal
 48956,Luiz Otávio Fernandes Coelho - Pardal
 48955,Luiz Otávio Fernandes Coelho - Pardal
 48954,Luiz Otávio Fernandes Coelho - Pardal
-48976,Dr. Antônio Aguiar
-48975,Dr. Antônio Aguiar
-48974,Dr. Antônio Aguiar
-48973,Dr. Antônio Aguiar
+48976,Dr Antônio Aguiar
+48975,Dr Antônio Aguiar
+48974,Dr Antônio Aguiar
+48973,Dr Antônio Aguiar
 48916,André Mariano
-48916, Dr. Antônio Aguiar
-48916, Noraldino Júnior
-48916, Rodrigo Mattos
+48916,Dr Antônio Aguiar
+48916,Noraldino Júnior
+48916,Rodrigo Mattos
 48914,André Mariano
-48914, Dr. Antônio Aguiar
-48914, Noraldino Júnior
-48914, Rodrigo Mattos
+48914,Dr Antônio Aguiar
+48914,Noraldino Júnior
+48914,Rodrigo Mattos
 48912,André Mariano
-48912, Dr. Antônio Aguiar
-48912, Noraldino Júnior
-48912, Rodrigo Mattos
+48912,Dr Antônio Aguiar
+48912,Noraldino Júnior
+48912,Rodrigo Mattos
 49163,Júlio Gasparette
 49162,Júlio Gasparette
 49161,Júlio Gasparette
@@ -6086,11 +6108,11 @@ id_projeto_camara,nome_autor
 48949,Luiz Otávio Fernandes Coelho - Pardal
 48948,Luiz Otávio Fernandes Coelho - Pardal
 48947,Luiz Otávio Fernandes Coelho - Pardal
-49014,Dr. Fiorilo
-49011,Dr. Fiorilo
-49009,Dr. Fiorilo
-49007,Dr. Fiorilo
-49005,Dr. Fiorilo
+49014,Dr Fiorilo
+49011,Dr Fiorilo
+49009,Dr Fiorilo
+49007,Dr Fiorilo
+49005,Dr Fiorilo
 49030,Chico Evangelista
 49113,Júlio Gasparette
 49110,Júlio Gasparette
@@ -6124,8 +6146,8 @@ id_projeto_camara,nome_autor
 48960,Noraldino Júnior
 48959,Noraldino Júnior
 48958,Noraldino Júnior
-48997,Dr. Fiorilo
-48996,Dr. Fiorilo
+48997,Dr Fiorilo
+48996,Dr Fiorilo
 49029,Chico Evangelista
 49028,Chico Evangelista
 49065,Cido Reis
@@ -6140,16 +6162,16 @@ id_projeto_camara,nome_autor
 48972,Noraldino Júnior
 48970,Noraldino Júnior
 48969,Noraldino Júnior
-48988,Dr. Fiorilo
-48987,Dr. Fiorilo
-48986,Dr. Fiorilo
-48985,Dr. Fiorilo
-48984,Dr. Fiorilo
-48983,Dr. Fiorilo
-48982,Dr. Fiorilo
-48981,Dr. Fiorilo
-48980,Dr. Fiorilo
-48979,Dr. Fiorilo
+48988,Dr Fiorilo
+48987,Dr Fiorilo
+48986,Dr Fiorilo
+48985,Dr Fiorilo
+48984,Dr Fiorilo
+48983,Dr Fiorilo
+48982,Dr Fiorilo
+48981,Dr Fiorilo
+48980,Dr Fiorilo
+48979,Dr Fiorilo
 49020,Chico Evangelista
 49018,Chico Evangelista
 49017,Chico Evangelista
@@ -6166,8 +6188,8 @@ id_projeto_camara,nome_autor
 49033,Cido Reis
 49032,Cido Reis
 49031,Cido Reis
-48978,Dr. Antônio Aguiar
-48977,Dr. Antônio Aguiar
+48978,Dr Antônio Aguiar
+48977,Dr Antônio Aguiar
 48939,Vagner de Oliveira
 48797,Wanderson Castelar
 48796,Wanderson Castelar
@@ -6180,14 +6202,14 @@ id_projeto_camara,nome_autor
 49199,Noraldino Júnior
 49198,Noraldino Júnior
 49197,Noraldino Júnior
-48687,Dr. Fiorilo
-48686,Dr. Fiorilo
+48687,Dr Fiorilo
+48686,Dr Fiorilo
 48650,Chico Evangelista
 48649,Chico Evangelista
-48800,Dr. Antônio Aguiar
-48799,Dr. Antônio Aguiar
+48800,Dr Antônio Aguiar
+48799,Dr Antônio Aguiar
 48658,Jucelio
-48658, Júlio Gasparette
+48658,Júlio Gasparette
 48822,Betão
 48791,Wanderson Castelar
 48919,Júlio Gasparette
@@ -6214,7 +6236,7 @@ id_projeto_camara,nome_autor
 48668,André Mariano
 48663,Jucelio
 48825,Zé Márcio
-48682,Dr. Fiorilo
+48682,Dr Fiorilo
 48642,Isauro Calais
 49209,Noraldino Júnior
 49208,Noraldino Júnior
@@ -6245,47 +6267,47 @@ id_projeto_camara,nome_autor
 48877,Luiz Otávio Fernandes Coelho - Pardal
 48876,Júlio Gasparette
 48875,Júlio Gasparette
-48875, Júlio Gasparette
+48875,Júlio Gasparette
 48921,Júlio Gasparette
 48807,Ana Rossignoli
-48807, André Mariano
-48807, Dr. Antônio Aguiar
-48807, Cido Reis
-48807, Chico Evangelista
-48807, Vagner de Oliveira
-48807, Isauro Calais
-48807, Dr. Fiorilo
-48807, Zé Márcio
-48807, João do Joaninho
-48807, Jucelio
-48807, Júlio Gasparette
-48807, Luiz Otávio Fernandes Coelho - Pardal
-48807, Nilton Militão
-48807, Noraldino Júnior
-48807, Oliveira Tresse
-48807, Betão
-48807, Rodrigo Mattos
-48807, Wanderson Castelar
+48807,André Mariano
+48807,Dr Antônio Aguiar
+48807,Cido Reis
+48807,Chico Evangelista
+48807,Vagner de Oliveira
+48807,Isauro Calais
+48807,Dr Fiorilo
+48807,Zé Márcio
+48807,João do Joaninho
+48807,Jucelio
+48807,Júlio Gasparette
+48807,Luiz Otávio Fernandes Coelho - Pardal
+48807,Nilton Militão
+48807,Noraldino Júnior
+48807,Oliveira Tresse
+48807,Betão
+48807,Rodrigo Mattos
+48807,Wanderson Castelar
 48806,Ana Rossignoli
-48806, André Mariano
-48806, Dr. Antônio Aguiar
-48806, Cido Reis
-48806, Executivo
-48806, Chico Evangelista
-48806, Vagner de Oliveira
-48806, Isauro Calais
-48806, Dr. Fiorilo
-48806, Zé Márcio
-48806, João do Joaninho
-48806, Jucelio
-48806, Júlio Gasparette
-48806, Luiz Otávio Fernandes Coelho - Pardal
-48806, Nilton Militão
-48806, Noraldino Júnior
-48806, Oliveira Tresse
-48806, Betão
-48806, Rodrigo Mattos
-48806, Wanderson Castelar
+48806,André Mariano
+48806,Dr Antônio Aguiar
+48806,Cido Reis
+48806,Executivo
+48806,Chico Evangelista
+48806,Vagner de Oliveira
+48806,Isauro Calais
+48806,Dr Fiorilo
+48806,Zé Márcio
+48806,João do Joaninho
+48806,Jucelio
+48806,Júlio Gasparette
+48806,Luiz Otávio Fernandes Coelho - Pardal
+48806,Nilton Militão
+48806,Noraldino Júnior
+48806,Oliveira Tresse
+48806,Betão
+48806,Rodrigo Mattos
+48806,Wanderson Castelar
 48641,Nilton Militão
 48639,Nilton Militão
 48646,Isauro Calais
@@ -6296,7 +6318,7 @@ id_projeto_camara,nome_autor
 48665,Cido Reis
 48664,Cido Reis
 48831,Zé Márcio
-48676,Dr. Fiorilo
+48676,Dr Fiorilo
 48874,Júlio Gasparette
 48873,Júlio Gasparette
 48872,Júlio Gasparette
@@ -6326,9 +6348,9 @@ id_projeto_camara,nome_autor
 48657,Luiz Otávio Fernandes Coelho - Pardal
 48656,Luiz Otávio Fernandes Coelho - Pardal
 48655,Luiz Otávio Fernandes Coelho - Pardal
-48685,Dr. Fiorilo
-48684,Dr. Fiorilo
-48683,Dr. Fiorilo
+48685,Dr Fiorilo
+48684,Dr Fiorilo
+48683,Dr Fiorilo
 48830,Zé Márcio
 48829,Zé Márcio
 48828,Zé Márcio
@@ -6376,7 +6398,7 @@ id_projeto_camara,nome_autor
 48396,André Mariano
 48395,André Mariano
 48425,Jucelio
-48261,Dr. Fiorilo
+48261,Dr Fiorilo
 48253,Luiz Otávio Fernandes Coelho - Pardal
 48501,Noraldino Júnior
 48500,Noraldino Júnior
@@ -6404,7 +6426,7 @@ id_projeto_camara,nome_autor
 48443,Cido Reis
 48442,Cido Reis
 48441,Cido Reis
-48260,Dr. Fiorilo
+48260,Dr Fiorilo
 48255,Isauro Calais
 48254,Chico Evangelista
 48394,André Mariano
@@ -6441,12 +6463,12 @@ id_projeto_camara,nome_autor
 48483,Zé Márcio
 48358,Isauro Calais
 48357,Isauro Calais
-48300,Dr. Antônio Aguiar
-48299,Dr. Antônio Aguiar
+48300,Dr Antônio Aguiar
+48299,Dr Antônio Aguiar
 48204,Ana Rossignoli
 48203,Ana Rossignoli
 48341,Oliveira Tresse
-48621,Dr. Fiorilo
+48621,Dr Fiorilo
 48368,Cido Reis
 47990,André Mariano
 48666,Jucelio
@@ -6462,35 +6484,35 @@ id_projeto_camara,nome_autor
 48207,Luiz Otávio Fernandes Coelho - Pardal
 48206,Luiz Otávio Fernandes Coelho - Pardal
 48205,Luiz Otávio Fernandes Coelho - Pardal
-48620,Dr. Fiorilo
-48619,Dr. Fiorilo
-48618,Dr. Fiorilo
-48617,Dr. Fiorilo
+48620,Dr Fiorilo
+48619,Dr Fiorilo
+48618,Dr Fiorilo
+48617,Dr Fiorilo
 48507,Chico Evangelista
 48506,Chico Evangelista
 48379,Cido Reis
 48378,Cido Reis
 48369,Cido Reis
-48279,Dr. Antônio Aguiar
+48279,Dr Antônio Aguiar
 48344,Ana Rossignoli
-48344, André Mariano
-48344, Dr. Antônio Aguiar
-48344, Cido Reis
-48344, Chico Evangelista
-48344, Vagner de Oliveira
-48344, Isauro Calais
-48344, Dr. Fiorilo
-48344, Zé Márcio
-48344, João do Joaninho
-48344, Jucelio
-48344, Júlio Gasparette
-48344, Luiz Otávio Fernandes Coelho - Pardal
-48344, Nilton Militão
-48344, Noraldino Júnior
-48344, Oliveira Tresse
-48344, Betão
-48344, Rodrigo Mattos
-48344, Wanderson Castelar
+48344,André Mariano
+48344,Dr Antônio Aguiar
+48344,Cido Reis
+48344,Chico Evangelista
+48344,Vagner de Oliveira
+48344,Isauro Calais
+48344,Dr Fiorilo
+48344,Zé Márcio
+48344,João do Joaninho
+48344,Jucelio
+48344,Júlio Gasparette
+48344,Luiz Otávio Fernandes Coelho - Pardal
+48344,Nilton Militão
+48344,Noraldino Júnior
+48344,Oliveira Tresse
+48344,Betão
+48344,Rodrigo Mattos
+48344,Wanderson Castelar
 48681,Jucelio
 48230,André Mariano
 48572,Júlio Gasparette
@@ -6568,7 +6590,7 @@ id_projeto_camara,nome_autor
 48409,Cido Reis
 48408,Cido Reis
 48424,Zé Márcio
-48278,Dr. Antônio Aguiar
+48278,Dr Antônio Aguiar
 47993,Júlio Gasparette
 48782,Noraldino Júnior
 48780,Noraldino Júnior
@@ -6663,10 +6685,10 @@ id_projeto_camara,nome_autor
 48528,Chico Evangelista
 48510,Chico Evangelista
 48210,Luiz Otávio Fernandes Coelho - Pardal
-48622,Dr. Fiorilo
+48622,Dr Fiorilo
 48198,André Mariano
 47989,Wanderson Castelar
-47922,Dr. Fiorilo
+47922,Dr Fiorilo
 48553,Júlio Gasparette
 48552,Júlio Gasparette
 48551,Júlio Gasparette
@@ -6704,8 +6726,8 @@ id_projeto_camara,nome_autor
 48662,Jucelio
 48661,Jucelio
 48660,Jucelio
-48616,Dr. Fiorilo
-48615,Dr. Fiorilo
+48616,Dr Fiorilo
+48615,Dr Fiorilo
 48437,Zé Márcio
 48436,Zé Márcio
 48435,Zé Márcio
@@ -6778,25 +6800,25 @@ id_projeto_camara,nome_autor
 48413,Zé Márcio
 48412,Zé Márcio
 48411,Zé Márcio
-48614,Dr. Fiorilo
-48613,Dr. Fiorilo
-48612,Dr. Fiorilo
-48610,Dr. Fiorilo
-48608,Dr. Fiorilo
-48607,Dr. Fiorilo
-48605,Dr. Fiorilo
-48604,Dr. Fiorilo
-48603,Dr. Fiorilo
-48602,Dr. Fiorilo
-48601,Dr. Fiorilo
-48600,Dr. Fiorilo
-48599,Dr. Fiorilo
+48614,Dr Fiorilo
+48613,Dr Fiorilo
+48612,Dr Fiorilo
+48610,Dr Fiorilo
+48608,Dr Fiorilo
+48607,Dr Fiorilo
+48605,Dr Fiorilo
+48604,Dr Fiorilo
+48603,Dr Fiorilo
+48602,Dr Fiorilo
+48601,Dr Fiorilo
+48600,Dr Fiorilo
+48599,Dr Fiorilo
 48529,Chico Evangelista
 48487,Chico Evangelista
-48284,Dr. Antônio Aguiar
-48283,Dr. Antônio Aguiar
-48282,Dr. Antônio Aguiar
-48281,Dr. Antônio Aguiar
+48284,Dr Antônio Aguiar
+48283,Dr Antônio Aguiar
+48282,Dr Antônio Aguiar
+48281,Dr Antônio Aguiar
 48229,André Mariano
 48228,André Mariano
 48227,André Mariano
@@ -6807,45 +6829,45 @@ id_projeto_camara,nome_autor
 48193,Ana Rossignoli
 47892,Betão
 49225,Ana Rossignoli
-49225, André Mariano
-49225, Dr. Antônio Aguiar
-49225, Cido Reis
-49225, Chico Evangelista
-49225, Vagner de Oliveira
-49225, Isauro Calais
-49225, Dr. Fiorilo
-49225, Zé Márcio
-49225, João do Joaninho
-49225, Jucelio
-49225, Júlio Gasparette
-49225, Luiz Otávio Fernandes Coelho - Pardal
-49225, Nilton Militão
-49225, Noraldino Júnior
-49225, Oliveira Tresse
-49225, Betão
-49225, Rodrigo Mattos
-49225, Wanderson Castelar
+49225,André Mariano
+49225,Dr Antônio Aguiar
+49225,Cido Reis
+49225,Chico Evangelista
+49225,Vagner de Oliveira
+49225,Isauro Calais
+49225,Dr Fiorilo
+49225,Zé Márcio
+49225,João do Joaninho
+49225,Jucelio
+49225,Júlio Gasparette
+49225,Luiz Otávio Fernandes Coelho - Pardal
+49225,Nilton Militão
+49225,Noraldino Júnior
+49225,Oliveira Tresse
+49225,Betão
+49225,Rodrigo Mattos
+49225,Wanderson Castelar
 49226,Ana Rossignoli
-49226, André Mariano
-49226, Dr. Antônio Aguiar
-49226, Cido Reis
-49226, Chico Evangelista
-49226, Vagner de Oliveira
-49226, Isauro Calais
-49226, Dr. Fiorilo
-49226, Zé Márcio
-49226, João do Joaninho
-49226, Jucelio
-49226, Júlio Gasparette
-49226, Luiz Otávio Fernandes Coelho - Pardal
-49226, Nilton Militão
-49226, Noraldino Júnior
-49226, Oliveira Tresse
-49226, Betão
-49226, Rodrigo Mattos
-49226, Wanderson Castelar
+49226,André Mariano
+49226,Dr Antônio Aguiar
+49226,Cido Reis
+49226,Chico Evangelista
+49226,Vagner de Oliveira
+49226,Isauro Calais
+49226,Dr Fiorilo
+49226,Zé Márcio
+49226,João do Joaninho
+49226,Jucelio
+49226,Júlio Gasparette
+49226,Luiz Otávio Fernandes Coelho - Pardal
+49226,Nilton Militão
+49226,Noraldino Júnior
+49226,Oliveira Tresse
+49226,Betão
+49226,Rodrigo Mattos
+49226,Wanderson Castelar
 48037,Zé Márcio
-48037, Jucelio
+48037,Jucelio
 47986,Wanderson Castelar
 47985,Wanderson Castelar
 47984,Wanderson Castelar
@@ -6860,10 +6882,10 @@ id_projeto_camara,nome_autor
 47893,Betão
 47977,Luiz Otávio Fernandes Coelho - Pardal
 47976,Luiz Otávio Fernandes Coelho - Pardal
-48288,Dr. Antônio Aguiar
-48287,Dr. Antônio Aguiar
-48286,Dr. Antônio Aguiar
-48285,Dr. Antônio Aguiar
+48288,Dr Antônio Aguiar
+48287,Dr Antônio Aguiar
+48286,Dr Antônio Aguiar
+48285,Dr Antônio Aguiar
 48200,Ana Rossignoli
 48199,Ana Rossignoli
 48197,Ana Rossignoli
@@ -6898,7 +6920,7 @@ id_projeto_camara,nome_autor
 48634,Vagner de Oliveira
 48482,Zé Márcio
 48527,Chico Evangelista
-48298,Dr. Antônio Aguiar
+48298,Dr Antônio Aguiar
 48532,Chico Evangelista
 47891,Betão
 47890,Betão
@@ -6917,8 +6939,8 @@ id_projeto_camara,nome_autor
 48524,Chico Evangelista
 47885,Cido Reis
 47884,Cido Reis
-48297,Dr. Antônio Aguiar
-48296,Dr. Antônio Aguiar
+48297,Dr Antônio Aguiar
+48296,Dr Antônio Aguiar
 48252,Cido Reis
 48140,Noraldino Júnior
 48139,Noraldino Júnior
@@ -6945,7 +6967,7 @@ id_projeto_camara,nome_autor
 47939,Luiz Otávio Fernandes Coelho - Pardal
 47938,Luiz Otávio Fernandes Coelho - Pardal
 48628,Vagner de Oliveira
-47921,Dr. Fiorilo
+47921,Dr Fiorilo
 57500,Betão
 48016,Júlio Gasparette
 48015,Júlio Gasparette
@@ -6969,9 +6991,9 @@ id_projeto_camara,nome_autor
 48439,Zé Márcio
 47880,Cido Reis
 47879,Cido Reis
-48291,Dr. Antônio Aguiar
-48290,Dr. Antônio Aguiar
-48289,Dr. Antônio Aguiar
+48291,Dr Antônio Aguiar
+48290,Dr Antônio Aguiar
+48289,Dr Antônio Aguiar
 48202,Ana Rossignoli
 48201,Ana Rossignoli
 48788,Wanderson Castelar
@@ -7110,26 +7132,26 @@ id_projeto_camara,nome_autor
 48046,Jucelio
 48042,Jucelio
 48041,Jucelio
-47920,Dr. Fiorilo
-47919,Dr. Fiorilo
-47918,Dr. Fiorilo
-47917,Dr. Fiorilo
-47916,Dr. Fiorilo
-47915,Dr. Fiorilo
-47914,Dr. Fiorilo
-47913,Dr. Fiorilo
-47912,Dr. Fiorilo
-47911,Dr. Fiorilo
-47910,Dr. Fiorilo
-47909,Dr. Fiorilo
-47908,Dr. Fiorilo
-47907,Dr. Fiorilo
-47906,Dr. Fiorilo
-47905,Dr. Fiorilo
-47904,Dr. Fiorilo
-47903,Dr. Fiorilo
-47902,Dr. Fiorilo
-47901,Dr. Fiorilo
+47920,Dr Fiorilo
+47919,Dr Fiorilo
+47918,Dr Fiorilo
+47917,Dr Fiorilo
+47916,Dr Fiorilo
+47915,Dr Fiorilo
+47914,Dr Fiorilo
+47913,Dr Fiorilo
+47912,Dr Fiorilo
+47911,Dr Fiorilo
+47910,Dr Fiorilo
+47909,Dr Fiorilo
+47908,Dr Fiorilo
+47907,Dr Fiorilo
+47906,Dr Fiorilo
+47905,Dr Fiorilo
+47904,Dr Fiorilo
+47903,Dr Fiorilo
+47902,Dr Fiorilo
+47901,Dr Fiorilo
 48479,Zé Márcio
 48478,Zé Márcio
 48477,Zé Márcio
@@ -7159,9 +7181,9 @@ id_projeto_camara,nome_autor
 47883,Cido Reis
 47882,Cido Reis
 47881,Cido Reis
-48295,Dr. Antônio Aguiar
-48293,Dr. Antônio Aguiar
-48292,Dr. Antônio Aguiar
+48295,Dr Antônio Aguiar
+48293,Dr Antônio Aguiar
+48292,Dr Antônio Aguiar
 47857,André Mariano
 47856,André Mariano
 47855,André Mariano
@@ -7177,7 +7199,7 @@ id_projeto_camara,nome_autor
 48531,Chico Evangelista
 47325,Júlio Gasparette
 47323,Júlio Gasparette
-47323, Júlio Gasparette
+47323,Júlio Gasparette
 47322,Júlio Gasparette
 47321,Júlio Gasparette
 47320,Júlio Gasparette
@@ -7249,11 +7271,11 @@ id_projeto_camara,nome_autor
 47402,Nilton Militão
 47389,Luiz Otávio Fernandes Coelho - Pardal
 47387,Luiz Otávio Fernandes Coelho - Pardal
-47381,Dr. Fiorilo
-47379,Dr. Fiorilo
-47377,Dr. Fiorilo
-47375,Dr. Fiorilo
-47373,Dr. Fiorilo
+47381,Dr Fiorilo
+47379,Dr Fiorilo
+47377,Dr Fiorilo
+47375,Dr Fiorilo
+47373,Dr Fiorilo
 47370,Cido Reis
 47368,Cido Reis
 47366,Cido Reis
@@ -7269,36 +7291,36 @@ id_projeto_camara,nome_autor
 47342,André Mariano
 47341,André Mariano
 47334,Chico Evangelista
-47333,Dr. Antônio Aguiar
+47333,Dr Antônio Aguiar
 47331,Ana Rossignoli
-47331, André Mariano
-47331, Dr. Antônio Aguiar
-47331, Cido Reis
-47331, Chico Evangelista
-47331, Vagner de Oliveira
-47331, Isauro Calais
-47331, Dr. Fiorilo
-47331, Zé Márcio
-47331, João do Joaninho
-47331, Jucelio
-47331, Júlio Gasparette
-47331, Luiz Otávio Fernandes Coelho - Pardal
-47331, Nilton Militão
-47331, Noraldino Júnior
-47331, Oliveira Tresse
-47331, Betão
-47331, Rodrigo Mattos
-47331, Wanderson Castelar
+47331,André Mariano
+47331,Dr Antônio Aguiar
+47331,Cido Reis
+47331,Chico Evangelista
+47331,Vagner de Oliveira
+47331,Isauro Calais
+47331,Dr Fiorilo
+47331,Zé Márcio
+47331,João do Joaninho
+47331,Jucelio
+47331,Júlio Gasparette
+47331,Luiz Otávio Fernandes Coelho - Pardal
+47331,Nilton Militão
+47331,Noraldino Júnior
+47331,Oliveira Tresse
+47331,Betão
+47331,Rodrigo Mattos
+47331,Wanderson Castelar
 47329,Jucelio
 47303,Betão
-47287,Dr. Fiorilo
-47286,Dr. Fiorilo
-47285,Dr. Fiorilo
-47283,Dr. Fiorilo
-47281,Dr. Fiorilo
-47278,Dr. Fiorilo
-47273,Dr. Antônio Aguiar
-47276,Dr. Antônio Aguiar
+47287,Dr Fiorilo
+47286,Dr Fiorilo
+47285,Dr Fiorilo
+47283,Dr Fiorilo
+47281,Dr Fiorilo
+47278,Dr Fiorilo
+47273,Dr Antônio Aguiar
+47276,Dr Antônio Aguiar
 47264,Isauro Calais
 47263,Isauro Calais
 49224,André Mariano
@@ -7306,9 +7328,9 @@ id_projeto_camara,nome_autor
 47261,André Mariano
 47259,André Mariano
 47254,Ana Rossignoli
-47254, Vagner de Oliveira
-47254, Isauro Calais
-47254, Rodrigo Mattos
+47254,Vagner de Oliveira
+47254,Isauro Calais
+47254,Rodrigo Mattos
 47246,Ana Rossignoli
 47244,Ana Rossignoli
 47243,Ana Rossignoli
@@ -7333,8 +7355,8 @@ id_projeto_camara,nome_autor
 47205,Júlio Gasparette
 47991,Júlio Gasparette
 47204,Júlio Gasparette
-47200,Dr. Fiorilo
-47198,Dr. Fiorilo
+47200,Dr Fiorilo
+47198,Dr Fiorilo
 47560,Isauro Calais
 47559,Chico Evangelista
 47558,Nilton Militão
@@ -7348,9 +7370,9 @@ id_projeto_camara,nome_autor
 47589,Jucelio
 47588,Jucelio
 47587,Jucelio
-47567,Dr. Fiorilo
-47566,Dr. Fiorilo
-47565,Dr. Fiorilo
+47567,Dr Fiorilo
+47566,Dr Fiorilo
+47565,Dr Fiorilo
 47586,Cido Reis
 47585,Cido Reis
 47584,Cido Reis
@@ -7444,8 +7466,8 @@ id_projeto_camara,nome_autor
 47506,Vagner de Oliveira
 47505,Vagner de Oliveira
 47504,Vagner de Oliveira
-47594,Dr. Fiorilo
-47593,Dr. Fiorilo
+47594,Dr Fiorilo
+47593,Dr Fiorilo
 47619,Isauro Calais
 47618,Isauro Calais
 47627,André Mariano
@@ -7467,19 +7489,19 @@ id_projeto_camara,nome_autor
 47513,Luiz Otávio Fernandes Coelho - Pardal
 47510,Luiz Otávio Fernandes Coelho - Pardal
 47509,Luiz Otávio Fernandes Coelho - Pardal
-47581,Dr. Fiorilo
-47580,Dr. Fiorilo
-47579,Dr. Fiorilo
+47581,Dr Fiorilo
+47580,Dr Fiorilo
+47579,Dr Fiorilo
 47569,Chico Evangelista
 47686,Júlio Gasparette
 47684,Júlio Gasparette
 47683,Júlio Gasparette
-47683, Noraldino Júnior
+47683,Noraldino Júnior
 47661,Júlio Gasparette
-47661, Noraldino Júnior
+47661,Noraldino Júnior
 47660,Júlio Gasparette
-47656,Dr. Fiorilo
-47656, Júlio Gasparette
+47656,Dr Fiorilo
+47656,Júlio Gasparette
 47655,Júlio Gasparette
 47654,Júlio Gasparette
 47653,Júlio Gasparette
@@ -7527,12 +7549,12 @@ id_projeto_camara,nome_autor
 46983,Noraldino Júnior
 46980,Luiz Otávio Fernandes Coelho - Pardal
 46979,Luiz Otávio Fernandes Coelho - Pardal
-46982,Dr. Fiorilo
-46981,Dr. Fiorilo
+46982,Dr Fiorilo
+46981,Dr Fiorilo
 47640,Zé Márcio
 47639,Zé Márcio
-47699,Dr. Antônio Aguiar
-47697,Dr. Antônio Aguiar
+47699,Dr Antônio Aguiar
+47697,Dr Antônio Aguiar
 47577,Nilton Militão
 47576,Nilton Militão
 47575,Nilton Militão
@@ -7543,24 +7565,24 @@ id_projeto_camara,nome_autor
 47570,Nilton Militão
 49227,Jucelio
 49228,Jucelio
-47612,Dr. Fiorilo
-47611,Dr. Fiorilo
-47610,Dr. Fiorilo
-47609,Dr. Fiorilo
-47608,Dr. Fiorilo
-47607,Dr. Fiorilo
-47606,Dr. Fiorilo
-47605,Dr. Fiorilo
-47604,Dr. Fiorilo
-47603,Dr. Fiorilo
-47602,Dr. Fiorilo
-47601,Dr. Fiorilo
-47600,Dr. Fiorilo
-47599,Dr. Fiorilo
-47598,Dr. Fiorilo
-47597,Dr. Fiorilo
-47596,Dr. Fiorilo
-47595,Dr. Fiorilo
+47612,Dr Fiorilo
+47611,Dr Fiorilo
+47610,Dr Fiorilo
+47609,Dr Fiorilo
+47608,Dr Fiorilo
+47607,Dr Fiorilo
+47606,Dr Fiorilo
+47605,Dr Fiorilo
+47604,Dr Fiorilo
+47603,Dr Fiorilo
+47602,Dr Fiorilo
+47601,Dr Fiorilo
+47600,Dr Fiorilo
+47599,Dr Fiorilo
+47598,Dr Fiorilo
+47597,Dr Fiorilo
+47596,Dr Fiorilo
+47595,Dr Fiorilo
 47617,Isauro Calais
 47616,Isauro Calais
 47568,Chico Evangelista
@@ -7582,14 +7604,14 @@ id_projeto_camara,nome_autor
 47517,Cido Reis
 47516,Cido Reis
 47515,Cido Reis
-47716,Dr. Antônio Aguiar
-47715,Dr. Antônio Aguiar
-47711,Dr. Antônio Aguiar
-47710,Dr. Antônio Aguiar
-47709,Dr. Antônio Aguiar
-47708,Dr. Antônio Aguiar
-47704,Dr. Antônio Aguiar
-47703,Dr. Antônio Aguiar
+47716,Dr Antônio Aguiar
+47715,Dr Antônio Aguiar
+47711,Dr Antônio Aguiar
+47710,Dr Antônio Aguiar
+47709,Dr Antônio Aguiar
+47708,Dr Antônio Aguiar
+47704,Dr Antônio Aguiar
+47703,Dr Antônio Aguiar
 47623,André Mariano
 47622,André Mariano
 47621,André Mariano
@@ -7628,16 +7650,16 @@ id_projeto_camara,nome_autor
 47176,Luiz Otávio Fernandes Coelho - Pardal
 47175,Luiz Otávio Fernandes Coelho - Pardal
 47174,Luiz Otávio Fernandes Coelho - Pardal
-47477,Dr. Fiorilo
-47476,Dr. Fiorilo
-47475,Dr. Fiorilo
+47477,Dr Fiorilo
+47476,Dr Fiorilo
+47475,Dr Fiorilo
 47146,André Mariano
 47145,André Mariano
 47144,André Mariano
-47117,Dr. Antônio Aguiar
-47116,Dr. Antônio Aguiar
-47115,Dr. Antônio Aguiar
-47114,Dr. Antônio Aguiar
+47117,Dr Antônio Aguiar
+47116,Dr Antônio Aguiar
+47115,Dr Antônio Aguiar
+47114,Dr Antônio Aguiar
 47138,Vagner de Oliveira
 47137,Vagner de Oliveira
 48165,Noraldino Júnior
@@ -7657,9 +7679,9 @@ id_projeto_camara,nome_autor
 49111,Noraldino Júnior
 47829,Jucelio
 47821,Jucelio
-47450,Dr. Fiorilo
-47449,Dr. Fiorilo
-47448,Dr. Fiorilo
+47450,Dr Fiorilo
+47449,Dr Fiorilo
+47448,Dr Fiorilo
 47136,Isauro Calais
 47135,Isauro Calais
 47134,Isauro Calais
@@ -7673,33 +7695,33 @@ id_projeto_camara,nome_autor
 47277,Cido Reis
 47275,Cido Reis
 47274,Cido Reis
-46926,Dr. Antônio Aguiar
-46925,Dr. Antônio Aguiar
-46924,Dr. Antônio Aguiar
-46923,Dr. Antônio Aguiar
-46919,Dr. Antônio Aguiar
-46916,Dr. Antônio Aguiar
-46914,Dr. Antônio Aguiar
-46913,Dr. Antônio Aguiar
-46912,Dr. Antônio Aguiar
+46926,Dr Antônio Aguiar
+46925,Dr Antônio Aguiar
+46924,Dr Antônio Aguiar
+46923,Dr Antônio Aguiar
+46919,Dr Antônio Aguiar
+46916,Dr Antônio Aguiar
+46914,Dr Antônio Aguiar
+46913,Dr Antônio Aguiar
+46912,Dr Antônio Aguiar
 47073,Cido Reis
-47073, Chico Evangelista
-47073, Nilton Militão
+47073,Chico Evangelista
+47073,Nilton Militão
 46939,Betão
 46927,Ana Rossignoli
 47289,Ana Rossignoli
-47289, André Mariano
-47289, Dr. Antônio Aguiar
-47289, Chico Evangelista
-47289, Vagner de Oliveira
-47289, Dr. Fiorilo
-47289, Zé Márcio
-47289, Júlio Gasparette
-47289, Luiz Otávio Fernandes Coelho - Pardal
-47289, Noraldino Júnior
-47289, Oliveira Tresse
-47289, Betão
-47289, Rodrigo Mattos
+47289,André Mariano
+47289,Dr Antônio Aguiar
+47289,Chico Evangelista
+47289,Vagner de Oliveira
+47289,Dr Fiorilo
+47289,Zé Márcio
+47289,Júlio Gasparette
+47289,Luiz Otávio Fernandes Coelho - Pardal
+47289,Noraldino Júnior
+47289,Oliveira Tresse
+47289,Betão
+47289,Rodrigo Mattos
 47184,Betão
 47183,Betão
 47182,Betão
@@ -7711,14 +7733,14 @@ id_projeto_camara,nome_autor
 47834,Jucelio
 47833,Jucelio
 47831,Jucelio
-47489,Dr. Fiorilo
-47488,Dr. Fiorilo
-47483,Dr. Fiorilo
-47482,Dr. Fiorilo
-47481,Dr. Fiorilo
-47480,Dr. Fiorilo
-47479,Dr. Fiorilo
-47478,Dr. Fiorilo
+47489,Dr Fiorilo
+47488,Dr Fiorilo
+47483,Dr Fiorilo
+47482,Dr Fiorilo
+47481,Dr Fiorilo
+47480,Dr Fiorilo
+47479,Dr Fiorilo
+47478,Dr Fiorilo
 46938,Chico Evangelista
 46937,Chico Evangelista
 46936,Chico Evangelista
@@ -7735,24 +7757,24 @@ id_projeto_camara,nome_autor
 47344,Júlio Gasparette
 47340,Júlio Gasparette
 47288,Ana Rossignoli
-47288, André Mariano
-47288, Dr. Antônio Aguiar
-47288, Cido Reis
-47288, Chico Evangelista
-47288, Vagner de Oliveira
-47288, Isauro Calais
-47288, Dr. Fiorilo
-47288, Zé Márcio
-47288, João do Joaninho
-47288, Jucelio
-47288, Júlio Gasparette
-47288, Luiz Otávio Fernandes Coelho - Pardal
-47288, Nilton Militão
-47288, Noraldino Júnior
-47288, Oliveira Tresse
-47288, Betão
-47288, Rodrigo Mattos
-47288, Wanderson Castelar
+47288,André Mariano
+47288,Dr Antônio Aguiar
+47288,Cido Reis
+47288,Chico Evangelista
+47288,Vagner de Oliveira
+47288,Isauro Calais
+47288,Dr Fiorilo
+47288,Zé Márcio
+47288,João do Joaninho
+47288,Jucelio
+47288,Júlio Gasparette
+47288,Luiz Otávio Fernandes Coelho - Pardal
+47288,Nilton Militão
+47288,Noraldino Júnior
+47288,Oliveira Tresse
+47288,Betão
+47288,Rodrigo Mattos
+47288,Wanderson Castelar
 46889,Chico Evangelista
 49138,Noraldino Júnior
 49137,Noraldino Júnior
@@ -7770,7 +7792,7 @@ id_projeto_camara,nome_autor
 47122,Zé Márcio
 47121,Zé Márcio
 46885,Ana Rossignoli
-46883,Dr. Antônio Aguiar
+46883,Dr Antônio Aguiar
 47383,Júlio Gasparette
 47382,Júlio Gasparette
 47380,Júlio Gasparette
@@ -7873,12 +7895,12 @@ id_projeto_camara,nome_autor
 47172,Luiz Otávio Fernandes Coelho - Pardal
 47171,Luiz Otávio Fernandes Coelho - Pardal
 47170,Luiz Otávio Fernandes Coelho - Pardal
-47397,Dr. Fiorilo
-47396,Dr. Fiorilo
-47395,Dr. Fiorilo
-47394,Dr. Fiorilo
-47393,Dr. Fiorilo
-47392,Dr. Fiorilo
+47397,Dr Fiorilo
+47396,Dr Fiorilo
+47395,Dr Fiorilo
+47394,Dr Fiorilo
+47393,Dr Fiorilo
+47392,Dr Fiorilo
 47048,Chico Evangelista
 46894,Chico Evangelista
 46893,Chico Evangelista
@@ -7907,12 +7929,12 @@ id_projeto_camara,nome_autor
 46942,Oliveira Tresse
 46941,Oliveira Tresse
 46940,Oliveira Tresse
-47420,Dr. Fiorilo
-47419,Dr. Fiorilo
-47401,Dr. Fiorilo
-47400,Dr. Fiorilo
-47399,Dr. Fiorilo
-47398,Dr. Fiorilo
+47420,Dr Fiorilo
+47419,Dr Fiorilo
+47401,Dr Fiorilo
+47400,Dr Fiorilo
+47399,Dr Fiorilo
+47398,Dr Fiorilo
 46863,Jucelio
 46859,Jucelio
 47169,Luiz Otávio Fernandes Coelho - Pardal
@@ -7934,7 +7956,7 @@ id_projeto_camara,nome_autor
 47125,Ana Rossignoli
 47124,Ana Rossignoli
 47120,Zé Márcio
-47119,Dr. Antônio Aguiar
+47119,Dr Antônio Aguiar
 47130,Rodrigo Mattos
 47129,Rodrigo Mattos
 49109,Noraldino Júnior
@@ -7957,15 +7979,15 @@ id_projeto_camara,nome_autor
 49079,Noraldino Júnior
 49078,Noraldino Júnior
 49077,Noraldino Júnior
-47447,Dr. Fiorilo
-47446,Dr. Fiorilo
-47445,Dr. Fiorilo
-47444,Dr. Fiorilo
-47443,Dr. Fiorilo
-47442,Dr. Fiorilo
-47441,Dr. Fiorilo
-47440,Dr. Fiorilo
-47439,Dr. Fiorilo
+47447,Dr Fiorilo
+47446,Dr Fiorilo
+47445,Dr Fiorilo
+47444,Dr Fiorilo
+47443,Dr Fiorilo
+47442,Dr Fiorilo
+47441,Dr Fiorilo
+47440,Dr Fiorilo
+47439,Dr Fiorilo
 47162,Luiz Otávio Fernandes Coelho - Pardal
 47161,Luiz Otávio Fernandes Coelho - Pardal
 47160,Luiz Otávio Fernandes Coelho - Pardal
@@ -7996,15 +8018,15 @@ id_projeto_camara,nome_autor
 47223,Cido Reis
 47222,Cido Reis
 47221,Cido Reis
-47101,Dr. Antônio Aguiar
-47100,Dr. Antônio Aguiar
-47099,Dr. Antônio Aguiar
-47098,Dr. Antônio Aguiar
-47097,Dr. Antônio Aguiar
-47096,Dr. Antônio Aguiar
-47095,Dr. Antônio Aguiar
-47088,Dr. Antônio Aguiar
-47075,Dr. Antônio Aguiar
+47101,Dr Antônio Aguiar
+47100,Dr Antônio Aguiar
+47099,Dr Antônio Aguiar
+47098,Dr Antônio Aguiar
+47097,Dr Antônio Aguiar
+47096,Dr Antônio Aguiar
+47095,Dr Antônio Aguiar
+47088,Dr Antônio Aguiar
+47075,Dr Antônio Aguiar
 47074,Chico Evangelista
 46828,Zé Márcio
 47297,Júlio Gasparette
@@ -8044,24 +8066,24 @@ id_projeto_camara,nome_autor
 46827,Zé Márcio
 46826,Zé Márcio
 46822,Zé Márcio
-47438,Dr. Fiorilo
-47437,Dr. Fiorilo
-47436,Dr. Fiorilo
-47435,Dr. Fiorilo
-47434,Dr. Fiorilo
-47433,Dr. Fiorilo
-47432,Dr. Fiorilo
-47431,Dr. Fiorilo
-47430,Dr. Fiorilo
-47429,Dr. Fiorilo
-47428,Dr. Fiorilo
-47427,Dr. Fiorilo
-47426,Dr. Fiorilo
-47425,Dr. Fiorilo
-47424,Dr. Fiorilo
-47423,Dr. Fiorilo
-47422,Dr. Fiorilo
-47421,Dr. Fiorilo
+47438,Dr Fiorilo
+47437,Dr Fiorilo
+47436,Dr Fiorilo
+47435,Dr Fiorilo
+47434,Dr Fiorilo
+47433,Dr Fiorilo
+47432,Dr Fiorilo
+47431,Dr Fiorilo
+47430,Dr Fiorilo
+47429,Dr Fiorilo
+47428,Dr Fiorilo
+47427,Dr Fiorilo
+47426,Dr Fiorilo
+47425,Dr Fiorilo
+47424,Dr Fiorilo
+47423,Dr Fiorilo
+47422,Dr Fiorilo
+47421,Dr Fiorilo
 46831,João do Joaninho
 46830,João do Joaninho
 46829,João do Joaninho
@@ -8084,18 +8106,18 @@ id_projeto_camara,nome_autor
 47058,Chico Evangelista
 47057,Chico Evangelista
 47056,Chico Evangelista
-47113,Dr. Antônio Aguiar
-47112,Dr. Antônio Aguiar
-47111,Dr. Antônio Aguiar
-47110,Dr. Antônio Aguiar
-47109,Dr. Antônio Aguiar
-47108,Dr. Antônio Aguiar
-47107,Dr. Antônio Aguiar
-47106,Dr. Antônio Aguiar
-47105,Dr. Antônio Aguiar
-47104,Dr. Antônio Aguiar
-47103,Dr. Antônio Aguiar
-47102,Dr. Antônio Aguiar
+47113,Dr Antônio Aguiar
+47112,Dr Antônio Aguiar
+47111,Dr Antônio Aguiar
+47110,Dr Antônio Aguiar
+47109,Dr Antônio Aguiar
+47108,Dr Antônio Aguiar
+47107,Dr Antônio Aguiar
+47106,Dr Antônio Aguiar
+47105,Dr Antônio Aguiar
+47104,Dr Antônio Aguiar
+47103,Dr Antônio Aguiar
+47102,Dr Antônio Aguiar
 46840,André Mariano
 46839,André Mariano
 46838,André Mariano
@@ -8112,11 +8134,11 @@ id_projeto_camara,nome_autor
 46841,Ana Rossignoli
 46849,Wanderson Castelar
 57181,Chico Evangelista
-57181, Dr. Fiorilo
-57181, Zé Márcio
-57181, Noraldino Júnior
+57181,Dr Fiorilo
+57181,Zé Márcio
+57181,Noraldino Júnior
 47050,Chico Evangelista
-46909,Dr. Antônio Aguiar
+46909,Dr Antônio Aguiar
 46526,Wanderson Castelar
 46525,Wanderson Castelar
 46472,Luiz Otávio Fernandes Coelho - Pardal
@@ -8129,8 +8151,8 @@ id_projeto_camara,nome_autor
 46256,Zé Márcio
 46255,Zé Márcio
 46252,Zé Márcio
-46615,Dr. Fiorilo
-46614,Dr. Fiorilo
+46615,Dr Fiorilo
+46614,Dr Fiorilo
 46578,Chico Evangelista
 46577,Chico Evangelista
 46576,Chico Evangelista
@@ -8205,17 +8227,17 @@ id_projeto_camara,nome_autor
 46407,Zé Márcio
 50334,Cido Reis
 46406,Zé Márcio
-50335,Dr. Antônio Aguiar
+50335,Dr Antônio Aguiar
 46405,Zé Márcio
-50336,Dr. Antônio Aguiar
+50336,Dr Antônio Aguiar
 46403,Zé Márcio
 50338,Nilton Militão
 50337,Luiz Otávio Fernandes Coelho - Pardal
 46433,João do Joaninho
 50223,Nilton Militão
-46617,Dr. Fiorilo
+46617,Dr Fiorilo
 50222,João do Joaninho
-46616,Dr. Fiorilo
+46616,Dr Fiorilo
 46498,Isauro Calais
 50220,Chico Evangelista
 50221,Chico Evangelista
@@ -8234,7 +8256,7 @@ id_projeto_camara,nome_autor
 46622,Cido Reis
 50102,Cido Reis
 46619,Cido Reis
-50105,Dr. Antônio Aguiar
+50105,Dr Antônio Aguiar
 46278,Oliveira Tresse
 50061,Jucelio
 46254,Oliveira Tresse
@@ -8245,7 +8267,7 @@ id_projeto_camara,nome_autor
 49844,Júlio Gasparette
 46500,Wanderson Castelar
 49843,Júlio Gasparette
-46613,Dr. Fiorilo
+46613,Dr Fiorilo
 49842,Júlio Gasparette
 46660,Cido Reis
 49846,Jucelio
@@ -8262,9 +8284,9 @@ id_projeto_camara,nome_autor
 49749,Cido Reis
 46717,Júlio Gasparette
 49746,Jucelio
-49748,Dr. Fiorilo
+49748,Dr Fiorilo
 46704,Noraldino Júnior
-49747,Dr. Fiorilo
+49747,Dr Fiorilo
 46272,Noraldino Júnior
 49654,Cido Reis
 46761,Noraldino Júnior
@@ -8333,7 +8355,7 @@ id_projeto_camara,nome_autor
 46261,Vagner de Oliveira
 48400,Luiz Otávio Fernandes Coelho - Pardal
 46521,Chico Evangelista
-50560,Dr. Fiorilo
+50560,Dr Fiorilo
 48401,Luiz Otávio Fernandes Coelho - Pardal
 46520,Chico Evangelista
 50550,Noraldino Júnior
@@ -8341,10 +8363,10 @@ id_projeto_camara,nome_autor
 46519,Chico Evangelista
 50529,Betão
 48360,Luiz Otávio Fernandes Coelho - Pardal
-46248,Dr. Antônio Aguiar
+46248,Dr Antônio Aguiar
 50528,Oliveira Tresse
 48361,Luiz Otávio Fernandes Coelho - Pardal
-46247,Dr. Antônio Aguiar
+46247,Dr Antônio Aguiar
 50544,Nilton Militão
 48362,Luiz Otávio Fernandes Coelho - Pardal
 50954,Betão
@@ -8352,7 +8374,7 @@ id_projeto_camara,nome_autor
 50448,Nilton Militão
 48376,Júlio Gasparette
 50950,Ana Rossignoli
-50950, Dr. Fiorilo
+50950,Dr Fiorilo
 46586,André Mariano
 50949,Wanderson Castelar
 50339,Zé Márcio
@@ -8371,8 +8393,8 @@ id_projeto_camara,nome_autor
 50951,Cido Reis
 46582,André Mariano
 48372,Júlio Gasparette
-50956,Dr. Fiorilo
-50214,Dr. Fiorilo
+50956,Dr Fiorilo
+50214,Dr Fiorilo
 46581,André Mariano
 50721,Ana Rossignoli
 48371,Júlio Gasparette
@@ -8386,7 +8408,7 @@ id_projeto_camara,nome_autor
 48367,Júlio Gasparette
 50173,Jucelio
 46503,Luiz Otávio Fernandes Coelho - Pardal
-50665,Dr. Fiorilo
+50665,Dr Fiorilo
 48366,Júlio Gasparette
 50176,Chico Evangelista
 46502,Luiz Otávio Fernandes Coelho - Pardal
@@ -8396,50 +8418,50 @@ id_projeto_camara,nome_autor
 46501,Luiz Otávio Fernandes Coelho - Pardal
 50610,Betão
 48364,Júlio Gasparette
-50106,Dr. Fiorilo
+50106,Dr Fiorilo
 46499,Luiz Otávio Fernandes Coelho - Pardal
 50609,Betão
 48363,Júlio Gasparette
 50115,Ana Rossignoli
-50115, André Mariano
-50115, Dr. Antônio Aguiar
-50115, Cido Reis
-50115, Chico Evangelista
-50115, Vagner de Oliveira
-50115, Isauro Calais
-50115, Dr. Fiorilo
-50115, Zé Márcio
-50115, João do Joaninho
-50115, Jucelio
-50115, Júlio Gasparette
-50115, Luiz Otávio Fernandes Coelho - Pardal
-50115, Nilton Militão
-50115, Noraldino Júnior
-50115, Oliveira Tresse
-50115, Betão
-50115, Rodrigo Mattos
-50115, Wanderson Castelar
+50115,André Mariano
+50115,Dr Antônio Aguiar
+50115,Cido Reis
+50115,Chico Evangelista
+50115,Vagner de Oliveira
+50115,Isauro Calais
+50115,Dr Fiorilo
+50115,Zé Márcio
+50115,João do Joaninho
+50115,Jucelio
+50115,Júlio Gasparette
+50115,Luiz Otávio Fernandes Coelho - Pardal
+50115,Nilton Militão
+50115,Noraldino Júnior
+50115,Oliveira Tresse
+50115,Betão
+50115,Rodrigo Mattos
+50115,Wanderson Castelar
 46497,Luiz Otávio Fernandes Coelho - Pardal
 50608,Betão
 48058,Nilton Militão
 50090,Isauro Calais
 46495,Luiz Otávio Fernandes Coelho - Pardal
-50616,Dr. Antônio Aguiar
+50616,Dr Antônio Aguiar
 48057,Isauro Calais
-50058,Dr. Fiorilo
-46612,Dr. Fiorilo
+50058,Dr Fiorilo
+46612,Dr Fiorilo
 50615,Zé Márcio
-47974,Dr. Fiorilo
+47974,Dr Fiorilo
 49856,Noraldino Júnior
-46611,Dr. Fiorilo
+46611,Dr Fiorilo
 47962,Chico Evangelista
 49851,Ana Rossignoli
 47946,Cido Reis
-46610,Dr. Fiorilo
+46610,Dr Fiorilo
 50613,Zé Márcio
 49838,Cido Reis
 47947,Cido Reis
-46609,Dr. Fiorilo
+46609,Dr Fiorilo
 50612,Jucelio
 49839,Rodrigo Mattos
 47948,Cido Reis
@@ -8457,7 +8479,7 @@ id_projeto_camara,nome_autor
 46692,Júlio Gasparette
 50620,Cido Reis
 47951,Cido Reis
-49799,Dr. Antônio Aguiar
+49799,Dr Antônio Aguiar
 46690,Júlio Gasparette
 50619,Cido Reis
 47952,Cido Reis
@@ -8480,27 +8502,27 @@ id_projeto_camara,nome_autor
 49751,Luiz Otávio Fernandes Coelho - Pardal
 47822,Júlio Gasparette
 46737,Jucelio
-50408,Dr. Fiorilo
+50408,Dr Fiorilo
 49753,Luiz Otávio Fernandes Coelho - Pardal
 47823,Noraldino Júnior
 46423,Zé Márcio
-50402,Dr. Fiorilo
+50402,Dr Fiorilo
 49750,Wanderson Castelar
 47824,Cido Reis
-46251,Dr. Antônio Aguiar
-50400,Dr. Fiorilo
+46251,Dr Antônio Aguiar
+50400,Dr Fiorilo
 49666,Júlio Gasparette
 47825,Cido Reis
 46703,Júlio Gasparette
-50399,Dr. Fiorilo
+50399,Dr Fiorilo
 49664,Júlio Gasparette
 47826,Cido Reis
 46702,Júlio Gasparette
-50398,Dr. Fiorilo
+50398,Dr Fiorilo
 49663,Júlio Gasparette
 47827,Cido Reis
 46701,Júlio Gasparette
-50397,Dr. Fiorilo
+50397,Dr Fiorilo
 49631,Wanderson Castelar
 47828,Cido Reis
 46700,Júlio Gasparette
@@ -8552,9 +8574,9 @@ id_projeto_camara,nome_autor
 46517,Luiz Otávio Fernandes Coelho - Pardal
 48398,Isauro Calais
 50208,André Mariano
-50208, Dr. Fiorilo
-50208, Jucelio
-50208, Noraldino Júnior
+50208,Dr Fiorilo
+50208,Jucelio
+50208,Noraldino Júnior
 47775,Chico Evangelista
 46516,Luiz Otávio Fernandes Coelho - Pardal
 48342,Júlio Gasparette
@@ -8569,9 +8591,9 @@ id_projeto_camara,nome_autor
 50212,Jucelio
 47737,Chico Evangelista
 46670,Cido Reis
-48328,Dr. Fiorilo
+48328,Dr Fiorilo
 50211,Jucelio
-50088,Dr. Fiorilo
+50088,Dr Fiorilo
 47738,Chico Evangelista
 46668,Cido Reis
 48301,Vagner de Oliveira
@@ -8597,7 +8619,7 @@ id_projeto_camara,nome_autor
 49885,Vagner de Oliveira
 47735,Chico Evangelista
 46274,Ana Rossignoli
-48043,Dr. Fiorilo
+48043,Dr Fiorilo
 49884,Vagner de Oliveira
 47736,Chico Evangelista
 46273,Ana Rossignoli
@@ -8606,7 +8628,7 @@ id_projeto_camara,nome_autor
 47744,Chico Evangelista
 46297,Oliveira Tresse
 48022,Isauro Calais
-48022, Júlio Gasparette
+48022,Júlio Gasparette
 49808,Noraldino Júnior
 47745,Chico Evangelista
 46295,Oliveira Tresse
@@ -8615,70 +8637,70 @@ id_projeto_camara,nome_autor
 47746,Chico Evangelista
 46294,Oliveira Tresse
 47994,André Mariano
-47994, Dr. Antônio Aguiar
-47994, Noraldino Júnior
-47994, Rodrigo Mattos
+47994,Dr Antônio Aguiar
+47994,Noraldino Júnior
+47994,Rodrigo Mattos
 49804,Jucelio
 47747,Chico Evangelista
 46293,Oliveira Tresse
 48717,Betão
-49803,Dr. Antônio Aguiar
+49803,Dr Antônio Aguiar
 47748,Chico Evangelista
 46292,Oliveira Tresse
 47978,Zé Márcio
 49802,Jucelio
 47749,Chico Evangelista
 46291,Oliveira Tresse
-47971,Dr. Antônio Aguiar
+47971,Dr Antônio Aguiar
 49801,Jucelio
-47945,Dr. Antônio Aguiar
+47945,Dr Antônio Aguiar
 47750,Chico Evangelista
 46290,Oliveira Tresse
 49800,Noraldino Júnior
-47936,Dr. Antônio Aguiar
+47936,Dr Antônio Aguiar
 47751,Chico Evangelista
 46280,Oliveira Tresse
 49718,Ana Rossignoli
-49718, André Mariano
-49718, Dr. Antônio Aguiar
-49718, Cido Reis
-49718, Chico Evangelista
-49718, Vagner de Oliveira
-49718, Isauro Calais
-49718, Dr. Fiorilo
-49718, Zé Márcio
-49718, João do Joaninho
-49718, Jucelio
-49718, Júlio Gasparette
-49718, Luiz Otávio Fernandes Coelho - Pardal
-49718, Nilton Militão
-49718, Noraldino Júnior
-49718, Oliveira Tresse
-49718, Betão
-49718, Rodrigo Mattos
-49718, Wanderson Castelar
+49718,André Mariano
+49718,Dr Antônio Aguiar
+49718,Cido Reis
+49718,Chico Evangelista
+49718,Vagner de Oliveira
+49718,Isauro Calais
+49718,Dr Fiorilo
+49718,Zé Márcio
+49718,João do Joaninho
+49718,Jucelio
+49718,Júlio Gasparette
+49718,Luiz Otávio Fernandes Coelho - Pardal
+49718,Nilton Militão
+49718,Noraldino Júnior
+49718,Oliveira Tresse
+49718,Betão
+49718,Rodrigo Mattos
+49718,Wanderson Castelar
 47752,Chico Evangelista
 46513,Luiz Otávio Fernandes Coelho - Pardal
 49719,Ana Rossignoli
-49719, André Mariano
-49719, Dr. Antônio Aguiar
-49719, Cido Reis
-49719, Chico Evangelista
-49719, Vagner de Oliveira
-49719, Isauro Calais
-49719, Dr. Fiorilo
-49719, Zé Márcio
-49719, João do Joaninho
-49719, Jucelio
-49719, Júlio Gasparette
-49719, Luiz Otávio Fernandes Coelho - Pardal
-49719, Nilton Militão
-49719, Noraldino Júnior
-49719, Oliveira Tresse
-49719, Betão
-49719, Rodrigo Mattos
-49719, Wanderson Castelar
-47818,Dr. Antônio Aguiar
+49719,André Mariano
+49719,Dr Antônio Aguiar
+49719,Cido Reis
+49719,Chico Evangelista
+49719,Vagner de Oliveira
+49719,Isauro Calais
+49719,Dr Fiorilo
+49719,Zé Márcio
+49719,João do Joaninho
+49719,Jucelio
+49719,Júlio Gasparette
+49719,Luiz Otávio Fernandes Coelho - Pardal
+49719,Nilton Militão
+49719,Noraldino Júnior
+49719,Oliveira Tresse
+49719,Betão
+49719,Rodrigo Mattos
+49719,Wanderson Castelar
+47818,Dr Antônio Aguiar
 47753,Chico Evangelista
 46512,Luiz Otávio Fernandes Coelho - Pardal
 49717,Jucelio
@@ -8703,128 +8725,128 @@ id_projeto_camara,nome_autor
 46734,Jucelio
 49660,Jucelio
 47802,Noraldino Júnior
-47802, Wanderson Castelar
+47802,Wanderson Castelar
 47670,Cido Reis
 46733,Jucelio
 49659,Jucelio
 47811,Wanderson Castelar
 47669,Cido Reis
-46343,Dr. Fiorilo
+46343,Dr Fiorilo
 50966,Betão
 49657,Betão
 47790,Júlio Gasparette
 47667,Cido Reis
-46341,Dr. Fiorilo
+46341,Dr Fiorilo
 50701,Jucelio
 49611,Jucelio
 47787,Chico Evangelista
 47668,Oliveira Tresse
-46339,Dr. Fiorilo
+46339,Dr Fiorilo
 49610,Jucelio
 50570,João do Joaninho
 47529,Nilton Militão
-46337,Dr. Fiorilo
-49609,Dr. Fiorilo
+46337,Dr Fiorilo
+49609,Dr Fiorilo
 50569,João do Joaninho
 47786,Noraldino Júnior
 47530,Ana Rossignoli
-46333,Dr. Fiorilo
+46333,Dr Fiorilo
 49142,Vagner de Oliveira
-52750,Dr. Fiorilo
+52750,Dr Fiorilo
 47788,Betão
 47531,Ana Rossignoli
-46330,Dr. Fiorilo
+46330,Dr Fiorilo
 50562,Vagner de Oliveira
 49213,Zé Márcio
-49213, Jucelio
+49213,Jucelio
 47800,Cido Reis
-47800, Chico Evangelista
-47800, Júlio Gasparette
-47800, Nilton Militão
-47800, Rodrigo Mattos
+47800,Chico Evangelista
+47800,Júlio Gasparette
+47800,Nilton Militão
+47800,Rodrigo Mattos
 47522,Zé Márcio
-46311,Dr. Fiorilo
+46311,Dr Fiorilo
 50561,Nilton Militão
 49212,Zé Márcio
-49212, Jucelio
+49212,Jucelio
 47785,Oliveira Tresse
 47519,Chico Evangelista
-46301,Dr. Fiorilo
-49211,Dr. Fiorilo
+46301,Dr Fiorilo
+49211,Dr Fiorilo
 50213,Luiz Otávio Fernandes Coelho - Pardal
 47764,Júlio Gasparette
 47520,Chico Evangelista
-46300,Dr. Fiorilo
-49143,Dr. Fiorilo
+46300,Dr Fiorilo
+49143,Dr Fiorilo
 52759,Ana Rossignoli
-52759, André Mariano
-52759, Dr. Antônio Aguiar
-52759, Chico Evangelista
-52759, Vagner de Oliveira
-52759, Dr. Fiorilo
-52759, Zé Márcio
-52759, João do Joaninho
-52759, Jucelio
-52759, Luiz Otávio Fernandes Coelho - Pardal
-52759, Nilton Militão
-52759, Noraldino Júnior
-52759, Oliveira Tresse
-52759, Rodrigo Mattos
+52759,André Mariano
+52759,Dr Antônio Aguiar
+52759,Chico Evangelista
+52759,Vagner de Oliveira
+52759,Dr Fiorilo
+52759,Zé Márcio
+52759,João do Joaninho
+52759,Jucelio
+52759,Luiz Otávio Fernandes Coelho - Pardal
+52759,Nilton Militão
+52759,Noraldino Júnior
+52759,Oliveira Tresse
+52759,Rodrigo Mattos
 47799,Rodrigo Mattos
 47521,Chico Evangelista
 46680,Cido Reis
 49141,Noraldino Júnior
 47760,Betão
 46678,Cido Reis
-49144,Dr. Fiorilo
+49144,Dr Fiorilo
 52753,Ana Rossignoli
-52753, André Mariano
-52753, Dr. Antônio Aguiar
-52753, Cido Reis
-52753, Chico Evangelista
-52753, Vagner de Oliveira
-52753, Isauro Calais
-52753, Dr. Fiorilo
-52753, Zé Márcio
-52753, João do Joaninho
-52753, Jucelio
-52753, Júlio Gasparette
-52753, Luiz Otávio Fernandes Coelho - Pardal
-52753, Nilton Militão
-52753, Noraldino Júnior
-52753, Oliveira Tresse
-52753, Betão
-52753, Rodrigo Mattos
-52753, Wanderson Castelar
+52753,André Mariano
+52753,Dr Antônio Aguiar
+52753,Cido Reis
+52753,Chico Evangelista
+52753,Vagner de Oliveira
+52753,Isauro Calais
+52753,Dr Fiorilo
+52753,Zé Márcio
+52753,João do Joaninho
+52753,Jucelio
+52753,Júlio Gasparette
+52753,Luiz Otávio Fernandes Coelho - Pardal
+52753,Nilton Militão
+52753,Noraldino Júnior
+52753,Oliveira Tresse
+52753,Betão
+52753,Rodrigo Mattos
+52753,Wanderson Castelar
 47528,Vagner de Oliveira
 46677,Cido Reis
 47093,Luiz Otávio Fernandes Coelho - Pardal
 49145,Vagner de Oliveira
 52756,Ana Rossignoli
-52756, André Mariano
-52756, Dr. Antônio Aguiar
-52756, Cido Reis
-52756, Chico Evangelista
-52756, Vagner de Oliveira
-52756, Isauro Calais
-52756, Dr. Fiorilo
-52756, Zé Márcio
-52756, João do Joaninho
-52756, Jucelio
-52756, Júlio Gasparette
-52756, Luiz Otávio Fernandes Coelho - Pardal
-52756, Nilton Militão
-52756, Noraldino Júnior
-52756, Oliveira Tresse
-52756, Betão
-52756, Rodrigo Mattos
-52756, Wanderson Castelar
+52756,André Mariano
+52756,Dr Antônio Aguiar
+52756,Cido Reis
+52756,Chico Evangelista
+52756,Vagner de Oliveira
+52756,Isauro Calais
+52756,Dr Fiorilo
+52756,Zé Márcio
+52756,João do Joaninho
+52756,Jucelio
+52756,Júlio Gasparette
+52756,Luiz Otávio Fernandes Coelho - Pardal
+52756,Nilton Militão
+52756,Noraldino Júnior
+52756,Oliveira Tresse
+52756,Betão
+52756,Rodrigo Mattos
+52756,Wanderson Castelar
 47512,Jucelio
-47512, Júlio Gasparette
+47512,Júlio Gasparette
 46676,Cido Reis
 47092,Luiz Otávio Fernandes Coelho - Pardal
 49214,Noraldino Júnior
-50075,Dr. Fiorilo
+50075,Dr Fiorilo
 47500,Wanderson Castelar
 46603,André Mariano
 47091,Cido Reis
@@ -8841,13 +8863,13 @@ id_projeto_camara,nome_autor
 49139,Noraldino Júnior
 49895,Júlio Gasparette
 47525,Cido Reis
-47525, João do Joaninho
-47525, Júlio Gasparette
-47525, Nilton Militão
-47525, Rodrigo Mattos
+47525,João do Joaninho
+47525,Júlio Gasparette
+47525,Nilton Militão
+47525,Rodrigo Mattos
 46598,André Mariano
 47087,João do Joaninho
-49220,Dr. Fiorilo
+49220,Dr Fiorilo
 49865,Chico Evangelista
 47503,Júlio Gasparette
 46594,André Mariano
@@ -8859,9 +8881,9 @@ id_projeto_camara,nome_autor
 47085,João do Joaninho
 49218,Cido Reis
 49864,Ana Rossignoli
-49864, Vagner de Oliveira
-49864, Jucelio
-49864, Betão
+49864,Vagner de Oliveira
+49864,Jucelio
+49864,Betão
 47485,Zé Márcio
 46649,Noraldino Júnior
 47084,João do Joaninho
@@ -8885,15 +8907,15 @@ id_projeto_camara,nome_autor
 47807,Noraldino Júnior
 47455,Oliveira Tresse
 46642,Noraldino Júnior
-47009,Dr. Fiorilo
+47009,Dr Fiorilo
 49665,Zé Márcio
 47806,Noraldino Júnior
-47453,Dr. Antônio Aguiar
+47453,Dr Antônio Aguiar
 46640,Noraldino Júnior
 47013,Cido Reis
 49632,André Mariano
-49632, Dr. Fiorilo
-49632, Jucelio
+49632,Dr Fiorilo
+49632,Jucelio
 47804,Noraldino Júnior
 46638,Noraldino Júnior
 47080,Jucelio
@@ -8907,7 +8929,7 @@ id_projeto_camara,nome_autor
 46635,Noraldino Júnior
 47063,Betão
 47010,Cido Reis
-48654,Dr. Fiorilo
+48654,Dr Fiorilo
 47797,Noraldino Júnior
 46507,Luiz Otávio Fernandes Coelho - Pardal
 47055,Betão
@@ -8916,26 +8938,26 @@ id_projeto_camara,nome_autor
 46506,Luiz Otávio Fernandes Coelho - Pardal
 47046,João do Joaninho
 46953,Rodrigo Mattos
-48611,Dr. Fiorilo
+48611,Dr Fiorilo
 47796,Noraldino Júnior
 46505,Luiz Otávio Fernandes Coelho - Pardal
 47044,Vagner de Oliveira
 46952,Júlio Gasparette
-48609,Dr. Fiorilo
+48609,Dr Fiorilo
 47795,Noraldino Júnior
-46608,Dr. Fiorilo
+46608,Dr Fiorilo
 47043,João do Joaninho
 46951,Júlio Gasparette
-48606,Dr. Antônio Aguiar
+48606,Dr Antônio Aguiar
 47794,Jucelio
-46607,Dr. Fiorilo
+46607,Dr Fiorilo
 47042,João do Joaninho
-48470,Dr. Fiorilo
-47793,Dr. Antônio Aguiar
-46605,Dr. Fiorilo
+48470,Dr Fiorilo
+47793,Dr Antônio Aguiar
+46605,Dr Fiorilo
 47006,Isauro Calais
 46943,Cido Reis
-48469,Dr. Fiorilo
+48469,Dr Fiorilo
 47792,Vagner de Oliveira
 46533,Chico Evangelista
 47007,Isauro Calais
@@ -8950,70 +8972,70 @@ id_projeto_camara,nome_autor
 46999,Zé Márcio
 46946,Cido Reis
 48061,Ana Rossignoli
-48061, André Mariano
-48061, Dr. Antônio Aguiar
-48061, Cido Reis
-48061, Chico Evangelista
-48061, Vagner de Oliveira
-48061, Isauro Calais
-48061, Dr. Fiorilo
-48061, Zé Márcio
-48061, João do Joaninho
-48061, Jucelio
-48061, Júlio Gasparette
-48061, Luiz Otávio Fernandes Coelho - Pardal
-48061, Nilton Militão
-48061, Noraldino Júnior
-48061, Oliveira Tresse
-48061, Betão
-48061, Rodrigo Mattos
-48061, Wanderson Castelar
+48061,André Mariano
+48061,Dr Antônio Aguiar
+48061,Cido Reis
+48061,Chico Evangelista
+48061,Vagner de Oliveira
+48061,Isauro Calais
+48061,Dr Fiorilo
+48061,Zé Márcio
+48061,João do Joaninho
+48061,Jucelio
+48061,Júlio Gasparette
+48061,Luiz Otávio Fernandes Coelho - Pardal
+48061,Nilton Militão
+48061,Noraldino Júnior
+48061,Oliveira Tresse
+48061,Betão
+48061,Rodrigo Mattos
+48061,Wanderson Castelar
 47771,Vagner de Oliveira
 46530,Chico Evangelista
-47004,Dr. Fiorilo
+47004,Dr Fiorilo
 46947,Zé Márcio
 49216,Ana Rossignoli
-49216, André Mariano
-49216, Dr. Antônio Aguiar
-49216, Cido Reis
-49216, Chico Evangelista
-49216, Vagner de Oliveira
-49216, Isauro Calais
-49216, Dr. Fiorilo
-49216, Zé Márcio
-49216, João do Joaninho
-49216, Jucelio
-49216, Júlio Gasparette
-49216, Luiz Otávio Fernandes Coelho - Pardal
-49216, Nilton Militão
-49216, Noraldino Júnior
-49216, Oliveira Tresse
-49216, Betão
-49216, Rodrigo Mattos
-49216, Wanderson Castelar
+49216,André Mariano
+49216,Dr Antônio Aguiar
+49216,Cido Reis
+49216,Chico Evangelista
+49216,Vagner de Oliveira
+49216,Isauro Calais
+49216,Dr Fiorilo
+49216,Zé Márcio
+49216,João do Joaninho
+49216,Jucelio
+49216,Júlio Gasparette
+49216,Luiz Otávio Fernandes Coelho - Pardal
+49216,Nilton Militão
+49216,Noraldino Júnior
+49216,Oliveira Tresse
+49216,Betão
+49216,Rodrigo Mattos
+49216,Wanderson Castelar
 47770,Zé Márcio
-46922,Dr. Fiorilo
+46922,Dr Fiorilo
 46529,Chico Evangelista
-46961,Dr. Antônio Aguiar
+46961,Dr Antônio Aguiar
 49221,Ana Rossignoli
-49221, André Mariano
-49221, Dr. Antônio Aguiar
-49221, Cido Reis
-49221, Chico Evangelista
-49221, Vagner de Oliveira
-49221, Isauro Calais
-49221, Dr. Fiorilo
-49221, Zé Márcio
-49221, João do Joaninho
-49221, Jucelio
-49221, Júlio Gasparette
-49221, Luiz Otávio Fernandes Coelho - Pardal
-49221, Nilton Militão
-49221, Noraldino Júnior
-49221, Oliveira Tresse
-49221, Betão
-49221, Rodrigo Mattos
-49221, Wanderson Castelar
+49221,André Mariano
+49221,Dr Antônio Aguiar
+49221,Cido Reis
+49221,Chico Evangelista
+49221,Vagner de Oliveira
+49221,Isauro Calais
+49221,Dr Fiorilo
+49221,Zé Márcio
+49221,João do Joaninho
+49221,Jucelio
+49221,Júlio Gasparette
+49221,Luiz Otávio Fernandes Coelho - Pardal
+49221,Nilton Militão
+49221,Noraldino Júnior
+49221,Oliveira Tresse
+49221,Betão
+49221,Rodrigo Mattos
+49221,Wanderson Castelar
 47769,Jucelio
 46921,Zé Márcio
 46528,Chico Evangelista
@@ -9040,7 +9062,7 @@ id_projeto_camara,nome_autor
 46904,Júlio Gasparette
 46935,Cido Reis
 46683,Cido Reis
-47707,Dr. Fiorilo
+47707,Dr Fiorilo
 47762,Chico Evangelista
 46903,Isauro Calais
 46934,Cido Reis
@@ -9058,57 +9080,57 @@ id_projeto_camara,nome_autor
 47733,Noraldino Júnior
 46930,Noraldino Júnior
 46890,Ana Rossignoli
-46890, Cido Reis
-46890, Chico Evangelista
-46890, Vagner de Oliveira
-46890, Isauro Calais
-46890, João do Joaninho
-46890, Júlio Gasparette
-46890, Noraldino Júnior
-46890, Oliveira Tresse
+46890,Cido Reis
+46890,Chico Evangelista
+46890,Vagner de Oliveira
+46890,Isauro Calais
+46890,João do Joaninho
+46890,Júlio Gasparette
+46890,Noraldino Júnior
+46890,Oliveira Tresse
 46714,Júlio Gasparette
 47732,Noraldino Júnior
 46928,Noraldino Júnior
 46888,Ana Rossignoli
-46888, Cido Reis
-46888, Chico Evangelista
-46888, Vagner de Oliveira
-46888, Isauro Calais
-46888, João do Joaninho
-46888, Júlio Gasparette
-46888, Noraldino Júnior
-46888, Oliveira Tresse
+46888,Cido Reis
+46888,Chico Evangelista
+46888,Vagner de Oliveira
+46888,Isauro Calais
+46888,João do Joaninho
+46888,Júlio Gasparette
+46888,Noraldino Júnior
+46888,Oliveira Tresse
 46713,Júlio Gasparette
 47731,Noraldino Júnior
 46884,Júlio Gasparette
 46712,Júlio Gasparette
 46802,Vagner de Oliveira
 48059,Ana Rossignoli
-48059, André Mariano
-48059, Dr. Antônio Aguiar
-48059, Cido Reis
-48059, Chico Evangelista
-48059, Vagner de Oliveira
-48059, Isauro Calais
-48059, Dr. Fiorilo
-48059, Zé Márcio
-48059, João do Joaninho
-48059, Jucelio
-48059, Júlio Gasparette
-48059, Luiz Otávio Fernandes Coelho - Pardal
-48059, Nilton Militão
-48059, Noraldino Júnior
-48059, Oliveira Tresse
-48059, Betão
-48059, Rodrigo Mattos
-48059, Wanderson Castelar
+48059,André Mariano
+48059,Dr Antônio Aguiar
+48059,Cido Reis
+48059,Chico Evangelista
+48059,Vagner de Oliveira
+48059,Isauro Calais
+48059,Dr Fiorilo
+48059,Zé Márcio
+48059,João do Joaninho
+48059,Jucelio
+48059,Júlio Gasparette
+48059,Luiz Otávio Fernandes Coelho - Pardal
+48059,Nilton Militão
+48059,Noraldino Júnior
+48059,Oliveira Tresse
+48059,Betão
+48059,Rodrigo Mattos
+48059,Wanderson Castelar
 47730,Noraldino Júnior
 47700,Noraldino Júnior
 46882,Cido Reis
-46882, João do Joaninho
-46882, Júlio Gasparette
-46882, Nilton Militão
-46882, Rodrigo Mattos
+46882,João do Joaninho
+46882,Júlio Gasparette
+46882,Nilton Militão
+46882,Rodrigo Mattos
 46710,Júlio Gasparette
 47729,Noraldino Júnior
 47725,Betão
@@ -9122,7 +9144,7 @@ id_projeto_camara,nome_autor
 46706,Júlio Gasparette
 46804,Chico Evangelista
 47723,Noraldino Júnior
-47502,Dr. Antônio Aguiar
+47502,Dr Antônio Aguiar
 46851,Isauro Calais
 46779,Noraldino Júnior
 46807,Ana Rossignoli
@@ -9134,7 +9156,7 @@ id_projeto_camara,nome_autor
 46777,Noraldino Júnior
 46809,Ana Rossignoli
 46819,Júlio Gasparette
-47721,Dr. Fiorilo
+47721,Dr Fiorilo
 47726,Jucelio
 46776,Noraldino Júnior
 46821,Betão
@@ -9155,24 +9177,24 @@ id_projeto_camara,nome_autor
 46798,Betão
 47714,Betão
 47675,Ana Rossignoli
-47675, André Mariano
-47675, Dr. Antônio Aguiar
-47675, Cido Reis
-47675, Chico Evangelista
-47675, Vagner de Oliveira
-47675, Isauro Calais
-47675, Dr. Fiorilo
-47675, Zé Márcio
-47675, João do Joaninho
-47675, Jucelio
-47675, Júlio Gasparette
-47675, Luiz Otávio Fernandes Coelho - Pardal
-47675, Nilton Militão
-47675, Noraldino Júnior
-47675, Oliveira Tresse
-47675, Betão
-47675, Rodrigo Mattos
-47675, Wanderson Castelar
+47675,André Mariano
+47675,Dr Antônio Aguiar
+47675,Cido Reis
+47675,Chico Evangelista
+47675,Vagner de Oliveira
+47675,Isauro Calais
+47675,Dr Fiorilo
+47675,Zé Márcio
+47675,João do Joaninho
+47675,Jucelio
+47675,Júlio Gasparette
+47675,Luiz Otávio Fernandes Coelho - Pardal
+47675,Nilton Militão
+47675,Noraldino Júnior
+47675,Oliveira Tresse
+47675,Betão
+47675,Rodrigo Mattos
+47675,Wanderson Castelar
 46772,Noraldino Júnior
 46795,Noraldino Júnior
 46814,Luiz Otávio Fernandes Coelho - Pardal
@@ -9186,7 +9208,7 @@ id_projeto_camara,nome_autor
 46796,Chico Evangelista
 46816,Isauro Calais
 47078,Betão
-47702,Dr. Antônio Aguiar
+47702,Dr Antônio Aguiar
 47526,Betão
 46769,Noraldino Júnior
 46792,Zé Márcio
@@ -9195,23 +9217,23 @@ id_projeto_camara,nome_autor
 47524,Betão
 46768,Noraldino Júnior
 46818,Júlio Gasparette
-46791,Dr. Antônio Aguiar
+46791,Dr Antônio Aguiar
 47685,Noraldino Júnior
-47527,Dr. Antônio Aguiar
+47527,Dr Antônio Aguiar
 46767,Noraldino Júnior
 46212,Wanderson Castelar
 46790,Noraldino Júnior
-46794,Dr. Antônio Aguiar
+46794,Dr Antônio Aguiar
 46766,Noraldino Júnior
 47682,Noraldino Júnior
-47077,Dr. Fiorilo
+47077,Dr Fiorilo
 47681,Noraldino Júnior
-47451,Dr. Antônio Aguiar
-47451, Dr. Antônio Aguiar
-47451, Luiz Otávio Fernandes Coelho - Pardal
-47451, Noraldino Júnior
+47451,Dr Antônio Aguiar
+47451,Dr Antônio Aguiar
+47451,Luiz Otávio Fernandes Coelho - Pardal
+47451,Noraldino Júnior
 46765,Noraldino Júnior
-46793,Dr. Antônio Aguiar
+46793,Dr Antônio Aguiar
 46206,Cido Reis
 47680,Noraldino Júnior
 46764,Noraldino Júnior
@@ -9224,7 +9246,7 @@ id_projeto_camara,nome_autor
 46788,Wanderson Castelar
 47678,Jucelio
 46762,Noraldino Júnior
-46178,Dr. Fiorilo
+46178,Dr Fiorilo
 46235,Luiz Otávio Fernandes Coelho - Pardal
 47677,Chico Evangelista
 46271,Vagner de Oliveira
@@ -9233,18 +9255,18 @@ id_projeto_camara,nome_autor
 46270,Vagner de Oliveira
 46204,Ana Rossignoli
 46230,Luiz Otávio Fernandes Coelho - Pardal
-46957,Dr. Fiorilo
+46957,Dr Fiorilo
 50391,Júlio Gasparette
 47673,Noraldino Júnior
 46269,Vagner de Oliveira
 46166,Chico Evangelista
 46244,Luiz Otávio Fernandes Coelho - Pardal
-46956,Dr. Fiorilo
+46956,Dr Fiorilo
 50559,Cido Reis
-50559, João do Joaninho
-50559, Júlio Gasparette
-50559, Nilton Militão
-50559, Rodrigo Mattos
+50559,João do Joaninho
+50559,Júlio Gasparette
+50559,Nilton Militão
+50559,Rodrigo Mattos
 50131,Cido Reis
 47672,Jucelio
 49849,Chico Evangelista
@@ -9256,10 +9278,10 @@ id_projeto_camara,nome_autor
 46165,Chico Evangelista
 46243,Luiz Otávio Fernandes Coelho - Pardal
 50392,Cido Reis
-50392, João do Joaninho
-50392, Júlio Gasparette
-50392, Nilton Militão
-50392, Rodrigo Mattos
+50392,João do Joaninho
+50392,Júlio Gasparette
+50392,Nilton Militão
+50392,Rodrigo Mattos
 49848,Chico Evangelista
 46852,Vagner de Oliveira
 47665,Noraldino Júnior
@@ -9267,84 +9289,84 @@ id_projeto_camara,nome_autor
 46161,Zé Márcio
 46237,Luiz Otávio Fernandes Coelho - Pardal
 50394,Cido Reis
-50394, João do Joaninho
-50394, Júlio Gasparette
-50394, Nilton Militão
-50394, Rodrigo Mattos
+50394,João do Joaninho
+50394,Júlio Gasparette
+50394,Nilton Militão
+50394,Rodrigo Mattos
 49522,Zé Márcio
 47664,Júlio Gasparette
 46850,Chico Evangelista
 47498,Isauro Calais
-47498, Luiz Otávio Fernandes Coelho - Pardal
-47498, Rodrigo Mattos
+47498,Luiz Otávio Fernandes Coelho - Pardal
+47498,Rodrigo Mattos
 46265,Vagner de Oliveira
 46239,Ana Rossignoli
 46154,Chico Evangelista
 49617,Jucelio
 47663,Zé Márcio
-47663, Jucelio
+47663,Jucelio
 46895,Noraldino Júnior
 46264,Vagner de Oliveira
-46117,Dr. Antônio Aguiar
+46117,Dr Antônio Aguiar
 46103,Chico Evangelista
 47076,Rodrigo Mattos
-48332,Dr. Fiorilo
+48332,Dr Fiorilo
 47662,Noraldino Júnior
 46854,Chico Evangelista
 46263,Vagner de Oliveira
 46111,Júlio Gasparette
-46105,Dr. Antônio Aguiar
+46105,Dr Antônio Aguiar
 48051,Cido Reis
-48051, João do Joaninho
-48051, Júlio Gasparette
-48051, Nilton Militão
-48051, Rodrigo Mattos
+48051,João do Joaninho
+48051,Júlio Gasparette
+48051,Nilton Militão
+48051,Rodrigo Mattos
 47659,Vagner de Oliveira
 46910,Zé Márcio
 46691,Cido Reis
 46068,Rodrigo Mattos
 46104,Cido Reis
-46949,Dr. Fiorilo
+46949,Dr Fiorilo
 47968,Cido Reis
-47968, João do Joaninho
-47968, Júlio Gasparette
-47968, Nilton Militão
-47968, Rodrigo Mattos
+47968,João do Joaninho
+47968,Júlio Gasparette
+47968,Nilton Militão
+47968,Rodrigo Mattos
 47658,Cido Reis
 46911,Zé Márcio
 46689,Cido Reis
 46134,Isauro Calais
 46056,Ana Rossignoli
 47079,Ana Rossignoli
-47079, Isauro Calais
-47079, Rodrigo Mattos
+47079,Isauro Calais
+47079,Rodrigo Mattos
 46861,Luiz Otávio Fernandes Coelho - Pardal
 46880,Mesa Diretora 2012/2013
-46880, Cido Reis
-46880, João do Joaninho
-46880, Júlio Gasparette
-46880, Nilton Militão
-46880, Rodrigo Mattos
+46880,Cido Reis
+46880,João do Joaninho
+46880,Júlio Gasparette
+46880,Nilton Militão
+46880,Rodrigo Mattos
 46688,Cido Reis
 46055,André Mariano
 46133,Luiz Otávio Fernandes Coelho - Pardal
-47657,Dr. Fiorilo
-47094,Dr. Antônio Aguiar
-49619,Dr. Fiorilo
+47657,Dr Fiorilo
+47094,Dr Antônio Aguiar
+49619,Dr Fiorilo
 47644,Noraldino Júnior
 46862,Rodrigo Mattos
 46857,André Mariano
-47452,Dr. Antônio Aguiar
-47473,Dr. Antônio Aguiar
+47452,Dr Antônio Aguiar
+47473,Dr Antônio Aguiar
 46686,Cido Reis
 46054,Jucelio
 46132,Rodrigo Mattos
 47643,Noraldino Júnior
 46732,Jucelio
 46820,Betão
-46193,Dr. Antônio Aguiar
+46193,Dr Antônio Aguiar
 46131,Rodrigo Mattos
-46799,Dr. Fiorilo
+46799,Dr Fiorilo
 46053,Luiz Otávio Fernandes Coelho - Pardal
 47005,Wanderson Castelar
 55012,Executivo
@@ -9458,20 +9480,20 @@ id_projeto_camara,nome_autor
 55090,Chico Evangelista
 55068,José Laerte
 55067,Rodrigo Mattos
-55055,Dr. Fiorilo
-55054,Dr. Fiorilo
-55053,Dr. Fiorilo
+55055,Dr Fiorilo
+55054,Dr Fiorilo
+55053,Dr Fiorilo
 55367,Jucelio
 55366,Jucelio
 55365,Jucelio
 55364,Jucelio
-55364, Betão
+55364,Betão
 55363,Jucelio
 55362,Jucelio
 55361,Jucelio
-55052,Dr. Fiorilo
-55051,Dr. Fiorilo
-55050,Dr. Fiorilo
+55052,Dr Fiorilo
+55051,Dr Fiorilo
+55050,Dr Fiorilo
 55049,Cido Reis
 55048,Cido Reis
 55047,Cido Reis
@@ -9480,27 +9502,27 @@ id_projeto_camara,nome_autor
 55044,Zé Márcio
 55043,José Laerte
 55056,Jucelio
-55056, Betão
+55056,Betão
 55057,José Emanuel
 55042,Ana Rossignoli
-55042, André Mariano
-55042, Dr. Antônio Aguiar
-55042, Cido Reis
-55042, Chico Evangelista
-55042, Vagner de Oliveira
-55042, José Emanuel
-55042, José Laerte
-55042, Dr. Fiorilo
-55042, Zé Márcio
-55042, Jucelio
-55042, Júlio Gasparette
-55042, Leo de Oliveira
-55042, Luiz Otávio Fernandes Coelho - Pardal
-55042, Nilton Militão
-55042, Oliveira Tresse
-55042, Betão
-55042, Rodrigo Mattos
-55042, Wanderson Castelar
+55042,André Mariano
+55042,Dr Antônio Aguiar
+55042,Cido Reis
+55042,Chico Evangelista
+55042,Vagner de Oliveira
+55042,José Emanuel
+55042,José Laerte
+55042,Dr Fiorilo
+55042,Zé Márcio
+55042,Jucelio
+55042,Júlio Gasparette
+55042,Leo de Oliveira
+55042,Luiz Otávio Fernandes Coelho - Pardal
+55042,Nilton Militão
+55042,Oliveira Tresse
+55042,Betão
+55042,Rodrigo Mattos
+55042,Wanderson Castelar
 55037,Oliveira Tresse
 55036,Oliveira Tresse
 55035,Oliveira Tresse
@@ -9514,12 +9536,12 @@ id_projeto_camara,nome_autor
 55021,Júlio Gasparette
 55020,Júlio Gasparette
 55019,Júlio Gasparette
-55034,Dr. Fiorilo
-55033,Dr. Fiorilo
-55032,Dr. Fiorilo
-55031,Dr. Fiorilo
-55030,Dr. Fiorilo
-55029,Dr. Fiorilo
+55034,Dr Fiorilo
+55033,Dr Fiorilo
+55032,Dr Fiorilo
+55031,Dr Fiorilo
+55030,Dr Fiorilo
+55029,Dr Fiorilo
 56585,Zé Márcio
 56583,Zé Márcio
 55257,Zé Márcio
@@ -9531,7 +9553,7 @@ id_projeto_camara,nome_autor
 55002,André Mariano
 55001,André Mariano
 54999,Leo de Oliveira
-55000,Dr. Antônio Aguiar
+55000,Dr Antônio Aguiar
 54998,Leo de Oliveira
 54997,Leo de Oliveira
 54996,Leo de Oliveira
@@ -9552,12 +9574,12 @@ id_projeto_camara,nome_autor
 54974,André Mariano
 54973,André Mariano
 55308,Jucelio
-54971,Dr. Fiorilo
-54967,Dr. Antônio Aguiar
+54971,Dr Fiorilo
+54967,Dr Antônio Aguiar
 55041,Oliveira Tresse
 55040,Oliveira Tresse
 55039,Oliveira Tresse
-55304,Dr. Fiorilo
+55304,Dr Fiorilo
 54946,Luiz Otávio Fernandes Coelho - Pardal
 54945,Vagner de Oliveira
 54944,Vagner de Oliveira
@@ -9577,12 +9599,12 @@ id_projeto_camara,nome_autor
 54928,Cido Reis
 54927,Cido Reis
 54926,Cido Reis
-54924,Dr. Antônio Aguiar
-54923,Dr. Antônio Aguiar
-54922,Dr. Fiorilo
+54924,Dr Antônio Aguiar
+54923,Dr Antônio Aguiar
+54922,Dr Fiorilo
 54920,Zé Márcio
 54884,André Mariano
-54884, Dr. Fiorilo
+54884,Dr Fiorilo
 54895,Oliveira Tresse
 54894,Oliveira Tresse
 54893,Oliveira Tresse
@@ -9597,8 +9619,8 @@ id_projeto_camara,nome_autor
 54913,Luiz Otávio Fernandes Coelho - Pardal
 54912,Luiz Otávio Fernandes Coelho - Pardal
 54911,Luiz Otávio Fernandes Coelho - Pardal
-54897,Dr. Fiorilo
-54896,Dr. Fiorilo
+54897,Dr Fiorilo
+54896,Dr Fiorilo
 54910,Cido Reis
 54909,Cido Reis
 54908,Cido Reis
@@ -9632,7 +9654,7 @@ id_projeto_camara,nome_autor
 54850,Chico Evangelista
 54849,Chico Evangelista
 54848,Chico Evangelista
-54860,Dr. Fiorilo
+54860,Dr Fiorilo
 54880,Leo de Oliveira
 54879,Leo de Oliveira
 54878,Leo de Oliveira
@@ -9653,40 +9675,40 @@ id_projeto_camara,nome_autor
 54831,Júlio Gasparette
 54846,Zé Márcio
 54847,Zé Márcio
-54877,Dr. Fiorilo
-54876,Dr. Fiorilo
+54877,Dr Fiorilo
+54876,Dr Fiorilo
 54875,Chico Evangelista
 54874,Chico Evangelista
 54873,Chico Evangelista
 55315,Ana Rossignoli
-55315, André Mariano
-55315, Dr. Antônio Aguiar
-55315, Cido Reis
-55315, Chico Evangelista
-55315, Vagner de Oliveira
-55315, Isauro Calais
-55315, José Emanuel
-55315, José Laerte
-55315, Dr. Fiorilo
-55315, Zé Márcio
-55315, João do Joaninho
-55315, Jucelio
-55315, Júlio Gasparette
-55315, Leo de Oliveira
-55315, Luiz Otávio Fernandes Coelho - Pardal
-55315, Nilton Militão
-55315, Noraldino Júnior
-55315, Oliveira Tresse
-55315, Betão
-55315, Rodrigo Mattos
-55315, Wanderson Castelar
+55315,André Mariano
+55315,Dr Antônio Aguiar
+55315,Cido Reis
+55315,Chico Evangelista
+55315,Vagner de Oliveira
+55315,Isauro Calais
+55315,José Emanuel
+55315,José Laerte
+55315,Dr Fiorilo
+55315,Zé Márcio
+55315,João do Joaninho
+55315,Jucelio
+55315,Júlio Gasparette
+55315,Leo de Oliveira
+55315,Luiz Otávio Fernandes Coelho - Pardal
+55315,Nilton Militão
+55315,Noraldino Júnior
+55315,Oliveira Tresse
+55315,Betão
+55315,Rodrigo Mattos
+55315,Wanderson Castelar
 54781,Leo de Oliveira
 54780,Leo de Oliveira
 54779,Leo de Oliveira
 54784,Ana Rossignoli
 54783,Ana Rossignoli
 54785,Chico Evangelista
-54746,Dr. Fiorilo
+54746,Dr Fiorilo
 54745,Zé Márcio
 54825,Júlio Gasparette
 54824,Júlio Gasparette
@@ -9744,10 +9766,10 @@ id_projeto_camara,nome_autor
 54758,Jucelio
 54757,Jucelio
 54756,Jucelio
-54755,Dr. Fiorilo
+54755,Dr Fiorilo
 54826,Wanderson Castelar
-54744,Dr. Fiorilo
-54743,Dr. Fiorilo
+54744,Dr Fiorilo
+54743,Dr Fiorilo
 54742,Luiz Otávio Fernandes Coelho - Pardal
 54741,Luiz Otávio Fernandes Coelho - Pardal
 54740,Chico Evangelista
@@ -9769,14 +9791,14 @@ id_projeto_camara,nome_autor
 54720,Chico Evangelista
 54718,Chico Evangelista
 54715,Chico Evangelista
-54714,Dr. Antônio Aguiar
-54713,Dr. Antônio Aguiar
-54712,Dr. Antônio Aguiar
-54710,Dr. Antônio Aguiar
-54709,Dr. Antônio Aguiar
-54708,Dr. Antônio Aguiar
-54707,Dr. Antônio Aguiar
-54706,Dr. Antônio Aguiar
+54714,Dr Antônio Aguiar
+54713,Dr Antônio Aguiar
+54712,Dr Antônio Aguiar
+54710,Dr Antônio Aguiar
+54709,Dr Antônio Aguiar
+54708,Dr Antônio Aguiar
+54707,Dr Antônio Aguiar
+54706,Dr Antônio Aguiar
 54703,Oliveira Tresse
 54702,Oliveira Tresse
 54701,Oliveira Tresse
@@ -9796,14 +9818,14 @@ id_projeto_camara,nome_autor
 54687,Cido Reis
 54686,Cido Reis
 54684,Cido Reis
-54683,Dr. Fiorilo
-54682,Dr. Fiorilo
-54677,Dr. Fiorilo
-54676,Dr. Fiorilo
+54683,Dr Fiorilo
+54682,Dr Fiorilo
+54677,Dr Fiorilo
+54676,Dr Fiorilo
 54674,Betão
 54675,Jucelio
 54673,Zé Márcio
-54586,Dr. Fiorilo
+54586,Dr Fiorilo
 54596,Wanderson Castelar
 54595,Wanderson Castelar
 54594,Wanderson Castelar
@@ -9823,9 +9845,9 @@ id_projeto_camara,nome_autor
 54607,Cido Reis
 54605,Cido Reis
 54604,Cido Reis
-54612,Dr. Antônio Aguiar
-54611,Dr. Antônio Aguiar
-54610,Dr. Antônio Aguiar
+54612,Dr Antônio Aguiar
+54611,Dr Antônio Aguiar
+54610,Dr Antônio Aguiar
 54581,Luiz Otávio Fernandes Coelho - Pardal
 54592,Zé Márcio
 54582,Chico Evangelista
@@ -9838,28 +9860,28 @@ id_projeto_camara,nome_autor
 54657,Júlio Gasparette
 54656,Júlio Gasparette
 54655,Júlio Gasparette
-54555,Dr. Fiorilo
-54554,Dr. Fiorilo
+54555,Dr Fiorilo
+54554,Dr Fiorilo
 54553,Luiz Otávio Fernandes Coelho - Pardal
 54588,Ana Rossignoli
-54588, André Mariano
-54588, Dr. Antônio Aguiar
-54588, Cido Reis
-54588, Chico Evangelista
-54588, Vagner de Oliveira
-54588, José Emanuel
-54588, José Laerte
-54588, Dr. Fiorilo
-54588, Zé Márcio
-54588, Jucelio
-54588, Júlio Gasparette
-54588, Leo de Oliveira
-54588, Luiz Otávio Fernandes Coelho - Pardal
-54588, Nilton Militão
-54588, Oliveira Tresse
-54588, Betão
-54588, Rodrigo Mattos
-54588, Wanderson Castelar
+54588,André Mariano
+54588,Dr Antônio Aguiar
+54588,Cido Reis
+54588,Chico Evangelista
+54588,Vagner de Oliveira
+54588,José Emanuel
+54588,José Laerte
+54588,Dr Fiorilo
+54588,Zé Márcio
+54588,Jucelio
+54588,Júlio Gasparette
+54588,Leo de Oliveira
+54588,Luiz Otávio Fernandes Coelho - Pardal
+54588,Nilton Militão
+54588,Oliveira Tresse
+54588,Betão
+54588,Rodrigo Mattos
+54588,Wanderson Castelar
 54552,Betão
 54551,Oliveira Tresse
 54550,Oliveira Tresse
@@ -9891,43 +9913,43 @@ id_projeto_camara,nome_autor
 54543,Luiz Otávio Fernandes Coelho - Pardal
 54542,Cido Reis
 54660,Ana Rossignoli
-54660, André Mariano
-54660, Dr. Antônio Aguiar
-54660, Cido Reis
-54660, Chico Evangelista
-54660, Vagner de Oliveira
-54660, José Emanuel
-54660, José Laerte
-54660, Dr. Fiorilo
-54660, Zé Márcio
-54660, Jucelio
-54660, Júlio Gasparette
-54660, Leo de Oliveira
-54660, Luiz Otávio Fernandes Coelho - Pardal
-54660, Nilton Militão
-54660, Oliveira Tresse
-54660, Betão
-54660, Rodrigo Mattos
-54660, Wanderson Castelar
+54660,André Mariano
+54660,Dr Antônio Aguiar
+54660,Cido Reis
+54660,Chico Evangelista
+54660,Vagner de Oliveira
+54660,José Emanuel
+54660,José Laerte
+54660,Dr Fiorilo
+54660,Zé Márcio
+54660,Jucelio
+54660,Júlio Gasparette
+54660,Leo de Oliveira
+54660,Luiz Otávio Fernandes Coelho - Pardal
+54660,Nilton Militão
+54660,Oliveira Tresse
+54660,Betão
+54660,Rodrigo Mattos
+54660,Wanderson Castelar
 54562,Ana Rossignoli
-54562, André Mariano
-54562, Dr. Antônio Aguiar
-54562, Cido Reis
-54562, Chico Evangelista
-54562, Vagner de Oliveira
-54562, José Emanuel
-54562, José Laerte
-54562, Dr. Fiorilo
-54562, Zé Márcio
-54562, Jucelio
-54562, Júlio Gasparette
-54562, Leo de Oliveira
-54562, Luiz Otávio Fernandes Coelho - Pardal
-54562, Nilton Militão
-54562, Oliveira Tresse
-54562, Betão
-54562, Rodrigo Mattos
-54562, Wanderson Castelar
+54562,André Mariano
+54562,Dr Antônio Aguiar
+54562,Cido Reis
+54562,Chico Evangelista
+54562,Vagner de Oliveira
+54562,José Emanuel
+54562,José Laerte
+54562,Dr Fiorilo
+54562,Zé Márcio
+54562,Jucelio
+54562,Júlio Gasparette
+54562,Leo de Oliveira
+54562,Luiz Otávio Fernandes Coelho - Pardal
+54562,Nilton Militão
+54562,Oliveira Tresse
+54562,Betão
+54562,Rodrigo Mattos
+54562,Wanderson Castelar
 54473,Júlio Gasparette
 54472,Júlio Gasparette
 54471,Júlio Gasparette
@@ -9951,8 +9973,8 @@ id_projeto_camara,nome_autor
 54624,Cido Reis
 54623,Cido Reis
 54622,Cido Reis
-54529,Dr. Antônio Aguiar
-54528,Dr. Antônio Aguiar
+54529,Dr Antônio Aguiar
+54528,Dr Antônio Aguiar
 54520,Chico Evangelista
 54654,Júlio Gasparette
 54653,Júlio Gasparette
@@ -9972,11 +9994,11 @@ id_projeto_camara,nome_autor
 54638,Júlio Gasparette
 54527,Jucelio
 54526,Jucelio
-54525,Dr. Fiorilo
-54524,Dr. Fiorilo
-54523,Dr. Fiorilo
-54522,Dr. Fiorilo
-54521,Dr. Fiorilo
+54525,Dr Fiorilo
+54524,Dr Fiorilo
+54523,Dr Fiorilo
+54522,Dr Fiorilo
+54521,Dr Fiorilo
 54637,Cido Reis
 54636,Cido Reis
 54635,Cido Reis
@@ -9998,8 +10020,8 @@ id_projeto_camara,nome_autor
 54505,Cido Reis
 54504,Cido Reis
 54503,Cido Reis
-54502,Dr. Antônio Aguiar
-54501,Dr. Antônio Aguiar
+54502,Dr Antônio Aguiar
+54501,Dr Antônio Aguiar
 54500,André Mariano
 54499,André Mariano
 54498,André Mariano
@@ -10076,10 +10098,10 @@ id_projeto_camara,nome_autor
 57507,Wanderson Castelar
 54287,Oliveira Tresse
 54286,Oliveira Tresse
-54438,Dr. Fiorilo
-54437,Dr. Fiorilo
-54436,Dr. Fiorilo
-54435,Dr. Fiorilo
+54438,Dr Fiorilo
+54437,Dr Fiorilo
+54436,Dr Fiorilo
+54435,Dr Fiorilo
 54425,Chico Evangelista
 54424,Rodrigo Mattos
 54739,Luiz Otávio Fernandes Coelho - Pardal
@@ -10136,9 +10158,9 @@ id_projeto_camara,nome_autor
 54263,José Laerte
 54262,José Laerte
 54261,José Laerte
-54306,Dr. Fiorilo
-54305,Dr. Fiorilo
-54304,Dr. Fiorilo
+54306,Dr Fiorilo
+54305,Dr Fiorilo
+54304,Dr Fiorilo
 54303,José Emanuel
 54302,José Emanuel
 54313,Chico Evangelista
@@ -10162,9 +10184,9 @@ id_projeto_camara,nome_autor
 54249,Leo de Oliveira
 54329,Jucelio
 54328,Jucelio
-54248,Dr. Fiorilo
-54247,Dr. Fiorilo
-54246,Dr. Antônio Aguiar
+54248,Dr Fiorilo
+54247,Dr Fiorilo
+54246,Dr Antônio Aguiar
 54245,Ana Rossignoli
 54244,Ana Rossignoli
 54243,Ana Rossignoli
@@ -10288,7 +10310,7 @@ id_projeto_camara,nome_autor
 54093,Cido Reis
 54091,Cido Reis
 54148,Luiz Otávio Fernandes Coelho - Pardal
-54150,Dr. Antônio Aguiar
+54150,Dr Antônio Aguiar
 54152,Rodrigo Mattos
 54242,José Emanuel
 54076,Oliveira Tresse
@@ -10317,15 +10339,15 @@ id_projeto_camara,nome_autor
 54055,Chico Evangelista
 54054,Chico Evangelista
 54053,Chico Evangelista
-54052,Dr. Fiorilo
+54052,Dr Fiorilo
 54051,Leo de Oliveira
 54037,Luiz Otávio Fernandes Coelho - Pardal
 54036,Luiz Otávio Fernandes Coelho - Pardal
 54056,Betão
 57179,Ana Rossignoli
-57179, Vagner de Oliveira
-57179, José Emanuel
-57179, Júlio Gasparette
+57179,Vagner de Oliveira
+57179,José Emanuel
+57179,Júlio Gasparette
 54001,Wanderson Castelar
 54000,Wanderson Castelar
 53999,Wanderson Castelar
@@ -10385,56 +10407,56 @@ id_projeto_camara,nome_autor
 54020,Chico Evangelista
 54019,Chico Evangelista
 54018,Chico Evangelista
-53962,Dr. Fiorilo
+53962,Dr Fiorilo
 53969,Ana Rossignoli
-53969, André Mariano
-53969, Dr. Antônio Aguiar
-53969, Cido Reis
-53969, Chico Evangelista
-53969, Vagner de Oliveira
-53969, José Emanuel
-53969, José Laerte
-53969, Dr. Fiorilo
-53969, Zé Márcio
-53969, João do Joaninho
-53969, Jucelio
-53969, Júlio Gasparette
-53969, Leo de Oliveira
-53969, Luiz Otávio Fernandes Coelho - Pardal
-53969, Nilton Militão
-53969, Oliveira Tresse
-53969, Betão
-53969, Rodrigo Mattos
-53969, Wanderson Castelar
+53969,André Mariano
+53969,Dr Antônio Aguiar
+53969,Cido Reis
+53969,Chico Evangelista
+53969,Vagner de Oliveira
+53969,José Emanuel
+53969,José Laerte
+53969,Dr Fiorilo
+53969,Zé Márcio
+53969,João do Joaninho
+53969,Jucelio
+53969,Júlio Gasparette
+53969,Leo de Oliveira
+53969,Luiz Otávio Fernandes Coelho - Pardal
+53969,Nilton Militão
+53969,Oliveira Tresse
+53969,Betão
+53969,Rodrigo Mattos
+53969,Wanderson Castelar
 54032,Júlio Gasparette
 53875,Ana Rossignoli
-53915,Dr. Fiorilo
-53914,Dr. Fiorilo
-53913,Dr. Fiorilo
+53915,Dr Fiorilo
+53914,Dr Fiorilo
+53913,Dr Fiorilo
 53912,José Laerte
 53911,Rodrigo Mattos
 55615,Betão
 53907,Ana Rossignoli
-53907, André Mariano
-53907, Dr. Antônio Aguiar
-53907, Cido Reis
-53907, Chico Evangelista
-53907, Vagner de Oliveira
-53907, Isauro Calais
-53907, José Emanuel
-53907, José Laerte
-53907, Dr. Fiorilo
-53907, Zé Márcio
-53907, Jucelio
-53907, Júlio Gasparette
-53907, Leo de Oliveira
-53907, Luiz Otávio Fernandes Coelho - Pardal
-53907, Nilton Militão
-53907, Noraldino Júnior
-53907, Oliveira Tresse
-53907, Betão
-53907, Rodrigo Mattos
-53907, Wanderson Castelar
+53907,André Mariano
+53907,Dr Antônio Aguiar
+53907,Cido Reis
+53907,Chico Evangelista
+53907,Vagner de Oliveira
+53907,Isauro Calais
+53907,José Emanuel
+53907,José Laerte
+53907,Dr Fiorilo
+53907,Zé Márcio
+53907,Jucelio
+53907,Júlio Gasparette
+53907,Leo de Oliveira
+53907,Luiz Otávio Fernandes Coelho - Pardal
+53907,Nilton Militão
+53907,Noraldino Júnior
+53907,Oliveira Tresse
+53907,Betão
+53907,Rodrigo Mattos
+53907,Wanderson Castelar
 53900,Ana Rossignoli
 53899,Ana Rossignoli
 53898,Ana Rossignoli
@@ -10467,8 +10489,8 @@ id_projeto_camara,nome_autor
 53880,Júlio Gasparette
 53879,Júlio Gasparette
 53877,Júlio Gasparette
-53919,Dr. Fiorilo
-53918,Dr. Fiorilo
+53919,Dr Fiorilo
+53918,Dr Fiorilo
 53937,Cido Reis
 53936,Cido Reis
 53935,Cido Reis
@@ -10486,7 +10508,7 @@ id_projeto_camara,nome_autor
 53923,Cido Reis
 53917,Wanderson Castelar
 53916,José Laerte
-57498,Dr. Fiorilo
+57498,Dr Fiorilo
 53870,Betão
 53869,Betão
 53868,Betão
@@ -10535,7 +10557,7 @@ id_projeto_camara,nome_autor
 53805,Cido Reis
 53804,Cido Reis
 53803,Cido Reis
-53802,Dr. Antônio Aguiar
+53802,Dr Antônio Aguiar
 53823,Ana Rossignoli
 53781,Wanderson Castelar
 53780,Wanderson Castelar
@@ -10545,7 +10567,7 @@ id_projeto_camara,nome_autor
 53778,Leo de Oliveira
 53784,José Laerte
 53783,José Laerte
-53783, José Laerte
+53783,José Laerte
 53775,José Laerte
 53774,Jucelio
 53782,André Mariano
@@ -10559,18 +10581,18 @@ id_projeto_camara,nome_autor
 53770,Luiz Otávio Fernandes Coelho - Pardal
 53836,Jucelio
 53835,Jucelio
-53835, Jucelio
+53835,Jucelio
 53834,Jucelio
 53833,Jucelio
 53832,Jucelio
-53769,Dr. Fiorilo
-53768,Dr. Fiorilo
-53767,Dr. Fiorilo
-53766,Dr. Fiorilo
-53765,Dr. Fiorilo
-53764,Dr. Fiorilo
-53763,Dr. Fiorilo
-53762,Dr. Fiorilo
+53769,Dr Fiorilo
+53768,Dr Fiorilo
+53767,Dr Fiorilo
+53766,Dr Fiorilo
+53765,Dr Fiorilo
+53764,Dr Fiorilo
+53763,Dr Fiorilo
+53762,Dr Fiorilo
 53759,José Emanuel
 53758,José Emanuel
 53757,José Emanuel
@@ -10588,8 +10610,8 @@ id_projeto_camara,nome_autor
 53736,Cido Reis
 53735,Cido Reis
 53734,Cido Reis
-53825,Dr. Antônio Aguiar
-53824,Dr. Antônio Aguiar
+53825,Dr Antônio Aguiar
+53824,Dr Antônio Aguiar
 53733,André Mariano
 53732,André Mariano
 53731,André Mariano
@@ -10599,24 +10621,24 @@ id_projeto_camara,nome_autor
 53698,Jucelio
 53696,Jucelio
 53614,Ana Rossignoli
-53614, André Mariano
-53614, Dr. Antônio Aguiar
-53614, Cido Reis
-53614, Chico Evangelista
-53614, Vagner de Oliveira
-53614, José Emanuel
-53614, Dr. Fiorilo
-53614, Zé Márcio
-53614, João do Joaninho
-53614, Jucelio
-53614, Júlio Gasparette
-53614, Leo de Oliveira
-53614, Luiz Otávio Fernandes Coelho - Pardal
-53614, Nilton Militão
-53614, Oliveira Tresse
-53614, Betão
-53614, Rodrigo Mattos
-53614, Wanderson Castelar
+53614,André Mariano
+53614,Dr Antônio Aguiar
+53614,Cido Reis
+53614,Chico Evangelista
+53614,Vagner de Oliveira
+53614,José Emanuel
+53614,Dr Fiorilo
+53614,Zé Márcio
+53614,João do Joaninho
+53614,Jucelio
+53614,Júlio Gasparette
+53614,Leo de Oliveira
+53614,Luiz Otávio Fernandes Coelho - Pardal
+53614,Nilton Militão
+53614,Oliveira Tresse
+53614,Betão
+53614,Rodrigo Mattos
+53614,Wanderson Castelar
 53688,Wanderson Castelar
 53687,Wanderson Castelar
 53686,Wanderson Castelar
@@ -10687,8 +10709,8 @@ id_projeto_camara,nome_autor
 53654,Júlio Gasparette
 53652,Júlio Gasparette
 53650,Júlio Gasparette
-53620,Dr. Fiorilo
-53618,Dr. Fiorilo
+53620,Dr Fiorilo
+53618,Dr Fiorilo
 53631,Chico Evangelista
 53629,Chico Evangelista
 53627,Chico Evangelista
@@ -10696,7 +10718,7 @@ id_projeto_camara,nome_autor
 53624,Chico Evangelista
 53623,Chico Evangelista
 53622,Chico Evangelista
-53552,Dr. Antônio Aguiar
+53552,Dr Antônio Aguiar
 53651,Cido Reis
 53649,Cido Reis
 53648,Cido Reis
@@ -10744,7 +10766,7 @@ id_projeto_camara,nome_autor
 53513,João do Joaninho
 53511,João do Joaninho
 53510,João do Joaninho
-53597,Dr. Fiorilo
+53597,Dr Fiorilo
 53544,Wanderson Castelar
 53543,Wanderson Castelar
 53542,Vagner de Oliveira
@@ -10762,7 +10784,7 @@ id_projeto_camara,nome_autor
 53711,Júlio Gasparette
 53710,Júlio Gasparette
 53709,Júlio Gasparette
-53709, Júlio Gasparette
+53709,Júlio Gasparette
 53708,Júlio Gasparette
 53707,Júlio Gasparette
 53701,Júlio Gasparette
@@ -10775,17 +10797,17 @@ id_projeto_camara,nome_autor
 53535,Jucelio
 53532,Jucelio
 53527,Jucelio
-53538,Dr. Fiorilo
-53537,Dr. Fiorilo
+53538,Dr Fiorilo
+53537,Dr Fiorilo
 53523,Zé Márcio
 53520,Jucelio
-53520, Wanderson Castelar
-53694,Dr. Antônio Aguiar
-53694, Dr. Fiorilo
-53694, Wanderson Castelar
+53520,Wanderson Castelar
+53694,Dr Antônio Aguiar
+53694,Dr Fiorilo
+53694,Wanderson Castelar
 53518,Jucelio
-53517,Dr. Fiorilo
-53516,Dr. Fiorilo
+53517,Dr Fiorilo
+53516,Dr Fiorilo
 53515,Vagner de Oliveira
 53514,Chico Evangelista
 53471,Oliveira Tresse
@@ -10840,7 +10862,7 @@ id_projeto_camara,nome_autor
 53400,Cido Reis
 53399,Cido Reis
 53398,Luiz Otávio Fernandes Coelho - Pardal
-53397,Dr. Antônio Aguiar
+53397,Dr Antônio Aguiar
 53455,Luiz Otávio Fernandes Coelho - Pardal
 53454,Luiz Otávio Fernandes Coelho - Pardal
 53453,Luiz Otávio Fernandes Coelho - Pardal
@@ -10851,42 +10873,42 @@ id_projeto_camara,nome_autor
 53448,Luiz Otávio Fernandes Coelho - Pardal
 53447,Luiz Otávio Fernandes Coelho - Pardal
 53446,Luiz Otávio Fernandes Coelho - Pardal
-53445,Dr. Fiorilo
-53444,Dr. Fiorilo
+53445,Dr Fiorilo
+53444,Dr Fiorilo
 53443,Chico Evangelista
 53442,Chico Evangelista
 53441,João do Joaninho
-53440,Dr. Antônio Aguiar
+53440,Dr Antônio Aguiar
 53376,Luiz Otávio Fernandes Coelho - Pardal
 53375,Luiz Otávio Fernandes Coelho - Pardal
 53374,Luiz Otávio Fernandes Coelho - Pardal
 53373,Luiz Otávio Fernandes Coelho - Pardal
 53372,Luiz Otávio Fernandes Coelho - Pardal
-53378,Dr. Antônio Aguiar
-53377,Dr. Antônio Aguiar
+53378,Dr Antônio Aguiar
+53377,Dr Antônio Aguiar
 53379,Wanderson Castelar
 53381,Chico Evangelista
 53380,André Mariano
 53382,Zé Márcio
 53384,Ana Rossignoli
-53384, André Mariano
-53384, Dr. Antônio Aguiar
-53384, Cido Reis
-53384, Chico Evangelista
-53384, Vagner de Oliveira
-53384, José Emanuel
-53384, Dr. Fiorilo
-53384, Zé Márcio
-53384, João do Joaninho
-53384, Jucelio
-53384, Júlio Gasparette
-53384, Leo de Oliveira
-53384, Luiz Otávio Fernandes Coelho - Pardal
-53384, Nilton Militão
-53384, Oliveira Tresse
-53384, Betão
-53384, Rodrigo Mattos
-53384, Wanderson Castelar
+53384,André Mariano
+53384,Dr Antônio Aguiar
+53384,Cido Reis
+53384,Chico Evangelista
+53384,Vagner de Oliveira
+53384,José Emanuel
+53384,Dr Fiorilo
+53384,Zé Márcio
+53384,João do Joaninho
+53384,Jucelio
+53384,Júlio Gasparette
+53384,Leo de Oliveira
+53384,Luiz Otávio Fernandes Coelho - Pardal
+53384,Nilton Militão
+53384,Oliveira Tresse
+53384,Betão
+53384,Rodrigo Mattos
+53384,Wanderson Castelar
 53370,Vagner de Oliveira
 53369,Vagner de Oliveira
 53368,Oliveira Tresse
@@ -10935,27 +10957,27 @@ id_projeto_camara,nome_autor
 53271,José Emanuel
 53270,José Emanuel
 53274,Leo de Oliveira
-53272,Dr. Fiorilo
+53272,Dr Fiorilo
 53273,Chico Evangelista
 53383,Ana Rossignoli
-53383, André Mariano
-53383, Dr. Antônio Aguiar
-53383, Cido Reis
-53383, Chico Evangelista
-53383, Vagner de Oliveira
-53383, José Emanuel
-53383, Dr. Fiorilo
-53383, Zé Márcio
-53383, João do Joaninho
-53383, Jucelio
-53383, Júlio Gasparette
-53383, Leo de Oliveira
-53383, Luiz Otávio Fernandes Coelho - Pardal
-53383, Nilton Militão
-53383, Oliveira Tresse
-53383, Betão
-53383, Rodrigo Mattos
-53383, Wanderson Castelar
+53383,André Mariano
+53383,Dr Antônio Aguiar
+53383,Cido Reis
+53383,Chico Evangelista
+53383,Vagner de Oliveira
+53383,José Emanuel
+53383,Dr Fiorilo
+53383,Zé Márcio
+53383,João do Joaninho
+53383,Jucelio
+53383,Júlio Gasparette
+53383,Leo de Oliveira
+53383,Luiz Otávio Fernandes Coelho - Pardal
+53383,Nilton Militão
+53383,Oliveira Tresse
+53383,Betão
+53383,Rodrigo Mattos
+53383,Wanderson Castelar
 53276,Betão
 53275,Betão
 53281,Oliveira Tresse
@@ -10971,9 +10993,9 @@ id_projeto_camara,nome_autor
 53288,Júlio Gasparette
 53286,Júlio Gasparette
 53285,Júlio Gasparette
-53284,Dr. Fiorilo
-53283,Dr. Fiorilo
-53282,Dr. Fiorilo
+53284,Dr Fiorilo
+53283,Dr Fiorilo
+53282,Dr Fiorilo
 53317,Chico Evangelista
 53316,Chico Evangelista
 53315,Chico Evangelista
@@ -11013,8 +11035,8 @@ id_projeto_camara,nome_autor
 53168,Júlio Gasparette
 53166,Júlio Gasparette
 53165,Júlio Gasparette
-53162,Dr. Fiorilo
-53161,Dr. Fiorilo
+53162,Dr Fiorilo
+53161,Dr Fiorilo
 53262,Cido Reis
 53261,Cido Reis
 53260,Cido Reis
@@ -11043,7 +11065,7 @@ id_projeto_camara,nome_autor
 53153,Júlio Gasparette
 53152,Júlio Gasparette
 53151,Executivo
-53151, Júlio Gasparette
+53151,Júlio Gasparette
 53150,Júlio Gasparette
 53149,Júlio Gasparette
 53148,Júlio Gasparette
@@ -11085,33 +11107,33 @@ id_projeto_camara,nome_autor
 53218,Jucelio
 53217,Jucelio
 53216,Jucelio
-53255,Dr. Fiorilo
-53254,Dr. Fiorilo
-53253,Dr. Fiorilo
-53252,Dr. Fiorilo
-53251,Dr. Fiorilo
-53250,Dr. Fiorilo
-53249,Dr. Fiorilo
-53248,Dr. Fiorilo
-53247,Dr. Fiorilo
-53246,Dr. Fiorilo
-53245,Dr. Fiorilo
-53243,Dr. Fiorilo
-53242,Dr. Fiorilo
-53241,Dr. Fiorilo
-53240,Dr. Fiorilo
-53239,Dr. Fiorilo
-53238,Dr. Fiorilo
-53237,Dr. Fiorilo
-53236,Dr. Fiorilo
-53235,Dr. Fiorilo
-53234,Dr. Fiorilo
-53233,Dr. Fiorilo
-53232,Dr. Fiorilo
-53231,Dr. Fiorilo
-53229,Dr. Fiorilo
-53228,Dr. Fiorilo
-53227,Dr. Fiorilo
+53255,Dr Fiorilo
+53254,Dr Fiorilo
+53253,Dr Fiorilo
+53252,Dr Fiorilo
+53251,Dr Fiorilo
+53250,Dr Fiorilo
+53249,Dr Fiorilo
+53248,Dr Fiorilo
+53247,Dr Fiorilo
+53246,Dr Fiorilo
+53245,Dr Fiorilo
+53243,Dr Fiorilo
+53242,Dr Fiorilo
+53241,Dr Fiorilo
+53240,Dr Fiorilo
+53239,Dr Fiorilo
+53238,Dr Fiorilo
+53237,Dr Fiorilo
+53236,Dr Fiorilo
+53235,Dr Fiorilo
+53234,Dr Fiorilo
+53233,Dr Fiorilo
+53232,Dr Fiorilo
+53231,Dr Fiorilo
+53229,Dr Fiorilo
+53228,Dr Fiorilo
+53227,Dr Fiorilo
 53109,João do Joaninho
 53108,João do Joaninho
 53107,João do Joaninho
@@ -11142,13 +11164,13 @@ id_projeto_camara,nome_autor
 53111,André Mariano
 53110,André Mariano
 53127,José Emanuel
-53126,Dr. Antônio Aguiar
+53126,Dr Antônio Aguiar
 53125,Ana Rossignoli
 53124,Rodrigo Mattos
 53131,Ana Rossignoli
-53131, Vagner de Oliveira
-53131, Jucelio
-53131, Betão
+53131,Vagner de Oliveira
+53131,Jucelio
+53131,Betão
 53130,Cido Reis
 53129,Vagner de Oliveira
 53128,Júlio Gasparette
@@ -11197,19 +11219,19 @@ id_projeto_camara,nome_autor
 53022,Zé Márcio
 53021,Zé Márcio
 53020,Zé Márcio
-53019,Dr. Fiorilo
-53018,Dr. Fiorilo
-53017,Dr. Fiorilo
-53016,Dr. Antônio Aguiar
-53015,Dr. Antônio Aguiar
-53014,Dr. Antônio Aguiar
+53019,Dr Fiorilo
+53018,Dr Fiorilo
+53017,Dr Fiorilo
+53016,Dr Antônio Aguiar
+53015,Dr Antônio Aguiar
+53014,Dr Antônio Aguiar
 53013,Wanderson Castelar
 53008,José Emanuel
 53007,Chico Evangelista
 53025,Ana Rossignoli
-53025, Vagner de Oliveira
-53025, José Emanuel
-53025, Júlio Gasparette
+53025,Vagner de Oliveira
+53025,José Emanuel
+53025,Júlio Gasparette
 53048,Cido Reis
 52971,Júlio Gasparette
 52970,Júlio Gasparette
@@ -11226,17 +11248,17 @@ id_projeto_camara,nome_autor
 52959,Júlio Gasparette
 52958,Júlio Gasparette
 52955,Júlio Gasparette
-53596,Dr. Fiorilo
-53595,Dr. Fiorilo
-53594,Dr. Fiorilo
-53593,Dr. Fiorilo
-53592,Dr. Fiorilo
-53591,Dr. Fiorilo
-53590,Dr. Fiorilo
-53589,Dr. Fiorilo
-53588,Dr. Fiorilo
-53587,Dr. Fiorilo
-53586,Dr. Fiorilo
+53596,Dr Fiorilo
+53595,Dr Fiorilo
+53594,Dr Fiorilo
+53593,Dr Fiorilo
+53592,Dr Fiorilo
+53591,Dr Fiorilo
+53590,Dr Fiorilo
+53589,Dr Fiorilo
+53588,Dr Fiorilo
+53587,Dr Fiorilo
+53586,Dr Fiorilo
 53064,Zé Márcio
 53063,Zé Márcio
 53062,Zé Márcio
@@ -11280,7 +11302,7 @@ id_projeto_camara,nome_autor
 52933,Cido Reis
 52932,Cido Reis
 52931,Cido Reis
-52930,Dr. Antônio Aguiar
+52930,Dr Antônio Aguiar
 52901,Júlio Gasparette
 52900,Júlio Gasparette
 52899,Júlio Gasparette
@@ -11304,8 +11326,8 @@ id_projeto_camara,nome_autor
 52904,Chico Evangelista
 52903,Chico Evangelista
 52902,Chico Evangelista
-52909,Dr. Fiorilo
-52908,Dr. Fiorilo
+52909,Dr Fiorilo
+52908,Dr Fiorilo
 52911,Rodrigo Mattos
 52910,Rodrigo Mattos
 52836,Betão
@@ -11332,7 +11354,7 @@ id_projeto_camara,nome_autor
 52867,Ana Rossignoli
 52866,Ana Rossignoli
 52865,Ana Rossignoli
-52864,Dr. Fiorilo
+52864,Dr Fiorilo
 52863,Chico Evangelista
 52775,Júlio Gasparette
 52774,Júlio Gasparette
@@ -11344,26 +11366,26 @@ id_projeto_camara,nome_autor
 52768,Leo de Oliveira
 52767,Leo de Oliveira
 52766,Luiz Otávio Fernandes Coelho - Pardal
-52765,Dr. Antônio Aguiar
+52765,Dr Antônio Aguiar
 52780,Ana Rossignoli
-52780, André Mariano
-52780, Dr. Antônio Aguiar
-52780, Cido Reis
-52780, Chico Evangelista
-52780, Vagner de Oliveira
-52780, José Emanuel
-52780, Dr. Fiorilo
-52780, Zé Márcio
-52780, João do Joaninho
-52780, Jucelio
-52780, Leo de Oliveira
-52780, Nilton Militão
-52780, Oliveira Tresse
-52780, Betão
-52780, Rodrigo Mattos
-52780, Wanderson Castelar
+52780,André Mariano
+52780,Dr Antônio Aguiar
+52780,Cido Reis
+52780,Chico Evangelista
+52780,Vagner de Oliveira
+52780,José Emanuel
+52780,Dr Fiorilo
+52780,Zé Márcio
+52780,João do Joaninho
+52780,Jucelio
+52780,Leo de Oliveira
+52780,Nilton Militão
+52780,Oliveira Tresse
+52780,Betão
+52780,Rodrigo Mattos
+52780,Wanderson Castelar
 52913,Luiz Otávio Fernandes Coelho - Pardal
-52912,Dr. Fiorilo
+52912,Dr Fiorilo
 52787,Wanderson Castelar
 52786,Wanderson Castelar
 52785,Wanderson Castelar
@@ -11421,21 +11443,21 @@ id_projeto_camara,nome_autor
 52748,Ana Rossignoli
 52741,Oliveira Tresse
 52740,Zé Márcio
-52746,Dr. Fiorilo
+52746,Dr Fiorilo
 52747,Chico Evangelista
 52744,Luiz Otávio Fernandes Coelho - Pardal
 52743,Luiz Otávio Fernandes Coelho - Pardal
 52742,Luiz Otávio Fernandes Coelho - Pardal
 53031,Leo de Oliveira
 53032,Leo de Oliveira
-53058,Dr. Fiorilo
-53057,Dr. Fiorilo
-53056,Dr. Fiorilo
-53038,Dr. Fiorilo
-53037,Dr. Fiorilo
-53055,Dr. Fiorilo
-53054,Dr. Fiorilo
-53053,Dr. Fiorilo
+53058,Dr Fiorilo
+53057,Dr Fiorilo
+53056,Dr Fiorilo
+53038,Dr Fiorilo
+53037,Dr Fiorilo
+53055,Dr Fiorilo
+53054,Dr Fiorilo
+53053,Dr Fiorilo
 52862,Chico Evangelista
 52861,Chico Evangelista
 52860,Chico Evangelista
@@ -11451,7 +11473,7 @@ id_projeto_camara,nome_autor
 52712,André Mariano
 52711,André Mariano
 52710,André Mariano
-52709,Dr. Antônio Aguiar
+52709,Dr Antônio Aguiar
 52745,Vagner de Oliveira
 52880,Betão
 52879,Betão
@@ -11488,37 +11510,37 @@ id_projeto_camara,nome_autor
 52644,Zé Márcio
 52643,Zé Márcio
 52642,Zé Márcio
-52621,Dr. Fiorilo
-52620,Dr. Fiorilo
-52619,Dr. Fiorilo
+52621,Dr Fiorilo
+52620,Dr Fiorilo
+52619,Dr Fiorilo
 52617,José Emanuel
 52640,Ana Rossignoli
-52640, André Mariano
-52640, Dr. Antônio Aguiar
-52640, Cido Reis
-52640, Chico Evangelista
-52640, Vagner de Oliveira
-52640, José Emanuel
-52640, Dr. Fiorilo
-52640, Zé Márcio
-52640, João do Joaninho
-52640, Jucelio
-52640, Júlio Gasparette
-52640, Leo de Oliveira
-52640, Luiz Otávio Fernandes Coelho - Pardal
-52640, Nilton Militão
-52640, Oliveira Tresse
-52640, Betão
-52640, Rodrigo Mattos
-52640, Wanderson Castelar
+52640,André Mariano
+52640,Dr Antônio Aguiar
+52640,Cido Reis
+52640,Chico Evangelista
+52640,Vagner de Oliveira
+52640,José Emanuel
+52640,Dr Fiorilo
+52640,Zé Márcio
+52640,João do Joaninho
+52640,Jucelio
+52640,Júlio Gasparette
+52640,Leo de Oliveira
+52640,Luiz Otávio Fernandes Coelho - Pardal
+52640,Nilton Militão
+52640,Oliveira Tresse
+52640,Betão
+52640,Rodrigo Mattos
+52640,Wanderson Castelar
 52639,Ana Rossignoli
-52639, André Mariano
-52639, Dr. Antônio Aguiar
-52639, Cido Reis
-52639, Chico Evangelista
-52639, Vagner de Oliveira
-52639, José Emanuel
-52639, João do Joaninho
+52639,André Mariano
+52639,Dr Antônio Aguiar
+52639,Cido Reis
+52639,Chico Evangelista
+52639,Vagner de Oliveira
+52639,José Emanuel
+52639,João do Joaninho
 52697,Betão
 52696,Betão
 52614,Oliveira Tresse
@@ -11549,10 +11571,10 @@ id_projeto_camara,nome_autor
 52659,Júlio Gasparette
 52658,Júlio Gasparette
 52657,Júlio Gasparette
-52695,Dr. Fiorilo
-52694,Dr. Fiorilo
-52693,Dr. Fiorilo
-52692,Dr. Fiorilo
+52695,Dr Fiorilo
+52694,Dr Fiorilo
+52693,Dr Fiorilo
+52692,Dr Fiorilo
 52653,José Emanuel
 52638,José Emanuel
 52637,José Emanuel
@@ -11588,17 +11610,17 @@ id_projeto_camara,nome_autor
 52547,Nilton Militão
 52546,Nilton Militão
 52545,Nilton Militão
-52544,Dr. Fiorilo
-52543,Dr. Fiorilo
+52544,Dr Fiorilo
+52543,Dr Fiorilo
 52542,Cido Reis
 52541,Cido Reis
 52540,Luiz Otávio Fernandes Coelho - Pardal
 52534,Leo de Oliveira
 52533,Chico Evangelista
 57232,Ana Rossignoli
-57232, Vagner de Oliveira
-57232, José Emanuel
-57232, Júlio Gasparette
+57232,Vagner de Oliveira
+57232,José Emanuel
+57232,Júlio Gasparette
 52557,Rodrigo Mattos
 52556,Wanderson Castelar
 52555,Wanderson Castelar
@@ -11643,10 +11665,10 @@ id_projeto_camara,nome_autor
 52573,Júlio Gasparette
 52572,Júlio Gasparette
 52571,Júlio Gasparette
-52503,Dr. Fiorilo
-52501,Dr. Fiorilo
-52500,Dr. Fiorilo
-52499,Dr. Fiorilo
+52503,Dr Fiorilo
+52501,Dr Fiorilo
+52500,Dr Fiorilo
+52499,Dr Fiorilo
 52498,José Emanuel
 52497,José Emanuel
 52495,Cido Reis
@@ -11702,9 +11724,9 @@ id_projeto_camara,nome_autor
 52449,Zé Márcio
 52448,Zé Márcio
 52447,Zé Márcio
-52453,Dr. Fiorilo
-52452,Dr. Fiorilo
-52451,Dr. Fiorilo
+52453,Dr Fiorilo
+52452,Dr Fiorilo
+52451,Dr Fiorilo
 52456,Betão
 52455,Jucelio
 52454,Cido Reis
@@ -11714,9 +11736,9 @@ id_projeto_camara,nome_autor
 52365,Luiz Otávio Fernandes Coelho - Pardal
 52364,Luiz Otávio Fernandes Coelho - Pardal
 52362,Luiz Otávio Fernandes Coelho - Pardal
-52360,Dr. Fiorilo
-52359,Dr. Fiorilo
-52357,Dr. Fiorilo
+52360,Dr Fiorilo
+52359,Dr Fiorilo
+52357,Dr Fiorilo
 52403,Cido Reis
 52402,Cido Reis
 52401,Cido Reis
@@ -11754,9 +11776,9 @@ id_projeto_camara,nome_autor
 52564,Leo de Oliveira
 52531,José Emanuel
 52568,Chico Evangelista
-52568, Vagner de Oliveira
-52568, João do Joaninho
-52568, Oliveira Tresse
+52568,Vagner de Oliveira
+52568,João do Joaninho
+52568,Oliveira Tresse
 52372,Oliveira Tresse
 52371,Oliveira Tresse
 52369,Oliveira Tresse
@@ -11774,21 +11796,21 @@ id_projeto_camara,nome_autor
 52420,Jucelio
 52418,Jucelio
 52417,Jucelio
-52346,Dr. Fiorilo
-52344,Dr. Fiorilo
-52343,Dr. Fiorilo
-52342,Dr. Fiorilo
-52341,Dr. Fiorilo
-52340,Dr. Fiorilo
-52339,Dr. Fiorilo
-52338,Dr. Fiorilo
-52337,Dr. Fiorilo
-52336,Dr. Fiorilo
-52335,Dr. Fiorilo
-52334,Dr. Fiorilo
+52346,Dr Fiorilo
+52344,Dr Fiorilo
+52343,Dr Fiorilo
+52342,Dr Fiorilo
+52341,Dr Fiorilo
+52340,Dr Fiorilo
+52339,Dr Fiorilo
+52338,Dr Fiorilo
+52337,Dr Fiorilo
+52336,Dr Fiorilo
+52335,Dr Fiorilo
+52334,Dr Fiorilo
 52333,Executivo
-52333, Dr. Fiorilo
-52332,Dr. Fiorilo
+52333,Dr Fiorilo
+52332,Dr Fiorilo
 52277,Zé Márcio
 52275,Zé Márcio
 52274,Zé Márcio
@@ -11820,7 +11842,7 @@ id_projeto_camara,nome_autor
 52331,André Mariano
 52330,André Mariano
 52328,André Mariano
-52349,Dr. Antônio Aguiar
+52349,Dr Antônio Aguiar
 52567,José Emanuel
 52376,Zé Márcio
 52212,Wanderson Castelar
@@ -11880,8 +11902,8 @@ id_projeto_camara,nome_autor
 52205,Júlio Gasparette
 52201,Júlio Gasparette
 52375,Zé Márcio
-52137,Dr. Fiorilo
-52135,Dr. Fiorilo
+52137,Dr Fiorilo
+52135,Dr Fiorilo
 52132,João do Joaninho
 52130,João do Joaninho
 52127,João do Joaninho
@@ -11921,10 +11943,10 @@ id_projeto_camara,nome_autor
 52216,Luiz Otávio Fernandes Coelho - Pardal
 52181,Leo de Oliveira
 52180,Leo de Oliveira
-52179,Dr. Fiorilo
-52178,Dr. Fiorilo
-52177,Dr. Fiorilo
-52176,Dr. Fiorilo
+52179,Dr Fiorilo
+52178,Dr Fiorilo
+52177,Dr Fiorilo
+52176,Dr Fiorilo
 52175,Cido Reis
 52173,Cido Reis
 52171,Cido Reis
@@ -11936,8 +11958,8 @@ id_projeto_camara,nome_autor
 52154,Cido Reis
 52151,Cido Reis
 52144,Cido Reis
-52141,Dr. Antônio Aguiar
-52139,Dr. Antônio Aguiar
+52141,Dr Antônio Aguiar
+52139,Dr Antônio Aguiar
 52026,Wanderson Castelar
 52108,Oliveira Tresse
 52107,Oliveira Tresse
@@ -11969,7 +11991,7 @@ id_projeto_camara,nome_autor
 52098,Cido Reis
 52097,Cido Reis
 52109,Wanderson Castelar
-52096,Dr. Fiorilo
+52096,Dr Fiorilo
 52095,José Emanuel
 52094,Rodrigo Mattos
 52093,Zé Márcio
@@ -11985,25 +12007,25 @@ id_projeto_camara,nome_autor
 52081,Cido Reis
 52080,Vagner de Oliveira
 52078,Jucelio
-52076,Dr. Fiorilo
+52076,Dr Fiorilo
 52075,Vagner de Oliveira
 52074,Vagner de Oliveira
 52073,José Emanuel
 52072,Executivo
-52072, José Emanuel
+52072,José Emanuel
 52071,José Emanuel
 52070,José Emanuel
 52069,José Emanuel
-51934,Dr. Fiorilo
-51933,Dr. Fiorilo
-51932,Dr. Fiorilo
-51931,Dr. Fiorilo
-51930,Dr. Fiorilo
-51929,Dr. Fiorilo
-51928,Dr. Fiorilo
-51927,Dr. Fiorilo
-51926,Dr. Fiorilo
-51925,Dr. Fiorilo
+51934,Dr Fiorilo
+51933,Dr Fiorilo
+51932,Dr Fiorilo
+51931,Dr Fiorilo
+51930,Dr Fiorilo
+51929,Dr Fiorilo
+51928,Dr Fiorilo
+51927,Dr Fiorilo
+51926,Dr Fiorilo
+51925,Dr Fiorilo
 51939,Leo de Oliveira
 51938,Leo de Oliveira
 51937,Leo de Oliveira
@@ -12053,19 +12075,19 @@ id_projeto_camara,nome_autor
 52406,Jucelio
 52405,Jucelio
 52404,Jucelio
-51991,Dr. Fiorilo
-51990,Dr. Fiorilo
-51988,Dr. Fiorilo
-51987,Dr. Fiorilo
-51986,Dr. Fiorilo
-51985,Dr. Fiorilo
-51984,Dr. Fiorilo
-51983,Dr. Fiorilo
-51982,Dr. Fiorilo
-51981,Dr. Fiorilo
-51980,Dr. Fiorilo
-51979,Dr. Fiorilo
-51978,Dr. Fiorilo
+51991,Dr Fiorilo
+51990,Dr Fiorilo
+51988,Dr Fiorilo
+51987,Dr Fiorilo
+51986,Dr Fiorilo
+51985,Dr Fiorilo
+51984,Dr Fiorilo
+51983,Dr Fiorilo
+51982,Dr Fiorilo
+51981,Dr Fiorilo
+51980,Dr Fiorilo
+51979,Dr Fiorilo
+51978,Dr Fiorilo
 51977,João do Joaninho
 51976,João do Joaninho
 51975,João do Joaninho
@@ -12127,8 +12149,8 @@ id_projeto_camara,nome_autor
 51852,Chico Evangelista
 51885,Cido Reis
 51905,Ana Rossignoli
-51905, Jucelio
-51905, Wanderson Castelar
+51905,Jucelio
+51905,Wanderson Castelar
 51903,José Emanuel
 51904,José Emanuel
 52580,Jucelio
@@ -12164,23 +12186,23 @@ id_projeto_camara,nome_autor
 52254,Jucelio
 52255,Jucelio
 52256,Jucelio
-51848,Dr. Fiorilo
-51847,Dr. Fiorilo
-51846,Dr. Fiorilo
-51845,Dr. Fiorilo
-51844,Dr. Fiorilo
-51843,Dr. Fiorilo
-51842,Dr. Fiorilo
-51839,Dr. Fiorilo
-51838,Dr. Fiorilo
-51837,Dr. Fiorilo
-51841,Dr. Fiorilo
-51836,Dr. Fiorilo
-51840,Dr. Fiorilo
-51835,Dr. Fiorilo
-51834,Dr. Fiorilo
-51833,Dr. Fiorilo
-51832,Dr. Fiorilo
+51848,Dr Fiorilo
+51847,Dr Fiorilo
+51846,Dr Fiorilo
+51845,Dr Fiorilo
+51844,Dr Fiorilo
+51843,Dr Fiorilo
+51842,Dr Fiorilo
+51839,Dr Fiorilo
+51838,Dr Fiorilo
+51837,Dr Fiorilo
+51841,Dr Fiorilo
+51836,Dr Fiorilo
+51840,Dr Fiorilo
+51835,Dr Fiorilo
+51834,Dr Fiorilo
+51833,Dr Fiorilo
+51832,Dr Fiorilo
 51872,Zé Márcio
 51871,Zé Márcio
 51870,Zé Márcio
@@ -12234,10 +12256,10 @@ id_projeto_camara,nome_autor
 51772,Cido Reis
 51771,Cido Reis
 51770,Cido Reis
-51769,Dr. Antônio Aguiar
-51768,Dr. Antônio Aguiar
-51767,Dr. Antônio Aguiar
-51766,Dr. Antônio Aguiar
+51769,Dr Antônio Aguiar
+51768,Dr Antônio Aguiar
+51767,Dr Antônio Aguiar
+51766,Dr Antônio Aguiar
 51730,Leo de Oliveira
 51729,Leo de Oliveira
 51728,Leo de Oliveira
@@ -12269,24 +12291,24 @@ id_projeto_camara,nome_autor
 51663,José Emanuel
 51662,José Emanuel
 51661,José Emanuel
-51708,Dr. Fiorilo
-51707,Dr. Fiorilo
-51706,Dr. Fiorilo
-51705,Dr. Fiorilo
-51704,Dr. Fiorilo
-51703,Dr. Fiorilo
-51702,Dr. Fiorilo
-51701,Dr. Fiorilo
-51700,Dr. Fiorilo
-51699,Dr. Fiorilo
-51698,Dr. Fiorilo
-51697,Dr. Fiorilo
-51696,Dr. Fiorilo
-51695,Dr. Fiorilo
-51694,Dr. Fiorilo
-51693,Dr. Fiorilo
-51692,Dr. Fiorilo
-51691,Dr. Fiorilo
+51708,Dr Fiorilo
+51707,Dr Fiorilo
+51706,Dr Fiorilo
+51705,Dr Fiorilo
+51704,Dr Fiorilo
+51703,Dr Fiorilo
+51702,Dr Fiorilo
+51701,Dr Fiorilo
+51700,Dr Fiorilo
+51699,Dr Fiorilo
+51698,Dr Fiorilo
+51697,Dr Fiorilo
+51696,Dr Fiorilo
+51695,Dr Fiorilo
+51694,Dr Fiorilo
+51693,Dr Fiorilo
+51692,Dr Fiorilo
+51691,Dr Fiorilo
 51690,Chico Evangelista
 51689,Chico Evangelista
 51688,Chico Evangelista
@@ -12315,17 +12337,17 @@ id_projeto_camara,nome_autor
 51645,Ana Rossignoli
 51644,Ana Rossignoli
 51643,Ana Rossignoli
-51503,Dr. Fiorilo
+51503,Dr Fiorilo
 51641,Zé Márcio
 51640,Zé Márcio
 51639,Zé Márcio
 51638,Zé Márcio
 51637,Zé Márcio
 51636,Zé Márcio
-51635,Dr. Fiorilo
-51634,Dr. Fiorilo
-51633,Dr. Fiorilo
-51632,Dr. Fiorilo
+51635,Dr Fiorilo
+51634,Dr Fiorilo
+51633,Dr Fiorilo
+51632,Dr Fiorilo
 51631,João do Joaninho
 51630,João do Joaninho
 51629,João do Joaninho
@@ -12338,11 +12360,11 @@ id_projeto_camara,nome_autor
 51617,Oliveira Tresse
 51616,Oliveira Tresse
 51615,Oliveira Tresse
-51614,Dr. Fiorilo
-51613,Dr. Fiorilo
-51612,Dr. Fiorilo
-51611,Dr. Fiorilo
-51610,Dr. Fiorilo
+51614,Dr Fiorilo
+51613,Dr Fiorilo
+51612,Dr Fiorilo
+51611,Dr Fiorilo
+51610,Dr Fiorilo
 51609,José Emanuel
 51608,José Emanuel
 51607,José Emanuel
@@ -12377,7 +12399,7 @@ id_projeto_camara,nome_autor
 51588,José Emanuel
 51587,José Emanuel
 51586,Zé Márcio
-51584,Dr. Antônio Aguiar
+51584,Dr Antônio Aguiar
 51522,Chico Evangelista
 51500,André Mariano
 51581,Oliveira Tresse
@@ -12385,7 +12407,7 @@ id_projeto_camara,nome_autor
 51577,Oliveira Tresse
 51574,Oliveira Tresse
 51571,Oliveira Tresse
-51569,Dr. Fiorilo
+51569,Dr Fiorilo
 51568,Zé Márcio
 51424,Betão
 51423,Betão
@@ -12417,8 +12439,8 @@ id_projeto_camara,nome_autor
 51529,Júlio Gasparette
 51400,Leo de Oliveira
 51399,Leo de Oliveira
-51739,Dr. Fiorilo
-51738,Dr. Fiorilo
+51739,Dr Fiorilo
+51738,Dr Fiorilo
 51555,Cido Reis
 51554,Cido Reis
 51553,Cido Reis
@@ -12443,7 +12465,7 @@ id_projeto_camara,nome_autor
 51403,Luiz Otávio Fernandes Coelho - Pardal
 51402,Chico Evangelista
 51401,André Mariano
-51502,Dr. Antônio Aguiar
+51502,Dr Antônio Aguiar
 51526,Júlio Gasparette
 51524,Júlio Gasparette
 51501,Júlio Gasparette
@@ -12459,8 +12481,8 @@ id_projeto_camara,nome_autor
 51486,Júlio Gasparette
 51444,Zé Márcio
 51443,Zé Márcio
-51478,Dr. Fiorilo
-51477,Dr. Fiorilo
+51478,Dr Fiorilo
+51477,Dr Fiorilo
 51476,Chico Evangelista
 51475,Chico Evangelista
 51474,Chico Evangelista
@@ -12468,11 +12490,11 @@ id_projeto_camara,nome_autor
 51472,Chico Evangelista
 51471,Chico Evangelista
 51470,Chico Evangelista
-51469,Dr. Antônio Aguiar
-51468,Dr. Antônio Aguiar
-51467,Dr. Antônio Aguiar
-51466,Dr. Antônio Aguiar
-51465,Dr. Antônio Aguiar
+51469,Dr Antônio Aguiar
+51468,Dr Antônio Aguiar
+51467,Dr Antônio Aguiar
+51466,Dr Antônio Aguiar
+51465,Dr Antônio Aguiar
 51464,André Mariano
 51463,André Mariano
 51462,André Mariano
@@ -12497,8 +12519,8 @@ id_projeto_camara,nome_autor
 51447,Zé Márcio
 51446,Zé Márcio
 51445,Zé Márcio
-51442,Dr. Fiorilo
-51441,Dr. Fiorilo
+51442,Dr Fiorilo
+51441,Dr Fiorilo
 51434,João do Joaninho
 51433,João do Joaninho
 51432,João do Joaninho
@@ -12511,10 +12533,10 @@ id_projeto_camara,nome_autor
 51417,Cido Reis
 51416,Cido Reis
 51415,Cido Reis
-51414,Dr. Antônio Aguiar
-51413,Dr. Antônio Aguiar
-51412,Dr. Antônio Aguiar
-51411,Dr. Antônio Aguiar
+51414,Dr Antônio Aguiar
+51413,Dr Antônio Aguiar
+51412,Dr Antônio Aguiar
+51411,Dr Antônio Aguiar
 51346,Vagner de Oliveira
 51345,Vagner de Oliveira
 51344,Oliveira Tresse
@@ -12535,29 +12557,29 @@ id_projeto_camara,nome_autor
 51392,Zé Márcio
 51391,Zé Márcio
 51390,Zé Márcio
-51389,Dr. Fiorilo
-51388,Dr. Fiorilo
-51387,Dr. Fiorilo
-51386,Dr. Fiorilo
-51385,Dr. Fiorilo
-51384,Dr. Fiorilo
-51383,Dr. Fiorilo
-51382,Dr. Fiorilo
-51381,Dr. Fiorilo
-51380,Dr. Fiorilo
-51379,Dr. Fiorilo
-51378,Dr. Fiorilo
-51377,Dr. Fiorilo
-51376,Dr. Fiorilo
-51375,Dr. Fiorilo
-51374,Dr. Fiorilo
-51373,Dr. Fiorilo
-51372,Dr. Fiorilo
-51371,Dr. Fiorilo
-51370,Dr. Fiorilo
-51369,Dr. Fiorilo
-51368,Dr. Fiorilo
-51367,Dr. Fiorilo
+51389,Dr Fiorilo
+51388,Dr Fiorilo
+51387,Dr Fiorilo
+51386,Dr Fiorilo
+51385,Dr Fiorilo
+51384,Dr Fiorilo
+51383,Dr Fiorilo
+51382,Dr Fiorilo
+51381,Dr Fiorilo
+51380,Dr Fiorilo
+51379,Dr Fiorilo
+51378,Dr Fiorilo
+51377,Dr Fiorilo
+51376,Dr Fiorilo
+51375,Dr Fiorilo
+51374,Dr Fiorilo
+51373,Dr Fiorilo
+51372,Dr Fiorilo
+51371,Dr Fiorilo
+51370,Dr Fiorilo
+51369,Dr Fiorilo
+51368,Dr Fiorilo
+51367,Dr Fiorilo
 51366,Chico Evangelista
 51365,Chico Evangelista
 51364,Chico Evangelista
@@ -12569,7 +12591,7 @@ id_projeto_camara,nome_autor
 51518,Cido Reis
 51517,Cido Reis
 51516,Cido Reis
-55013,Dr. Antônio Aguiar
+55013,Dr Antônio Aguiar
 51515,Cido Reis
 55014,José Laerte
 51514,Cido Reis
@@ -12590,19 +12612,19 @@ id_projeto_camara,nome_autor
 54985,Vagner de Oliveira
 51506,Cido Reis
 54988,Vagner de Oliveira
-51353,Dr. Antônio Aguiar
+51353,Dr Antônio Aguiar
 54963,Vagner de Oliveira
-51352,Dr. Antônio Aguiar
-54964,Dr. Antônio Aguiar
-51351,Dr. Antônio Aguiar
+51352,Dr Antônio Aguiar
+54964,Dr Antônio Aguiar
+51351,Dr Antônio Aguiar
 54965,Cido Reis
-51350,Dr. Antônio Aguiar
+51350,Dr Antônio Aguiar
 54966,Cido Reis
-51349,Dr. Antônio Aguiar
+51349,Dr Antônio Aguiar
 54947,Nilton Militão
-51348,Dr. Antônio Aguiar
+51348,Dr Antônio Aguiar
 54956,Oliveira Tresse
-51347,Dr. Antônio Aguiar
+51347,Dr Antônio Aguiar
 54829,Leo de Oliveira
 51361,Rodrigo Mattos
 54830,Betão
@@ -12627,9 +12649,9 @@ id_projeto_camara,nome_autor
 51198,Ana Rossignoli
 54680,Cido Reis
 51197,Luiz Otávio Fernandes Coelho - Pardal
-54716,Dr. Antônio Aguiar
+54716,Dr Antônio Aguiar
 51196,Luiz Otávio Fernandes Coelho - Pardal
-54711,Dr. Antônio Aguiar
+54711,Dr Antônio Aguiar
 51195,Jucelio
 54723,Cido Reis
 51194,Jucelio
@@ -12649,8 +12671,8 @@ id_projeto_camara,nome_autor
 51740,Betão
 54512,Zé Márcio
 51187,Nilton Militão
-54540,Dr. Fiorilo
-51186,Dr. Fiorilo
+54540,Dr Fiorilo
+51186,Dr Fiorilo
 54492,Zé Márcio
 51185,Betão
 54493,Zé Márcio
@@ -12685,34 +12707,34 @@ id_projeto_camara,nome_autor
 51285,Júlio Gasparette
 54414,Oliveira Tresse
 51284,Júlio Gasparette
-54417,Dr. Antônio Aguiar
+54417,Dr Antônio Aguiar
 51302,Zé Márcio
-54415,Dr. Antônio Aguiar
+54415,Dr Antônio Aguiar
 51301,Zé Márcio
-54416,Dr. Antônio Aguiar
+54416,Dr Antônio Aguiar
 51300,Zé Márcio
 54418,Nilton Militão
 51299,Zé Márcio
 54411,Zé Márcio
 51298,Zé Márcio
-54410,Dr. Fiorilo
+54410,Dr Fiorilo
 51297,Vagner de Oliveira
 54358,Cido Reis
-54358, Zé Márcio
-54358, Júlio Gasparette
-54358, Nilton Militão
-54358, Rodrigo Mattos
+54358,Zé Márcio
+54358,Júlio Gasparette
+54358,Nilton Militão
+54358,Rodrigo Mattos
 51360,Cido Reis
 54350,Zé Márcio
 51164,Ana Rossignoli
-51164, Isauro Calais
+51164,Isauro Calais
 54351,Zé Márcio
 51234,Vagner de Oliveira
 54352,Vagner de Oliveira
 51232,Vagner de Oliveira
 54276,Júlio Gasparette
 51230,Vagner de Oliveira
-54277,Dr. Fiorilo
+54277,Dr Fiorilo
 51227,Vagner de Oliveira
 54279,Jucelio
 51225,Vagner de Oliveira
@@ -12722,93 +12744,93 @@ id_projeto_camara,nome_autor
 51219,Vagner de Oliveira
 51239,Betão
 54110,Ana Rossignoli
-54110, Vagner de Oliveira
-54110, José Emanuel
-54110, Júlio Gasparette
+54110,Vagner de Oliveira
+54110,José Emanuel
+54110,Júlio Gasparette
 51237,Betão
 54111,Ana Rossignoli
-54111, Vagner de Oliveira
-54111, José Emanuel
-54111, Júlio Gasparette
+54111,Vagner de Oliveira
+54111,José Emanuel
+54111,Júlio Gasparette
 51215,Oliveira Tresse
 54112,Ana Rossignoli
-54112, Vagner de Oliveira
-54112, José Emanuel
-54112, Júlio Gasparette
+54112,Vagner de Oliveira
+54112,José Emanuel
+54112,Júlio Gasparette
 51214,Oliveira Tresse
 54113,Ana Rossignoli
-54113, Vagner de Oliveira
-54113, José Emanuel
-54113, Júlio Gasparette
+54113,Vagner de Oliveira
+54113,José Emanuel
+54113,Júlio Gasparette
 51211,Oliveira Tresse
 54115,Ana Rossignoli
-54115, Vagner de Oliveira
-54115, José Emanuel
-54115, Júlio Gasparette
+54115,Vagner de Oliveira
+54115,José Emanuel
+54115,Júlio Gasparette
 51209,Oliveira Tresse
 54117,Ana Rossignoli
-54117, Vagner de Oliveira
-54117, José Emanuel
-54117, Júlio Gasparette
+54117,Vagner de Oliveira
+54117,José Emanuel
+54117,Júlio Gasparette
 51208,Oliveira Tresse
 54119,Ana Rossignoli
-54119, Vagner de Oliveira
-54119, José Emanuel
-54119, Júlio Gasparette
+54119,Vagner de Oliveira
+54119,José Emanuel
+54119,Júlio Gasparette
 55102,Wanderson Castelar
 51240,Júlio Gasparette
 54121,Ana Rossignoli
-54121, Vagner de Oliveira
-54121, José Emanuel
-54121, Júlio Gasparette
-55038,Dr. Antônio Aguiar
+54121,Vagner de Oliveira
+54121,José Emanuel
+54121,Júlio Gasparette
+55038,Dr Antônio Aguiar
 51238,Júlio Gasparette
 54122,Ana Rossignoli
-54122, Vagner de Oliveira
-54122, José Emanuel
-54122, Júlio Gasparette
-55011,Dr. Fiorilo
+54122,Vagner de Oliveira
+54122,José Emanuel
+54122,Júlio Gasparette
+55011,Dr Fiorilo
 51236,Júlio Gasparette
 54124,Ana Rossignoli
-54124, Vagner de Oliveira
-54124, José Emanuel
-54124, Júlio Gasparette
+54124,Vagner de Oliveira
+54124,José Emanuel
+54124,Júlio Gasparette
 55103,Luiz Otávio Fernandes Coelho - Pardal
 51235,Júlio Gasparette
 54126,Ana Rossignoli
-54126, Vagner de Oliveira
-54126, José Emanuel
-54126, Júlio Gasparette
+54126,Vagner de Oliveira
+54126,José Emanuel
+54126,Júlio Gasparette
 55010,José Laerte
 51233,Júlio Gasparette
 54127,Ana Rossignoli
-54127, Vagner de Oliveira
-54127, José Emanuel
-54127, Júlio Gasparette
+54127,Vagner de Oliveira
+54127,José Emanuel
+54127,Júlio Gasparette
 55006,André Mariano
 51231,Júlio Gasparette
 54129,Ana Rossignoli
-54129, Vagner de Oliveira
-54129, José Emanuel
-54129, Júlio Gasparette
+54129,Vagner de Oliveira
+54129,José Emanuel
+54129,Júlio Gasparette
 54953,Betão
 51229,Júlio Gasparette
 54131,Ana Rossignoli
-54131, Vagner de Oliveira
-54131, José Emanuel
-54131, Júlio Gasparette
+54131,Vagner de Oliveira
+54131,José Emanuel
+54131,Júlio Gasparette
 54954,Jucelio
 51228,Júlio Gasparette
 54133,Ana Rossignoli
-54133, Vagner de Oliveira
-54133, José Emanuel
-54133, Júlio Gasparette
+54133,Vagner de Oliveira
+54133,José Emanuel
+54133,Júlio Gasparette
 54952,Vagner de Oliveira
 51226,Júlio Gasparette
 54135,Ana Rossignoli
-54135, Vagner de Oliveira
-54135, José Emanuel
-54135, Júlio Gasparette
+54135,Vagner de Oliveira
+54135,José Emanuel
+54135,Júlio Gasparette
 54955,Luiz Otávio Fernandes Coelho - Pardal
 51224,Júlio Gasparette
 54137,Cido Reis
@@ -12818,12 +12840,12 @@ id_projeto_camara,nome_autor
 54882,Wanderson Castelar
 51220,Júlio Gasparette
 54801,Ana Rossignoli
-54801, Vagner de Oliveira
+54801,Vagner de Oliveira
 51218,Júlio Gasparette
 54043,Leo de Oliveira
 54753,Cido Reis
-54753, Zé Márcio
-54753, Rodrigo Mattos
+54753,Zé Márcio
+54753,Rodrigo Mattos
 51217,Júlio Gasparette
 54042,Jucelio
 54775,José Emanuel
@@ -12852,25 +12874,25 @@ id_projeto_camara,nome_autor
 54532,Júlio Gasparette
 51253,João do Joaninho
 53960,Júlio Gasparette
-54531,Dr. Fiorilo
+54531,Dr Fiorilo
 51252,João do Joaninho
 53959,Betão
 54530,Júlio Gasparette
 51251,João do Joaninho
 53878,Betão
-54455,Dr. Fiorilo
+54455,Dr Fiorilo
 51250,João do Joaninho
 53876,Ana Rossignoli
-53876, Vagner de Oliveira
-53876, José Emanuel
-53876, Júlio Gasparette
-54448,Dr. Antônio Aguiar
+53876,Vagner de Oliveira
+53876,José Emanuel
+53876,Júlio Gasparette
+54448,Dr Antônio Aguiar
 51283,Cido Reis
-53737,Dr. Fiorilo
+53737,Dr Fiorilo
 54449,Cido Reis
 51282,Cido Reis
 53739,Júlio Gasparette
-54447,Dr. Fiorilo
+54447,Dr Fiorilo
 51281,Cido Reis
 53740,Oliveira Tresse
 54446,Chico Evangelista
@@ -12882,7 +12904,7 @@ id_projeto_camara,nome_autor
 54311,Wanderson Castelar
 51278,Cido Reis
 53490,Júlio Gasparette
-54237,Dr. Fiorilo
+54237,Dr Fiorilo
 51277,Cido Reis
 53491,Cido Reis
 51276,Cido Reis
@@ -12890,41 +12912,41 @@ id_projeto_camara,nome_autor
 54238,Luiz Otávio Fernandes Coelho - Pardal
 51275,Cido Reis
 53746,Ana Rossignoli
-53746, Vagner de Oliveira
-53746, José Emanuel
-53746, Júlio Gasparette
+53746,Vagner de Oliveira
+53746,José Emanuel
+53746,Júlio Gasparette
 54323,Luiz Otávio Fernandes Coelho - Pardal
 51274,Cido Reis
 53493,Vagner de Oliveira
 54214,Luiz Otávio Fernandes Coelho - Pardal
 51273,Cido Reis
 53494,José Emanuel
-54082,Dr. Antônio Aguiar
+54082,Dr Antônio Aguiar
 51272,Cido Reis
 53536,Leo de Oliveira
 54079,Rodrigo Mattos
 51271,Cido Reis
-53489,Dr. Fiorilo
+53489,Dr Fiorilo
 54081,Ana Rossignoli
 51270,Cido Reis
 54080,Ana Rossignoli
 51269,Cido Reis
-54077,Dr. Antônio Aguiar
-51268,Dr. Antônio Aguiar
+54077,Dr Antônio Aguiar
+51268,Dr Antônio Aguiar
 54086,José Laerte
-51267,Dr. Antônio Aguiar
-54078,Dr. Antônio Aguiar
-51266,Dr. Antônio Aguiar
+51267,Dr Antônio Aguiar
+54078,Dr Antônio Aguiar
+51266,Dr Antônio Aguiar
 54069,José Emanuel
-51265,Dr. Antônio Aguiar
+51265,Dr Antônio Aguiar
 54050,Leo de Oliveira
-51264,Dr. Antônio Aguiar
+51264,Dr Antônio Aguiar
 54423,Chico Evangelista
-51263,Dr. Antônio Aguiar
+51263,Dr Antônio Aguiar
 54291,Zé Márcio
-51262,Dr. Antônio Aguiar
+51262,Dr Antônio Aguiar
 54038,Ana Rossignoli
-51261,Dr. Antônio Aguiar
+51261,Dr Antônio Aguiar
 54444,Zé Márcio
 51258,Zé Márcio
 54029,Chico Evangelista
@@ -12987,7 +13009,7 @@ id_projeto_camara,nome_autor
 53502,José Emanuel
 55066,Betão
 51145,Júlio Gasparette
-53800,Dr. Fiorilo
+53800,Dr Fiorilo
 53501,José Emanuel
 55065,José Emanuel
 51144,Júlio Gasparette
@@ -12995,7 +13017,7 @@ id_projeto_camara,nome_autor
 53495,José Emanuel
 55062,Ana Rossignoli
 51143,Júlio Gasparette
-53728,Dr. Fiorilo
+53728,Dr Fiorilo
 53496,José Emanuel
 55061,José Emanuel
 51121,Zé Márcio
@@ -13005,65 +13027,65 @@ id_projeto_camara,nome_autor
 51120,Zé Márcio
 53723,Zé Márcio
 53498,José Emanuel
-55059,Dr. Fiorilo
+55059,Dr Fiorilo
 51308,Cido Reis
 53724,Zé Márcio
 53499,José Emanuel
-55058,Dr. Fiorilo
+55058,Dr Fiorilo
 51307,Cido Reis
 53602,Zé Márcio
 53500,José Emanuel
-55009,Dr. Fiorilo
+55009,Dr Fiorilo
 51306,Cido Reis
 53600,Leo de Oliveira
-55008,Dr. Fiorilo
+55008,Dr Fiorilo
 51305,Cido Reis
 53599,Chico Evangelista
 53488,Rodrigo Mattos
-54983,Dr. Fiorilo
+54983,Dr Fiorilo
 51304,Cido Reis
 53601,José Emanuel
 53487,Rodrigo Mattos
-54972,Dr. Fiorilo
+54972,Dr Fiorilo
 51303,Cido Reis
 53478,Rodrigo Mattos
 53393,Wanderson Castelar
-54970,Dr. Fiorilo
+54970,Dr Fiorilo
 51184,André Mariano
 53476,Ana Rossignoli
 53392,Wanderson Castelar
-54969,Dr. Fiorilo
+54969,Dr Fiorilo
 51183,André Mariano
 53464,Ana Rossignoli
 53391,Wanderson Castelar
-54968,Dr. Fiorilo
+54968,Dr Fiorilo
 51182,Oliveira Tresse
 53439,Luiz Otávio Fernandes Coelho - Pardal
 53390,Wanderson Castelar
-54938,Dr. Fiorilo
+54938,Dr Fiorilo
 51181,Chico Evangelista
 53420,Ana Rossignoli
-54957,Dr. Antônio Aguiar
-54957, Dr. Fiorilo
-54957, Wanderson Castelar
+54957,Dr Antônio Aguiar
+54957,Dr Fiorilo
+54957,Wanderson Castelar
 51180,Ana Rossignoli
 53421,Ana Rossignoli
-54958,Dr. Antônio Aguiar
-54958, Dr. Fiorilo
-54958, Wanderson Castelar
+54958,Dr Antônio Aguiar
+54958,Dr Fiorilo
+54958,Wanderson Castelar
 51246,Nilton Militão
-53351,Dr. Fiorilo
+53351,Dr Fiorilo
 54935,Betão
 51245,Nilton Militão
-53347,Dr. Antônio Aguiar
+53347,Dr Antônio Aguiar
 53299,Cido Reis
-54931,Dr. Antônio Aguiar
-54931, Dr. Fiorilo
-54931, Wanderson Castelar
+54931,Dr Antônio Aguiar
+54931,Dr Fiorilo
+54931,Wanderson Castelar
 51244,Nilton Militão
-53350,Dr. Antônio Aguiar
+53350,Dr Antônio Aguiar
 53302,Cido Reis
-54930,Dr. Fiorilo
+54930,Dr Fiorilo
 51243,Nilton Militão
 53385,Leo de Oliveira
 53300,Cido Reis
@@ -13075,7 +13097,7 @@ id_projeto_camara,nome_autor
 51241,Nilton Militão
 53305,Luiz Otávio Fernandes Coelho - Pardal
 53122,Betão
-54919,Dr. Fiorilo
+54919,Dr Fiorilo
 51142,Júlio Gasparette
 53090,Leo de Oliveira
 53084,Chico Evangelista
@@ -13083,42 +13105,42 @@ id_projeto_camara,nome_autor
 51141,Júlio Gasparette
 53089,Chico Evangelista
 53083,Júlio Gasparette
-54681,Dr. Fiorilo
+54681,Dr Fiorilo
 51140,Júlio Gasparette
 53088,Oliveira Tresse
 53082,Wanderson Castelar
 54557,Betão
 51139,Júlio Gasparette
 53087,Zé Márcio
-53081,Dr. Fiorilo
-54490,Dr. Fiorilo
+53081,Dr Fiorilo
+54490,Dr Fiorilo
 51138,Júlio Gasparette
 53086,André Mariano
 53080,Rodrigo Mattos
-54487,Dr. Fiorilo
+54487,Dr Fiorilo
 51137,Júlio Gasparette
 53066,Leo de Oliveira
 53079,Rodrigo Mattos
-54484,Dr. Fiorilo
+54484,Dr Fiorilo
 51136,Júlio Gasparette
 53085,Luiz Otávio Fernandes Coelho - Pardal
 53077,Rodrigo Mattos
-54481,Dr. Fiorilo
+54481,Dr Fiorilo
 51135,Júlio Gasparette
 53065,Rodrigo Mattos
 53078,Rodrigo Mattos
-54479,Dr. Fiorilo
+54479,Dr Fiorilo
 51134,Júlio Gasparette
 53067,Rodrigo Mattos
 53076,Rodrigo Mattos
 51132,Júlio Gasparette
 53075,Rodrigo Mattos
 52919,Cido Reis
-54477,Dr. Fiorilo
+54477,Dr Fiorilo
 51131,Júlio Gasparette
 53074,Rodrigo Mattos
 52920,Zé Márcio
-54458,Dr. Fiorilo
+54458,Dr Fiorilo
 51130,Júlio Gasparette
 53309,Júlio Gasparette
 53073,Rodrigo Mattos
@@ -13126,15 +13148,15 @@ id_projeto_camara,nome_autor
 51129,Júlio Gasparette
 53070,Rodrigo Mattos
 52916,Júlio Gasparette
-54460,Dr. Fiorilo
+54460,Dr Fiorilo
 51128,Júlio Gasparette
 53068,Cido Reis
 52883,Ana Rossignoli
-54451,Dr. Fiorilo
+54451,Dr Fiorilo
 51127,Júlio Gasparette
-53829,Dr. Antônio Aguiar
+53829,Dr Antônio Aguiar
 53069,Cido Reis
-54450,Dr. Fiorilo
+54450,Dr Fiorilo
 51126,Júlio Gasparette
 52890,Wanderson Castelar
 52925,Zé Márcio
@@ -13142,19 +13164,19 @@ id_projeto_camara,nome_autor
 51125,Júlio Gasparette
 52927,Jucelio
 52845,Mesa Diretora - Biênio 2015/2016
-52845, Cido Reis
-52845, Zé Márcio
-52845, João do Joaninho
-52845, Nilton Militão
-52845, Rodrigo Mattos
+52845,Cido Reis
+52845,Zé Márcio
+52845,João do Joaninho
+52845,Nilton Militão
+52845,Rodrigo Mattos
 54241,Betão
 51124,Júlio Gasparette
 52881,Mesa Diretora - Biênio 2015/2016
-52881, Cido Reis
-52881, Zé Márcio
-52881, João do Joaninho
-52881, Nilton Militão
-52881, Rodrigo Mattos
+52881,Cido Reis
+52881,Zé Márcio
+52881,João do Joaninho
+52881,Nilton Militão
+52881,Rodrigo Mattos
 52926,João do Joaninho
 54240,Betão
 51123,Júlio Gasparette
@@ -13163,7 +13185,7 @@ id_projeto_camara,nome_autor
 54213,Rodrigo Mattos
 51122,Júlio Gasparette
 52923,Jucelio
-54200,Dr. Fiorilo
+54200,Dr Fiorilo
 54984,João do Joaninho
 51119,Chico Evangelista
 52922,Betão
@@ -13172,22 +13194,22 @@ id_projeto_camara,nome_autor
 51118,Chico Evangelista
 52929,Wanderson Castelar
 52738,Zé Márcio
-54201,Dr. Fiorilo
+54201,Dr Fiorilo
 51117,Chico Evangelista
 52956,Zé Márcio
 52737,Oliveira Tresse
-54198,Dr. Fiorilo
+54198,Dr Fiorilo
 51108,André Mariano
 52924,Zé Márcio
 52736,Betão
 54194,Oliveira Tresse
 51107,André Mariano
-53950,Dr. Fiorilo
+53950,Dr Fiorilo
 52705,José Emanuel
 52843,João do Joaninho
-51109,Dr. Antônio Aguiar
-51109, José Emanuel
-53951,Dr. Fiorilo
+51109,Dr Antônio Aguiar
+51109,José Emanuel
+53951,Dr Fiorilo
 52704,Zé Márcio
 52716,Betão
 51111,Wanderson Castelar
@@ -13203,15 +13225,15 @@ id_projeto_camara,nome_autor
 52706,Zé Márcio
 52720,Zé Márcio
 51114,Vagner de Oliveira
-53946,Dr. Fiorilo
+53946,Dr Fiorilo
 52708,Zé Márcio
 52721,Ana Rossignoli
 51113,Vagner de Oliveira
-53945,Dr. Fiorilo
+53945,Dr Fiorilo
 52707,Zé Márcio
 52722,Ana Rossignoli
 51112,Vagner de Oliveira
-53944,Dr. Fiorilo
+53944,Dr Fiorilo
 52701,Zé Márcio
 52723,Ana Rossignoli
 51039,Betão
@@ -13223,28 +13245,28 @@ id_projeto_camara,nome_autor
 52699,Wanderson Castelar
 52725,Ana Rossignoli
 51037,Betão
-53856,Dr. Fiorilo
+53856,Dr Fiorilo
 52726,Ana Rossignoli
 52698,Chico Evangelista
 51035,Betão
-53855,Dr. Fiorilo
+53855,Dr Fiorilo
 52727,Ana Rossignoli
 52596,Júlio Gasparette
 51034,Betão
-53859,Dr. Antônio Aguiar
-53859, Dr. Fiorilo
-53859, Wanderson Castelar
+53859,Dr Antônio Aguiar
+53859,Dr Fiorilo
+53859,Wanderson Castelar
 52728,Ana Rossignoli
 52606,Zé Márcio
 51044,Nilton Militão
-53854,Dr. Fiorilo
+53854,Dr Fiorilo
 52729,Ana Rossignoli
-52593,Dr. Antônio Aguiar
+52593,Dr Antônio Aguiar
 55384,José Laerte
 51043,Nilton Militão
-53849,Dr. Fiorilo
+53849,Dr Fiorilo
 52730,Ana Rossignoli
-52569,Dr. Antônio Aguiar
+52569,Dr Antônio Aguiar
 55108,Júlio Gasparette
 51042,Nilton Militão
 53846,José Emanuel
@@ -13257,26 +13279,26 @@ id_projeto_camara,nome_autor
 54883,Jucelio
 55107,Jucelio
 51040,Nilton Militão
-53790,Dr. Fiorilo
+53790,Dr Fiorilo
 52733,Ana Rossignoli
-52597,Dr. Antônio Aguiar
+52597,Dr Antônio Aguiar
 55106,Jucelio
 51075,Júlio Gasparette
 53786,Betão
 52734,Ana Rossignoli
 52502,Mesa Diretora - Biênio 2015/2016
-52502, Cido Reis
-52502, Zé Márcio
-52502, João do Joaninho
-52502, Nilton Militão
-52502, Rodrigo Mattos
+52502,Cido Reis
+52502,Zé Márcio
+52502,João do Joaninho
+52502,Nilton Militão
+52502,Rodrigo Mattos
 55105,Jucelio
 51074,Júlio Gasparette
 53785,Betão
 52735,Ana Rossignoli
 52496,José Emanuel
 57489,Oliveira Tresse
-52457,Dr. Antônio Aguiar
+52457,Dr Antônio Aguiar
 51073,Júlio Gasparette
 53789,José Emanuel
 52776,Jucelio
@@ -13285,53 +13307,53 @@ id_projeto_camara,nome_autor
 51072,Júlio Gasparette
 53788,José Emanuel
 52777,Júlio Gasparette
-55382,Dr. Fiorilo
+55382,Dr Fiorilo
 52415,Luiz Otávio Fernandes Coelho - Pardal
 51071,Júlio Gasparette
-53956,Dr. Fiorilo
-52779,Dr. Fiorilo
+53956,Dr Fiorilo
+52779,Dr Fiorilo
 55387,José Laerte
-52419,Dr. Antônio Aguiar
+52419,Dr Antônio Aguiar
 51070,Júlio Gasparette
-53958,Dr. Fiorilo
-52778,Dr. Fiorilo
+53958,Dr Fiorilo
+52778,Dr Fiorilo
 55386,José Laerte
 52413,Wanderson Castelar
 52393,Rodrigo Mattos
 51069,Júlio Gasparette
-53957,Dr. Fiorilo
+53957,Dr Fiorilo
 55385,Vagner de Oliveira
-52416,Dr. Antônio Aguiar
+52416,Dr Antônio Aguiar
 52394,Rodrigo Mattos
 51068,Júlio Gasparette
-53798,Dr. Fiorilo
+53798,Dr Fiorilo
 55390,Vagner de Oliveira
 52423,Wanderson Castelar
 52395,Rodrigo Mattos
 51067,Júlio Gasparette
-53797,Dr. Fiorilo
+53797,Dr Fiorilo
 55391,Vagner de Oliveira
 52329,José Emanuel
-52329, Rodrigo Mattos
+52329,Rodrigo Mattos
 51066,Júlio Gasparette
-53796,Dr. Fiorilo
-55389,Dr. Antônio Aguiar
+53796,Dr Fiorilo
+55389,Dr Antônio Aguiar
 52391,Rodrigo Mattos
 51065,Júlio Gasparette
-53795,Dr. Fiorilo
+53795,Dr Fiorilo
 54359,Oliveira Tresse
-55388,Dr. Fiorilo
-52327,Dr. Fiorilo
+55388,Dr Fiorilo
+52327,Dr Fiorilo
 52390,Rodrigo Mattos
 51064,Júlio Gasparette
 53787,Jucelio
 54561,Júlio Gasparette
 52389,Rodrigo Mattos
-52265,Dr. Antônio Aguiar
-52265, João do Joaninho
+52265,Dr Antônio Aguiar
+52265,João do Joaninho
 51063,Júlio Gasparette
-53792,Dr. Antônio Aguiar
-54563,Dr. Fiorilo
+53792,Dr Antônio Aguiar
+54563,Dr Fiorilo
 52381,Rodrigo Mattos
 51062,Júlio Gasparette
 53791,Rodrigo Mattos
@@ -13351,7 +13373,7 @@ id_projeto_camara,nome_autor
 52386,Rodrigo Mattos
 52079,Leo de Oliveira
 51056,Júlio Gasparette
-53481,Dr. Fiorilo
+53481,Dr Fiorilo
 54356,Zé Márcio
 52387,Rodrigo Mattos
 52040,Betão
@@ -13363,25 +13385,25 @@ id_projeto_camara,nome_autor
 51054,Júlio Gasparette
 53485,Jucelio
 54452,Ana Rossignoli
-54452, André Mariano
-54452, Dr. Antônio Aguiar
-54452, Cido Reis
-54452, Chico Evangelista
-54452, Vagner de Oliveira
-54452, José Emanuel
-54452, José Laerte
-54452, Dr. Fiorilo
-54452, Zé Márcio
-54452, Jucelio
-54452, Júlio Gasparette
-54452, Leo de Oliveira
-54452, Luiz Otávio Fernandes Coelho - Pardal
-54452, Nilton Militão
-54452, Oliveira Tresse
-54452, Betão
-54452, Rodrigo Mattos
-54452, Wanderson Castelar
-52396,Dr. Antônio Aguiar
+54452,André Mariano
+54452,Dr Antônio Aguiar
+54452,Cido Reis
+54452,Chico Evangelista
+54452,Vagner de Oliveira
+54452,José Emanuel
+54452,José Laerte
+54452,Dr Fiorilo
+54452,Zé Márcio
+54452,Jucelio
+54452,Júlio Gasparette
+54452,Leo de Oliveira
+54452,Luiz Otávio Fernandes Coelho - Pardal
+54452,Nilton Militão
+54452,Oliveira Tresse
+54452,Betão
+54452,Rodrigo Mattos
+54452,Wanderson Castelar
+52396,Dr Antônio Aguiar
 51106,Chico Evangelista
 53484,Jucelio
 53277,Vagner de Oliveira
@@ -13391,345 +13413,345 @@ id_projeto_camara,nome_autor
 51105,Chico Evangelista
 53483,Jucelio
 52314,José Emanuel
-52314, Rodrigo Mattos
-52038,Dr. Antônio Aguiar
+52314,Rodrigo Mattos
+52038,Dr Antônio Aguiar
 51104,Chico Evangelista
 53486,Jucelio
 54388,Chico Evangelista
 52313,José Emanuel
-52313, Rodrigo Mattos
+52313,Rodrigo Mattos
 51964,José Emanuel
 51103,Chico Evangelista
 53386,Vagner de Oliveira
-54239,Dr. Antônio Aguiar
+54239,Dr Antônio Aguiar
 52312,José Emanuel
-52312, Rodrigo Mattos
+52312,Rodrigo Mattos
 52016,José Emanuel
 51101,Chico Evangelista
-53388,Dr. Fiorilo
+53388,Dr Fiorilo
 54215,Cido Reis
 52311,José Emanuel
-52311, Rodrigo Mattos
+52311,Rodrigo Mattos
 52014,José Emanuel
 51100,Chico Evangelista
-53387,Dr. Fiorilo
+53387,Dr Fiorilo
 54401,Jucelio
 52310,José Emanuel
-52310, Rodrigo Mattos
+52310,Rodrigo Mattos
 52006,José Emanuel
 51099,Chico Evangelista
 53328,Betão
 54406,Jucelio
 52309,José Emanuel
-52309, Rodrigo Mattos
-52011,Dr. Antônio Aguiar
+52309,Rodrigo Mattos
+52011,Dr Antônio Aguiar
 51093,Chico Evangelista
-53324,Dr. Fiorilo
+53324,Dr Fiorilo
 54408,Executivo
-54408, Rodrigo Mattos
+54408,Rodrigo Mattos
 52308,José Emanuel
-52308, Rodrigo Mattos
+52308,Rodrigo Mattos
 51887,José Emanuel
 53325,Zé Márcio
-54405,Dr. Fiorilo
+54405,Dr Fiorilo
 51092,Chico Evangelista
 52307,José Emanuel
-52307, Rodrigo Mattos
+52307,Rodrigo Mattos
 51864,Nilton Militão
 51091,Chico Evangelista
 53141,Rodrigo Mattos
 54442,Wanderson Castelar
 52305,José Emanuel
-52305, Rodrigo Mattos
+52305,Rodrigo Mattos
 51817,José Emanuel
 51090,Chico Evangelista
 53139,José Emanuel
 54026,Betão
 52304,José Emanuel
-52304, Rodrigo Mattos
+52304,Rodrigo Mattos
 51815,José Emanuel
 51089,Chico Evangelista
 53138,João do Joaninho
-54257,Dr. Fiorilo
+54257,Dr Fiorilo
 52303,José Emanuel
-52303, Rodrigo Mattos
+52303,Rodrigo Mattos
 51965,Betão
 51088,Chico Evangelista
-53136,Dr. Fiorilo
-54264,Dr. Antônio Aguiar
+53136,Dr Fiorilo
+54264,Dr Antônio Aguiar
 52301,José Emanuel
-52301, Rodrigo Mattos
+52301,Rodrigo Mattos
 51812,Leo de Oliveira
 51087,Chico Evangelista
-53135,Dr. Fiorilo
-54403,Dr. Antônio Aguiar
+53135,Dr Fiorilo
+54403,Dr Antônio Aguiar
 52300,Rodrigo Mattos
 51781,José Emanuel
 51086,Chico Evangelista
-53133,Dr. Fiorilo
-54439,Dr. Fiorilo
+53133,Dr Fiorilo
+54439,Dr Fiorilo
 52294,José Emanuel
-52294, Rodrigo Mattos
+52294,Rodrigo Mattos
 51775,Cido Reis
-51775, Zé Márcio
-51775, João do Joaninho
-51775, Nilton Militão
-51775, Rodrigo Mattos
+51775,Zé Márcio
+51775,João do Joaninho
+51775,Nilton Militão
+51775,Rodrigo Mattos
 51085,Chico Evangelista
-53012,Dr. Fiorilo
+53012,Dr Fiorilo
 54024,Ana Rossignoli
-54024, André Mariano
-54024, Dr. Antônio Aguiar
-54024, Cido Reis
-54024, Chico Evangelista
-54024, Vagner de Oliveira
-54024, Isauro Calais
-54024, José Emanuel
-54024, José Laerte
-54024, Dr. Fiorilo
-54024, Zé Márcio
-54024, Jucelio
-54024, Júlio Gasparette
-54024, Leo de Oliveira
-54024, Luiz Otávio Fernandes Coelho - Pardal
-54024, Nilton Militão
-54024, Noraldino Júnior
-54024, Oliveira Tresse
-54024, Betão
-54024, Rodrigo Mattos
-54024, Wanderson Castelar
+54024,André Mariano
+54024,Dr Antônio Aguiar
+54024,Cido Reis
+54024,Chico Evangelista
+54024,Vagner de Oliveira
+54024,Isauro Calais
+54024,José Emanuel
+54024,José Laerte
+54024,Dr Fiorilo
+54024,Zé Márcio
+54024,Jucelio
+54024,Júlio Gasparette
+54024,Leo de Oliveira
+54024,Luiz Otávio Fernandes Coelho - Pardal
+54024,Nilton Militão
+54024,Noraldino Júnior
+54024,Oliveira Tresse
+54024,Betão
+54024,Rodrigo Mattos
+54024,Wanderson Castelar
 52298,José Emanuel
-52298, Rodrigo Mattos
+52298,Rodrigo Mattos
 51776,Ana Rossignoli
 51084,Chico Evangelista
-53011,Dr. Fiorilo
+53011,Dr Fiorilo
 54025,Ana Rossignoli
-54025, André Mariano
-54025, Dr. Antônio Aguiar
-54025, Cido Reis
-54025, Chico Evangelista
-54025, Vagner de Oliveira
-54025, José Emanuel
-54025, José Laerte
-54025, Dr. Fiorilo
-54025, Zé Márcio
-54025, Jucelio
-54025, Júlio Gasparette
-54025, Leo de Oliveira
-54025, Luiz Otávio Fernandes Coelho - Pardal
-54025, Nilton Militão
-54025, Oliveira Tresse
-54025, Betão
-54025, Rodrigo Mattos
-54025, Wanderson Castelar
+54025,André Mariano
+54025,Dr Antônio Aguiar
+54025,Cido Reis
+54025,Chico Evangelista
+54025,Vagner de Oliveira
+54025,José Emanuel
+54025,José Laerte
+54025,Dr Fiorilo
+54025,Zé Márcio
+54025,Jucelio
+54025,Júlio Gasparette
+54025,Leo de Oliveira
+54025,Luiz Otávio Fernandes Coelho - Pardal
+54025,Nilton Militão
+54025,Oliveira Tresse
+54025,Betão
+54025,Rodrigo Mattos
+54025,Wanderson Castelar
 52297,José Emanuel
-52297, Rodrigo Mattos
+52297,Rodrigo Mattos
 52002,Ana Rossignoli
 51083,Chico Evangelista
-53036,Dr. Fiorilo
+53036,Dr Fiorilo
 54023,Ana Rossignoli
-54023, André Mariano
-54023, Dr. Antônio Aguiar
-54023, Cido Reis
-54023, Chico Evangelista
-54023, Vagner de Oliveira
-54023, José Emanuel
-54023, José Laerte
-54023, Dr. Fiorilo
-54023, Zé Márcio
-54023, Jucelio
-54023, Júlio Gasparette
-54023, Leo de Oliveira
-54023, Luiz Otávio Fernandes Coelho - Pardal
-54023, Nilton Militão
-54023, Oliveira Tresse
-54023, Betão
-54023, Rodrigo Mattos
-54023, Wanderson Castelar
+54023,André Mariano
+54023,Dr Antônio Aguiar
+54023,Cido Reis
+54023,Chico Evangelista
+54023,Vagner de Oliveira
+54023,José Emanuel
+54023,José Laerte
+54023,Dr Fiorilo
+54023,Zé Márcio
+54023,Jucelio
+54023,Júlio Gasparette
+54023,Leo de Oliveira
+54023,Luiz Otávio Fernandes Coelho - Pardal
+54023,Nilton Militão
+54023,Oliveira Tresse
+54023,Betão
+54023,Rodrigo Mattos
+54023,Wanderson Castelar
 52295,José Emanuel
-52295, Rodrigo Mattos
+52295,Rodrigo Mattos
 51779,José Emanuel
 51082,Chico Evangelista
-53035,Dr. Fiorilo
+53035,Dr Fiorilo
 54027,Ana Rossignoli
-54027, André Mariano
-54027, Dr. Antônio Aguiar
-54027, Cido Reis
-54027, Chico Evangelista
-54027, Vagner de Oliveira
-54027, José Emanuel
-54027, José Laerte
-54027, Dr. Fiorilo
-54027, Zé Márcio
-54027, Jucelio
-54027, Júlio Gasparette
-54027, Leo de Oliveira
-54027, Luiz Otávio Fernandes Coelho - Pardal
-54027, Nilton Militão
-54027, Oliveira Tresse
-54027, Betão
-54027, Rodrigo Mattos
-54027, Wanderson Castelar
+54027,André Mariano
+54027,Dr Antônio Aguiar
+54027,Cido Reis
+54027,Chico Evangelista
+54027,Vagner de Oliveira
+54027,José Emanuel
+54027,José Laerte
+54027,Dr Fiorilo
+54027,Zé Márcio
+54027,Jucelio
+54027,Júlio Gasparette
+54027,Leo de Oliveira
+54027,Luiz Otávio Fernandes Coelho - Pardal
+54027,Nilton Militão
+54027,Oliveira Tresse
+54027,Betão
+54027,Rodrigo Mattos
+54027,Wanderson Castelar
 52292,José Emanuel
-52292, Rodrigo Mattos
+52292,Rodrigo Mattos
 51778,José Emanuel
 51081,Chico Evangelista
-53034,Dr. Fiorilo
+53034,Dr Fiorilo
 54386,Ana Rossignoli
-54386, André Mariano
-54386, Dr. Antônio Aguiar
-54386, Cido Reis
-54386, Chico Evangelista
-54386, Vagner de Oliveira
-54386, José Emanuel
-54386, José Laerte
-54386, Dr. Fiorilo
-54386, Zé Márcio
-54386, Jucelio
-54386, Júlio Gasparette
-54386, Leo de Oliveira
-54386, Luiz Otávio Fernandes Coelho - Pardal
-54386, Nilton Militão
-54386, Noraldino Júnior
-54386, Oliveira Tresse
-54386, Betão
-54386, Rodrigo Mattos
-54386, Wanderson Castelar
+54386,André Mariano
+54386,Dr Antônio Aguiar
+54386,Cido Reis
+54386,Chico Evangelista
+54386,Vagner de Oliveira
+54386,José Emanuel
+54386,José Laerte
+54386,Dr Fiorilo
+54386,Zé Márcio
+54386,Jucelio
+54386,Júlio Gasparette
+54386,Leo de Oliveira
+54386,Luiz Otávio Fernandes Coelho - Pardal
+54386,Nilton Militão
+54386,Noraldino Júnior
+54386,Oliveira Tresse
+54386,Betão
+54386,Rodrigo Mattos
+54386,Wanderson Castelar
 52315,José Emanuel
-52315, Rodrigo Mattos
+52315,Rodrigo Mattos
 51777,José Emanuel
 51053,Cido Reis
 53010,Betão
 54440,José Emanuel
 52316,José Emanuel
-52316, Rodrigo Mattos
+52316,Rodrigo Mattos
 51758,José Emanuel
 51052,Cido Reis
 53009,Wanderson Castelar
 54404,Júlio Gasparette
 52317,José Emanuel
-52317, Rodrigo Mattos
+52317,Rodrigo Mattos
 51051,Cido Reis
-52839,Dr. Fiorilo
+52839,Dr Fiorilo
 54265,Júlio Gasparette
 51754,José Emanuel
-52318,Dr. Fiorilo
+52318,Dr Fiorilo
 51050,Cido Reis
-52837,Dr. Fiorilo
+52837,Dr Fiorilo
 54661,Chico Evangelista
 51753,José Emanuel
-52319,Dr. Fiorilo
+52319,Dr Fiorilo
 51752,José Emanuel
 51049,Cido Reis
-52835,Dr. Fiorilo
+52835,Dr Fiorilo
 54507,Rodrigo Mattos
-52321,Dr. Fiorilo
+52321,Dr Fiorilo
 51751,Júlio Gasparette
 51048,Cido Reis
-52831,Dr. Fiorilo
+52831,Dr Fiorilo
 54260,Chico Evangelista
 52322,Betão
 51750,José Emanuel
 51047,Cido Reis
-52605,Dr. Antônio Aguiar
+52605,Dr Antônio Aguiar
 54441,Jucelio
 52324,Nilton Militão
 51749,José Emanuel
 51046,Cido Reis
 52604,Betão
 54402,Betão
-52326,Dr. Antônio Aguiar
+52326,Dr Antônio Aguiar
 51748,José Emanuel
 51045,Cido Reis
 52603,Betão
 54407,Betão
 52197,Cido Reis
 51757,Júlio Gasparette
-51032,Dr. Antônio Aguiar
+51032,Dr Antônio Aguiar
 52602,Jucelio
 54035,Ana Rossignoli
 52199,Cido Reis
 51710,Ana Rossignoli
-51031,Dr. Antônio Aguiar
+51031,Dr Antônio Aguiar
 54030,Ana Rossignoli
 52601,Jucelio
 52194,Cido Reis
-51029,Dr. Antônio Aguiar
+51029,Dr Antônio Aguiar
 53726,Chico Evangelista
-52600,Dr. Fiorilo
+52600,Dr Fiorilo
 52196,Cido Reis
-51028,Dr. Antônio Aguiar
+51028,Dr Antônio Aguiar
 51620,Oliveira Tresse
-52599,Dr. Fiorilo
+52599,Dr Fiorilo
 54033,Wanderson Castelar
 52473,Chico Evangelista
 52200,Cido Reis
-51027,Dr. Antônio Aguiar
+51027,Dr Antônio Aguiar
 51621,José Emanuel
 54034,Ana Rossignoli
-54034, André Mariano
-54034, Dr. Antônio Aguiar
-54034, Cido Reis
-54034, Chico Evangelista
-54034, Vagner de Oliveira
-54034, José Emanuel
-54034, Dr. Fiorilo
-54034, Zé Márcio
-54034, João do Joaninho
-54034, Jucelio
-54034, Júlio Gasparette
-54034, Leo de Oliveira
-54034, Luiz Otávio Fernandes Coelho - Pardal
-54034, Nilton Militão
-54034, Oliveira Tresse
-54034, Betão
-54034, Rodrigo Mattos
-54034, Wanderson Castelar
+54034,André Mariano
+54034,Dr Antônio Aguiar
+54034,Cido Reis
+54034,Chico Evangelista
+54034,Vagner de Oliveira
+54034,José Emanuel
+54034,Dr Fiorilo
+54034,Zé Márcio
+54034,João do Joaninho
+54034,Jucelio
+54034,Júlio Gasparette
+54034,Leo de Oliveira
+54034,Luiz Otávio Fernandes Coelho - Pardal
+54034,Nilton Militão
+54034,Oliveira Tresse
+54034,Betão
+54034,Rodrigo Mattos
+54034,Wanderson Castelar
 52472,Cido Reis
 52198,Cido Reis
-51026,Dr. Antônio Aguiar
+51026,Dr Antônio Aguiar
 54028,Ana Rossignoli
-54028, André Mariano
-54028, Dr. Antônio Aguiar
-54028, Cido Reis
-54028, Chico Evangelista
-54028, Vagner de Oliveira
-54028, Isauro Calais
-54028, José Emanuel
-54028, José Laerte
-54028, Dr. Fiorilo
-54028, Zé Márcio
-54028, Jucelio
-54028, Júlio Gasparette
-54028, Leo de Oliveira
-54028, Luiz Otávio Fernandes Coelho - Pardal
-54028, Nilton Militão
-54028, Noraldino Júnior
-54028, Oliveira Tresse
-54028, Betão
-54028, Rodrigo Mattos
-54028, Wanderson Castelar
+54028,André Mariano
+54028,Dr Antônio Aguiar
+54028,Cido Reis
+54028,Chico Evangelista
+54028,Vagner de Oliveira
+54028,Isauro Calais
+54028,José Emanuel
+54028,José Laerte
+54028,Dr Fiorilo
+54028,Zé Márcio
+54028,Jucelio
+54028,Júlio Gasparette
+54028,Leo de Oliveira
+54028,Luiz Otávio Fernandes Coelho - Pardal
+54028,Nilton Militão
+54028,Noraldino Júnior
+54028,Oliveira Tresse
+54028,Betão
+54028,Rodrigo Mattos
+54028,Wanderson Castelar
 52384,Zé Márcio
 52195,Cido Reis
 51016,Júlio Gasparette
 54399,Ana Rossignoli
-54399, André Mariano
-54399, Dr. Antônio Aguiar
-54399, Cido Reis
-54399, Chico Evangelista
-54399, Vagner de Oliveira
-54399, José Emanuel
-54399, José Laerte
-54399, Dr. Fiorilo
-54399, Jucelio
-54399, Júlio Gasparette
-54399, Leo de Oliveira
-54399, Luiz Otávio Fernandes Coelho - Pardal
-54399, Nilton Militão
-54399, Oliveira Tresse
-54399, Betão
-54399, Rodrigo Mattos
-54399, Wanderson Castelar
+54399,André Mariano
+54399,Dr Antônio Aguiar
+54399,Cido Reis
+54399,Chico Evangelista
+54399,Vagner de Oliveira
+54399,José Emanuel
+54399,José Laerte
+54399,Dr Fiorilo
+54399,Jucelio
+54399,Júlio Gasparette
+54399,Leo de Oliveira
+54399,Luiz Otávio Fernandes Coelho - Pardal
+54399,Nilton Militão
+54399,Oliveira Tresse
+54399,Betão
+54399,Rodrigo Mattos
+54399,Wanderson Castelar
 51600,Ana Rossignoli
 52380,Zé Márcio
 52042,Ana Rossignoli
@@ -13745,16 +13767,16 @@ id_projeto_camara,nome_autor
 52044,Ana Rossignoli
 51589,Júlio Gasparette
 51013,Júlio Gasparette
-53230,Dr. Fiorilo
+53230,Dr Fiorilo
 52320,José Emanuel
 52045,Ana Rossignoli
 51567,Ana Rossignoli
 51012,Júlio Gasparette
-52347,Dr. Fiorilo
+52347,Dr Fiorilo
 52046,Ana Rossignoli
 51009,Júlio Gasparette
 51566,Júlio Gasparette
-52345,Dr. Fiorilo
+52345,Dr Fiorilo
 52047,Ana Rossignoli
 51505,Ana Rossignoli
 51008,Júlio Gasparette
@@ -13768,34 +13790,34 @@ id_projeto_camara,nome_autor
 52049,Cido Reis
 51006,Júlio Gasparette
 53208,Betão
-52113,Dr. Fiorilo
+52113,Dr Fiorilo
 52050,Cido Reis
 51484,Zé Márcio
 51005,Júlio Gasparette
-53209,Dr. Fiorilo
+53209,Dr Fiorilo
 52068,Jucelio
 52051,Cido Reis
 51440,Nilton Militão
 51004,Júlio Gasparette
-52921,Dr. Fiorilo
+52921,Dr Fiorilo
 52052,Rodrigo Mattos
-51439,Dr. Antônio Aguiar
+51439,Dr Antônio Aguiar
 51003,Júlio Gasparette
 52914,Chico Evangelista
-52028,Dr. Fiorilo
-52027,Dr. Fiorilo
+52028,Dr Fiorilo
+52027,Dr Fiorilo
 52053,Rodrigo Mattos
-51438,Dr. Antônio Aguiar
+51438,Dr Antônio Aguiar
 51002,Júlio Gasparette
 53091,André Mariano
-53091, Dr. Antônio Aguiar
-53091, Betão
+53091,Dr Antônio Aguiar
+53091,Betão
 52066,José Emanuel
 52054,Rodrigo Mattos
-51437,Dr. Antônio Aguiar
+51437,Dr Antônio Aguiar
 51001,Júlio Gasparette
 52561,José Emanuel
-52025,Dr. Fiorilo
+52025,Dr Fiorilo
 52055,Rodrigo Mattos
 51409,Jucelio
 51000,Júlio Gasparette
@@ -13803,53 +13825,53 @@ id_projeto_camara,nome_autor
 52015,Cido Reis
 52056,Rodrigo Mattos
 51407,Chico Evangelista
-51407, José Emanuel
+51407,José Emanuel
 50999,Júlio Gasparette
 53705,Ana Rossignoli
-53705, André Mariano
-53705, Dr. Antônio Aguiar
-53705, Cido Reis
-53705, Chico Evangelista
-53705, Vagner de Oliveira
-53705, José Emanuel
-53705, Dr. Fiorilo
-53705, Zé Márcio
-53705, João do Joaninho
-53705, Jucelio
-53705, Júlio Gasparette
-53705, Leo de Oliveira
-53705, Luiz Otávio Fernandes Coelho - Pardal
-53705, Nilton Militão
-53705, Oliveira Tresse
-53705, Betão
-53705, Rodrigo Mattos
-53705, Wanderson Castelar
+53705,André Mariano
+53705,Dr Antônio Aguiar
+53705,Cido Reis
+53705,Chico Evangelista
+53705,Vagner de Oliveira
+53705,José Emanuel
+53705,Dr Fiorilo
+53705,Zé Márcio
+53705,João do Joaninho
+53705,Jucelio
+53705,Júlio Gasparette
+53705,Leo de Oliveira
+53705,Luiz Otávio Fernandes Coelho - Pardal
+53705,Nilton Militão
+53705,Oliveira Tresse
+53705,Betão
+53705,Rodrigo Mattos
+53705,Wanderson Castelar
 52012,Cido Reis
 52057,Rodrigo Mattos
 51410,Oliveira Tresse
 50998,Júlio Gasparette
 53706,Ana Rossignoli
-53706, André Mariano
-53706, Dr. Antônio Aguiar
-53706, Cido Reis
-53706, Chico Evangelista
-53706, Vagner de Oliveira
-53706, José Emanuel
-53706, Dr. Fiorilo
-53706, Zé Márcio
-53706, João do Joaninho
-53706, Jucelio
-53706, Júlio Gasparette
-53706, Leo de Oliveira
-53706, Luiz Otávio Fernandes Coelho - Pardal
-53706, Nilton Militão
-53706, Oliveira Tresse
-53706, Betão
-53706, Rodrigo Mattos
-53706, Wanderson Castelar
+53706,André Mariano
+53706,Dr Antônio Aguiar
+53706,Cido Reis
+53706,Chico Evangelista
+53706,Vagner de Oliveira
+53706,José Emanuel
+53706,Dr Fiorilo
+53706,Zé Márcio
+53706,João do Joaninho
+53706,Jucelio
+53706,Júlio Gasparette
+53706,Leo de Oliveira
+53706,Luiz Otávio Fernandes Coelho - Pardal
+53706,Nilton Militão
+53706,Oliveira Tresse
+53706,Betão
+53706,Rodrigo Mattos
+53706,Wanderson Castelar
 52009,Wanderson Castelar
 52058,Rodrigo Mattos
-51404,Dr. Fiorilo
+51404,Dr Fiorilo
 50997,Júlio Gasparette
 53702,Wanderson Castelar
 52007,Rodrigo Mattos
@@ -13862,29 +13884,29 @@ id_projeto_camara,nome_autor
 51357,José Emanuel
 50995,Júlio Gasparette
 53704,Ana Rossignoli
-53704, André Mariano
-53704, Dr. Antônio Aguiar
-53704, Cido Reis
-53704, Chico Evangelista
-53704, Vagner de Oliveira
-53704, José Emanuel
-53704, Dr. Fiorilo
-53704, Zé Márcio
-53704, João do Joaninho
-53704, Jucelio
-53704, Júlio Gasparette
-53704, Leo de Oliveira
-53704, Luiz Otávio Fernandes Coelho - Pardal
-53704, Nilton Militão
-53704, Oliveira Tresse
-53704, Betão
-53704, Rodrigo Mattos
-53704, Wanderson Castelar
+53704,André Mariano
+53704,Dr Antônio Aguiar
+53704,Cido Reis
+53704,Chico Evangelista
+53704,Vagner de Oliveira
+53704,José Emanuel
+53704,Dr Fiorilo
+53704,Zé Márcio
+53704,João do Joaninho
+53704,Jucelio
+53704,Júlio Gasparette
+53704,Leo de Oliveira
+53704,Luiz Otávio Fernandes Coelho - Pardal
+53704,Nilton Militão
+53704,Oliveira Tresse
+53704,Betão
+53704,Rodrigo Mattos
+53704,Wanderson Castelar
 52000,Jucelio
 52061,Rodrigo Mattos
 51354,José Emanuel
 50994,João do Joaninho
-52560,Dr. Fiorilo
+52560,Dr Fiorilo
 52024,Zé Márcio
 52062,Cido Reis
 51356,José Emanuel
@@ -13895,65 +13917,65 @@ id_projeto_camara,nome_autor
 51359,José Emanuel
 50992,João do Joaninho
 52260,Zé Márcio
-51997,Dr. Fiorilo
+51997,Dr Fiorilo
 52064,Cido Reis
 50991,João do Joaninho
 51333,José Emanuel
 52257,Zé Márcio
-51994,Dr. Fiorilo
+51994,Dr Fiorilo
 52065,Oliveira Tresse
 51331,José Emanuel
 50989,André Mariano
 52018,José Emanuel
-52067,Dr. Fiorilo
+52067,Dr Fiorilo
 51330,José Emanuel
 50968,Ana Rossignoli
-50968, Jucelio
+50968,Jucelio
 55104,Cido Reis
 51992,José Emanuel
 51960,João do Joaninho
 51329,José Emanuel
 50967,Ana Rossignoli
-50967, Jucelio
-54678,Dr. Antônio Aguiar
+50967,Jucelio
+54678,Dr Antônio Aguiar
 52348,Vagner de Oliveira
 51962,João do Joaninho
 51327,Chico Evangelista
-54533,Dr. Fiorilo
+54533,Dr Fiorilo
 50971,Noraldino Júnior
 52266,Vagner de Oliveira
 51762,Cido Reis
-51653,Dr. Fiorilo
+51653,Dr Fiorilo
 51320,Oliveira Tresse
 54324,Ana Rossignoli
 50970,Noraldino Júnior
 52258,Vagner de Oliveira
-51761,Dr. Fiorilo
+51761,Dr Fiorilo
 51485,Oliveira Tresse
 51315,Luiz Otávio Fernandes Coelho - Pardal
 54269,Zé Márcio
 50969,Noraldino Júnior
 52182,José Emanuel
-51763,Dr. Fiorilo
+51763,Dr Fiorilo
 51483,Zé Márcio
 51317,Luiz Otávio Fernandes Coelho - Pardal
-50973,Dr. Fiorilo
+50973,Dr Fiorilo
 54087,Rodrigo Mattos
 52263,José Emanuel
-51764,Dr. Fiorilo
+51764,Dr Fiorilo
 51482,Zé Márcio
 51313,Júlio Gasparette
-50972,Dr. Fiorilo
+50972,Dr Fiorilo
 53941,Cido Reis
 52264,José Emanuel
-51759,Dr. Antônio Aguiar
+51759,Dr Antônio Aguiar
 51481,Zé Márcio
 51314,Chico Evangelista
 50976,Chico Evangelista
 53721,Chico Evangelista
 52262,José Emanuel
 51480,José Emanuel
-51312,Dr. Antônio Aguiar
+51312,Dr Antônio Aguiar
 50975,Chico Evangelista
 53722,Zé Márcio
 52261,Chico Evangelista
@@ -13963,7 +13985,7 @@ id_projeto_camara,nome_autor
 53475,Júlio Gasparette
 52259,Chico Evangelista
 51719,Cido Reis
-51436,Dr. Fiorilo
+51436,Dr Fiorilo
 50980,André Mariano
 51165,José Emanuel
 53268,Jucelio
@@ -13972,80 +13994,80 @@ id_projeto_camara,nome_autor
 51162,José Emanuel
 50979,André Mariano
 53123,Zé Márcio
-52702,Dr. Antônio Aguiar
+52702,Dr Antônio Aguiar
 51716,Júlio Gasparette
-51406,Dr. Fiorilo
+51406,Dr Fiorilo
 51133,José Emanuel
 50978,André Mariano
 53093,Chico Evangelista
 53094,Zé Márcio
 55007,José Emanuel
 51711,Chico Evangelista
-51714,Dr. Fiorilo
-51405,Dr. Fiorilo
+51714,Dr Fiorilo
+51405,Dr Fiorilo
 51163,José Emanuel
 50977,André Mariano
 52918,Zé Márcio
 54977,Cido Reis
-54977, Zé Márcio
-54977, Júlio Gasparette
-54977, Nilton Militão
-54977, Rodrigo Mattos
+54977,Zé Márcio
+54977,Júlio Gasparette
+54977,Nilton Militão
+54977,Rodrigo Mattos
 51712,Betão
 51173,Betão
 50982,Ana Rossignoli
 51080,José Emanuel
 52917,Zé Márcio
 54419,Ana Rossignoli
-51685,Dr. Fiorilo
+51685,Dr Fiorilo
 51172,Betão
 50981,Ana Rossignoli
 51077,José Emanuel
 53873,Cido Reis
-53873, Zé Márcio
-53873, Nilton Militão
-53873, Rodrigo Mattos
+53873,Zé Márcio
+53873,Nilton Militão
+53873,Rodrigo Mattos
 52915,Jucelio
-51668,Dr. Antônio Aguiar
+51668,Dr Antônio Aguiar
 51171,Betão
 50983,Zé Márcio
 51079,José Emanuel
 53720,Jucelio
 52790,Vagner de Oliveira
-52790, Zé Márcio
-51667,Dr. Fiorilo
+52790,Zé Márcio
+51667,Dr Fiorilo
 51179,Wanderson Castelar
 50986,Noraldino Júnior
 51078,José Emanuel
 53437,Mesa Diretora - Biênio 2015/2016
-53437, Cido Reis
-53437, Zé Márcio
-53437, Rodrigo Mattos
-52764,Dr. Fiorilo
+53437,Cido Reis
+53437,Zé Márcio
+53437,Rodrigo Mattos
+52764,Dr Fiorilo
 52110,Zé Márcio
 51178,Wanderson Castelar
 50985,Noraldino Júnior
 51023,João do Joaninho
 53346,Cido Reis
-53346, Zé Márcio
-53346, Rodrigo Mattos
-51666,Dr. Fiorilo
-52112,Dr. Fiorilo
+53346,Zé Márcio
+53346,Rodrigo Mattos
+51666,Dr Fiorilo
+52112,Dr Fiorilo
 51565,Cido Reis
 51177,Wanderson Castelar
 50984,Noraldino Júnior
 51019,João do Joaninho
 53287,Cido Reis
-53287, Zé Márcio
-53287, Rodrigo Mattos
+53287,Zé Márcio
+53287,Rodrigo Mattos
 52111,Zé Márcio
 51176,Wanderson Castelar
 51168,Wanderson Castelar
 50965,Zé Márcio
 51025,João do Joaninho
 52844,Ana Rossignoli
-52844, André Mariano
-52844, Oliveira Tresse
+52844,André Mariano
+52844,Oliveira Tresse
 52022,Cido Reis
 51323,Betão
 51175,Betão
@@ -14053,65 +14075,65 @@ id_projeto_camara,nome_autor
 51018,Isauro Calais
 51098,Betão
 52882,Mesa Diretora - Biênio 2015/2016
-52882, Cido Reis
-52882, Zé Márcio
-52882, João do Joaninho
-52882, Nilton Militão
-52882, Rodrigo Mattos
+52882,Cido Reis
+52882,Zé Márcio
+52882,João do Joaninho
+52882,Nilton Militão
+52882,Rodrigo Mattos
 51865,Zé Márcio
-51174,Dr. Fiorilo
+51174,Dr Fiorilo
 51169,Noraldino Júnior
 50963,Zé Márcio
 51036,José Emanuel
 52595,Jucelio
-51322,Dr. Fiorilo
+51322,Dr Fiorilo
 51809,Zé Márcio
 51891,Cido Reis
-51891, Zé Márcio
-51891, João do Joaninho
-51891, Nilton Militão
-51891, Rodrigo Mattos
-51310,Dr. Antônio Aguiar
+51891,Zé Márcio
+51891,João do Joaninho
+51891,Nilton Militão
+51891,Rodrigo Mattos
+51310,Dr Antônio Aguiar
 51170,Noraldino Júnior
 51058,Jucelio
 50962,Jucelio
 51033,José Emanuel
-51819,Dr. Antônio Aguiar
-51819, Zé Márcio
+51819,Dr Antônio Aguiar
+51819,Zé Márcio
 51889,Cido Reis
-51889, Zé Márcio
-51889, João do Joaninho
-51889, Nilton Militão
-51889, Rodrigo Mattos
+51889,Zé Márcio
+51889,João do Joaninho
+51889,Nilton Militão
+51889,Rodrigo Mattos
 51321,Vagner de Oliveira
 51057,Noraldino Júnior
 50961,Jucelio
 51030,José Emanuel
 51824,Zé Márcio
-51324,Dr. Fiorilo
+51324,Dr Fiorilo
 51011,Cido Reis
-51011, Zé Márcio
-51011, João do Joaninho
-51011, Nilton Militão
-51011, Rodrigo Mattos
+51011,Zé Márcio
+51011,João do Joaninho
+51011,Nilton Militão
+51011,Rodrigo Mattos
 51625,Luiz Otávio Fernandes Coelho - Pardal
 51024,Noraldino Júnior
-50960,Dr. Antônio Aguiar
+50960,Dr Antônio Aguiar
 51097,Jucelio
 51780,José Emanuel
 51490,Zé Márcio
 51022,Noraldino Júnior
-50959,Dr. Antônio Aguiar
+50959,Dr Antônio Aguiar
 50988,Zé Márcio
 51095,Noraldino Júnior
 51326,Jucelio
 51355,José Emanuel
 51316,Zé Márcio
 51021,Noraldino Júnior
-50958,Dr. Antônio Aguiar
+50958,Dr Antônio Aguiar
 51017,Isauro Calais
 51094,Noraldino Júnior
-51325,Dr. Antônio Aguiar
+51325,Dr Antônio Aguiar
 51311,Betão
 51318,Zé Márcio
 51020,Noraldino Júnior

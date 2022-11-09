@@ -4,7 +4,7 @@ Projeto,Ano,Tipo,Ementa,Situacao,Autor,Codigo_Tipo,Id_Projeto_Camara,Data_Projet
 185800,2012,Requerimento,"Solicita posteamento e energia elétrica na rua Madre Maria José de Jesus, bairro Sagrado Coração de Jesus..",Em Tramitação,Betão,REQ,27822,25/09/2012,NAO,TRAMITACAO
 176700,2012,Requerimento,"Solicita a colocação de quebra-molas na rua Paracatu, bairro Bandeirantes",Em Tramitação,Chico Evangelista,REQ,31332,18/09/2012,NAO,TRAMITACAO
 56300,2012,Requerimento,Solicita a substituição das lampadas vapor de mercúrio para vapor de sódio das ruas do bairro Teixeiras.,Em Tramitação,Fiorilo,REQ,30452,Data nao encontrada,NAO,TRAMITACAO
-1684,2012,Requerimento,"Solicita a poda de árvore na rua Pitangui, bairro Eldorado.",Em Tramitação,Noraldino Junior,REQ,14196,27/08/2012,NAO,TRAMITACAO
+1684,2012,Requerimento,"Solicita a poda de árvore na rua Pitangui, bairro Eldorado.",Em Tramitação,Noraldino Junior,REQ,14196,,,
 4109,2012,Requerimento,Solicita uma audiencia pública para se discutir sobre a questão da Obrigatoriedade do Uso de Uniformes em todas as Escolas do Município de Juiz de Fora.,Em Tramitação,José Tarcísio,REQ,13672,08/12/2011,NAO,TRAMITACAO
 4029,2012,Mensagem do Executivo,Dispõe sobre a Criação do Fundo Municipal de Incentivo de autoria do Executivo.,Transformado em Norma Jurídica,Executivo,MSGEX,37868,13/12/2012,SIM,SIM
 4028,2012,Mensagem do Executivo,Dispõe sobre a doação do imóvel que menciona.,Arquivada,Executivo,MSGEX,37849,12/12/2012,SIM,NAO
@@ -487,10 +487,10 @@ Projeto,Ano,Tipo,Ementa,Situacao,Autor,Codigo_Tipo,Id_Projeto_Camara,Data_Projet
 1737,2012,Requerimento,"Solicita a possibilidade de corte de árvore na esquina da rua Dona Ambrosína Nunes com a Vidal Barbosa Lage, bairro Jóquei Clube I.",Em Tramitação,Chico Evangelista,REQ,4283,19/09/2012,NAO,TRAMITACAO
 1736,2012,Requerimento,Solicita que faça um estudo para a melhora da rede de capitação de águas pluviais da Rua Ouro Preto no bairro Centenário.,Em Tramitação,Chico Evangelista,REQ,26194,17/09/2012,NAO,TRAMITACAO
 1735,2012,Requerimento,"Solicita a construção de três quebra-molas na rua Francisco Baechllufft Santos, no bairro N.S. de Lourdes.",Em Tramitação,Chico Evangelista,REQ,22162,17/09/2012,NAO,TRAMITACAO
-1734,2012,Requerimento,Solicita audiência Pública para discutir os problemas da UBS de Santa Cruz e a situação da Saúde no bairro.,Em Tramitação,Pastor Carlos,REQ,38697,17/09/2012,NAO,TRAMITACAO
+1734,2012,Requerimento,Solicita audiência Pública para discutir os problemas da UBS de Santa Cruz e a situação da Saúde no bairro.,Em Tramitação,Pastor Carlos,REQ,38697,,,
 1734,2012,Requerimento,Solicita audiência pública para resolver problemas da UBS de Santa Cruz,Arquivada,Carlos Bonifácio,REQ,32123,Data nao encontrada,SIM,NAO
 1733,2012,Requerimento,Solicita audiência pública para discutir a situação do músicos de Juiz de Fora,Arquivada,Francisco Canalli,REQ,2876,Data nao encontrada,SIM,NAO
-1733,2012,Requerimento,Solicita audiência Publica para discutir problemas enfrentados pelos músicos na cidade de Juiz de Fora.,Em Tramitação,Francisco Canalli,REQ,38696,17/09/2012,NAO,TRAMITACAO
+1733,2012,Requerimento,Solicita audiência Publica para discutir problemas enfrentados pelos músicos na cidade de Juiz de Fora.,Em Tramitação,Francisco Canalli,REQ,38696,,,
 1732,2012,Requerimento,"Solicita a implantação de placa de embarque e desembarque em frente a creche escola Recanto do Sol, rua Nelson Gomes de Carvalho, bairro Vale do Ipê.",Em Tramitação,Gasparette,REQ,6681,29/08/2012,NAO,TRAMITACAO
 1731,2012,Requerimento,Solicita a troca de lâmpadas nos postes de energia elétrica na Travessa situada entre as ruas Maria Pires e rua Geraldina Carvalho Pinto no bairro Santa Luzia.,Em Tramitação,Gasparette,REQ,10000,29/08/2012,NAO,TRAMITACAO
 1730,2012,Requerimento,"Solicita a poda de arvores na rua Antônio Lopes Junior, bairro Francisco Bernardino.",Em Tramitação,Wanderson Castelar,REQ,4278,29/08/2012,NAO,TRAMITACAO
@@ -740,7 +740,7 @@ Projeto,Ano,Tipo,Ementa,Situacao,Autor,Codigo_Tipo,Id_Projeto_Camara,Data_Projet
 1484,2012,Requerimento,Solicita que coloque uma grade de proteção na boca de lobo na rua Miguel Marques Peres no bairro Jardim Natal.,Em Tramitação,Chico Evangelista,REQ,18975,20/08/2012,NAO,TRAMITACAO
 1483,2012,Requerimento,"Solicita dois quebra molas na rua Imaculada Conceição, bairro Dom Bosco.",Em Tramitação,Doutor Luiz Carlos,REQ,8693,20/08/2012,NAO,TRAMITACAO
 1482,2012,Requerimento,Solicita a realização de audiência pública para discutir os problemas enfrentados pelos ambulantyes da feira livre de juiz de fora.,Em Tramitação,Francisco Canalli,REQ,6144,Data nao encontrada,NAO,TRAMITACAO
-1482,2012,Requerimento,Solicita audiencia pública para discutir sobre problemas enfrentados pelos ambulantes da feira livre.,Em Tramitação,Francisco Canalli,REQ,38695,20/08/2012,NAO,TRAMITACAO
+1482,2012,Requerimento,Solicita audiencia pública para discutir sobre problemas enfrentados pelos ambulantes da feira livre.,Em Tramitação,Francisco Canalli,REQ,38695,,,
 1481,2012,Requerimento,"Solicita a retirada de entulho da rua São Pnacrácio, bairro São Tarcísio.",Arquivada,Ana do Padre Frederico,REQ,16647,17/08/2012,SIM,SIM
 1480,2012,Requerimento,"Solicita a retirada de entulho da rua Regente, bairro Santana.",Arquivada,Ana do Padre Frederico,REQ,6634,17/08/2012,SIM,SIM
 1479,2012,Requerimento,"Solicita a capina, limpeza, retirada de entulho e colocação de placa Proibido Jogar Lixo, do terreno situado á rua Regente, bairro Santana.",Arquivada,Ana do Padre Frederico,REQ,6633,17/08/2012,SIM,SIM
@@ -1089,7 +1089,7 @@ Projeto,Ano,Tipo,Ementa,Situacao,Autor,Codigo_Tipo,Id_Projeto_Camara,Data_Projet
 1131,2012,Requerimento,"Solicita capina e limpeza no trecho da rua Antônio Silva, bairro Morada do Serro com a rua José Lourenço, bairro São Pedro.",Arquivada,Ana do Padre Frederico,REQ,30829,25/05/2012,SIM,SIM
 1130,2012,Requerimento,"Solicita a retirada do telefone público na rua Américo Lobo, bairro Progresso.",Em Tramitação,Ana do Padre Frederico,REQ,38723,25/05/2012,NAO,TRAMITACAO
 1129,2012,Requerimento,"Solicita Audiência Pública, para discutirmos a situação do Hospital Universitário com a criação da Empresa Brasileira de Serviços Hospitalares pelo Governo Federal.",Em Tramitação,"José Laerte, Fiorilo e José Tarcísio., José Laerte, Dr. Fiorilo",REQ,2688,Data nao encontrada,NAO,TRAMITACAO
-1129,2012,Requerimento,Solicita uma audiencia publica para discutir so bre a situação do hospital universitário.,Em Tramitação,"José Laerte, Fiorilo, José Tarcísio",REQ,38694,25/05/2012,NAO,TRAMITACAO
+1129,2012,Requerimento,Solicita uma audiencia publica para discutir so bre a situação do hospital universitário.,Em Tramitação,"José Laerte, Fiorilo, José Tarcísio",REQ,38694,,,
 1128,2012,Requerimento,Solicita melhorias na iluminação da rua Catarina de Castro bairro Morro da Glória.,Em Tramitação,Noraldino,REQ,13,24/05/2012,NAO,TRAMITACAO
 1127,2012,Requerimento,"Solicita o recapeamento asfáltico na rua Acre, bairro Mundo Novo.",Em Tramitação,Noraldino,REQ,31436,24/05/2012,NAO,TRAMITACAO
 1126,2012,Requerimento,"Solicita a iluminação da quadra na Avenida Antonio Guimarães Peralva, bairro Borboleta.",Em Tramitação,Noraldino,REQ,5690,24/05/2012,NAO,TRAMITACAO
@@ -1695,7 +1695,7 @@ Projeto,Ano,Tipo,Ementa,Situacao,Autor,Codigo_Tipo,Id_Projeto_Camara,Data_Projet
 515,2012,Requerimento,"Solicita a construção do passeio em toda extensão nos fundos da Escola Municipal Olinda de Paula Magalhães, no bairro Jardim Esperança.",Em Tramitação,José Laerte,REQ,21502,21/03/2012,NAO,TRAMITACAO
 514,2012,Requerimento,"Solicita a limpeza e drenagem do córrego Marmelos, no Jardim Esperança.",Em Tramitação,José Laerte,REQ,16326,21/03/2012,NAO,TRAMITACAO
 513,2012,Requerimento,"Solicita a captação de águas pluviais na rua Nazira Mattar de Freitas parte alta, no Bairro Jardim Cachoeira.",Em Tramitação,José Laerte,REQ,5337,Data nao encontrada,NAO,TRAMITACAO
-513,2012,Requerimento,"Solicita a iluminação da Praça, no bairro Jardim Esperança.",Em Tramitação,José Laerte,REQ,30316,21/03/2012,NAO,TRAMITACAO
+513,2012,Requerimento,"Solicita a iluminação da Praça, no bairro Jardim Esperança.",Em Tramitação,José Laerte,REQ,30316,,,
 512,2012,Requerimento,Solicita a retirada de banheiro químico na praça do Jardim Esperança.,Em Tramitação,José Laerte,REQ,24036,21/03/2012,NAO,TRAMITACAO
 511,2012,Requerimento,"Soliicta a retirada da árvore na praça, no bairro Jardim Esperança.",Em Tramitação,José Laerte,REQ,4126,21/03/2012,NAO,TRAMITACAO
 510,2012,Requerimento,Solicita o aumento do policiamento no bairro Jardim Esperança.,Em Tramitação,José Laerte,REQ,854,21/03/2012,NAO,TRAMITACAO
@@ -2088,7 +2088,7 @@ Projeto,Ano,Tipo,Ementa,Situacao,Autor,Codigo_Tipo,Id_Projeto_Camara,Data_Projet
 223,2012,Moção,Moção de Aplauso - competidores que participaram da 5ª (quinta) Copa Kids de Eu Jitsu em Barreto,Arquivada,José Emanuel,MOC,38925,28/07/2012,SIM,SIM
 223,2012,Requerimento,"Solicita a realização de tapa buracos na rua Marciano Pinto,bairro Sagrado Coração.",Em Tramitação,Betão,REQ,27693,13/01/2012,NAO,TRAMITACAO
 223,2012,Projeto de Lei,Dispõe sobre o titulo de Cidadão Honorário Projeto de autoria do Vereador João do Joaninho,Transformado em Norma Jurídica,João do Joninho,PLEI,39199,19/11/2012,SIM,SIM
-222,2012,Moção,Moção de Aplauso - Wigmam Albuquerque Carvalho,Arquivada,José Emanuel,MOC,38924,28/07/2012,SIM,SIM
+222,2012,Moção,Moção de Aplauso - Wigmam Albuquerque Carvalho,Arquivada,José Emanuel,MOC,38924,,,
 222,2012,Projeto de Lei,Dispõe sobre denominação de Logradouro Público,Em Tramitação - Vetado Totalmente,Chico Evangelista,PLEI,35881,19/11/2012,NAO,TRAMITACAO
 222,2012,Moção,"Solicita a realização de tapa buracos na rua Projetada I ,bairro Sagrado Coração.",Em Tramitação,Betão,MOC,27682,Data nao encontrada,NAO,TRAMITACAO
 221,2012,Requerimento,"Solicita a realização tapa buracos na rua Doardino Longo,bairro Industrial.",Em Tramitação,Betão,REQ,10611,13/01/2012,NAO,TRAMITACAO
@@ -2347,7 +2347,7 @@ Projeto,Ano,Tipo,Ementa,Situacao,Autor,Codigo_Tipo,Id_Projeto_Camara,Data_Projet
 150,2012,Requerimento,"Solicita a recomposição do asfalto na rua dos Jades, bairro Marilandia",Em Tramitação,Betão,REQ,6755,12/01/2012,NAO,TRAMITACAO
 150,2012,Projeto de Lei,Dispõe sobre o prazo de estacionamento rotativo pago de veículos em vias e logradouros públicos do Município de Juiz de Fora.,Arquivada,José Laerte,PLEI,1583,29/05/2012,SIM,NAO
 150,2012,Moção,Moção de Aplauso - Angelo Goulart,Arquivada,Francisco Canalli,MOC,38856,25/05/2012,SIM,SIM
-150,2012,Moção,Moção de Aplauso - Angêlo Goulart,Arquivada,Francisco Canalli,MOC,38997,Data nao encontrada,SIM,NAO
+150,2012,Moção,Moção de Aplauso - Angêlo Goulart,Arquivada,Francisco Canalli,MOC,38997,,,
 150,2012,Pedido de Informação,Ao Chefe do Executivo que nos informe qual a destinação das estátuas que guarneciam os canteiros da Av. Rio Branco logo no seu início após a ponte do Manoel Honório.,Em Tramitação,Flávio Cheker,PEDIF,40812,Data nao encontrada,NAO,TRAMITACAO
 149,2012,Projeto de Lei,Institui o Diário Oficial Eletrônico da Câmara Municipal de Juiz de Fora (D.O.E) e dá outras providências.,Arquivada,"Mesa Diretora - Biênio 2011/2012, Pastor Carlos, Dr Luiz Carlos dos Santos, Mesa Diretora",PLEI,39141,29/05/2012,SIM,SIM
 149,2012,Moção,Moção de Aplauso - Rosângela Maria de Castro Cunha,Arquivada,Figueirôa,MOC,38855,25/05/2012,SIM,SIM
@@ -2663,7 +2663,7 @@ Projeto,Ano,Tipo,Ementa,Situacao,Autor,Codigo_Tipo,Id_Projeto_Camara,Data_Projet
 85,2012,Projeto de Lei,"Institui o IPTU Acessibilidade"", desconto no Imposto Predial Territorial Urbano (IPTU) aos proprietários de imóveis residenciais e comerciais que adaptem as calçadas ao portador de necessidades especiais e dá outras providências.",Arquivada,Wanderson Castelar,PLEI,509,30/03/2012,SIM,NAO
 85,2012,Moção,Moção de Pesar - Robson Terra,Arquivada,Figueirôa,MOC,39007,17/04/2012,SIM,SIM
 85,2012,Representação,"Solicita junto a Secretária Estadual de Defesa Social, a criação de delegacia especializada antidrogas",Arquivada,"Noraldino Júnior, Chico Evangelista e João do Joaninho, Chico Evangelista, Noraldino Júnior",REP,37678,Data nao encontrada,SIM,NAO
-85,2012,Representação,Solicita junto Secretaria Estadual de Defesa Social sugerir a criação de uma delegacia especializada antidrogas e de combate a ação de gangues na cidade de Juiz de Fora .,Arquivada,"Noraldino Júnior, João do Joaninho e Chico Evangelista",REP,37685,22/05/2012,SIM,SIM
+85,2012,Representação,Solicita junto Secretaria Estadual de Defesa Social sugerir a criação de uma delegacia especializada antidrogas e de combate a ação de gangues na cidade de Juiz de Fora .,Arquivada,"Noraldino Júnior, João do Joaninho e Chico Evangelista",REP,37685,,,
 85,2012,Requerimento,"Solicita capina e limpeza no escadão que liga as ruas Ribeiro de Abreu e Dr. Arlindo Leite,bairro Progresso.",Em Tramitação,Isauro Calais,REQ,20787,11/01/2012,NAO,TRAMITACAO
 85,2012,Pedido de Informação,"Ao Chefe do Executivo que nos informe: a) Quais os custos dos aluguéis dos veículos e equipamentos utilizados pela EMPAV? b) Relacionar e nominar tais veículos e equipamentos, bem como os respectivos custos. c) Quais as justificativas para as contratações?",Em Tramitação,Roberto Cupolillo,PEDIF,40309,Data nao encontrada,NAO,TRAMITACAO
 84,2012,Requerimento,"Solicita a realização tapa buracos na rua Joaquim Vicente Guedes,bairro Graminha.",Em Tramitação,Julio Gasparette,REQ,12632,10/01/2012,NAO,TRAMITACAO
@@ -2986,7 +2986,7 @@ Projeto,Ano,Tipo,Ementa,Situacao,Autor,Codigo_Tipo,Id_Projeto_Camara,Data_Projet
 18,2012,Moção,Moção de Aplauso - Cleynerson Souza Lima,Arquivada,Fiorilo,MOC,38742,12/01/2012,SIM,SIM
 18,2012,Representação,"Solicita junto a Caixa Economica Federal que responsabilizam o construtor em caso de imperícia. Ainda, enviar cópia desta para o Conselho Municipal de Habitação e Associação dos Moradores do Conjunto Habitacional Vivendas da Serra.",Arquivada,Wanderson Castelar,REP,33290,13/01/2012,SIM,SIM
 18,2012,Pedido de Informação,"Que nos informe exatamente o local em que está instalado um stand disponibilizando para a população todas as informações referentes às obras da Av. Rio Branco (Lei n. 8341) conforme resposta ao Ped. de Informação 0215/2011, de nossa autoria e Memorando 2966/2011/SG.",Em Tramitação,Flávio Cheker,PEDIF,39494,Data nao encontrada,NAO,TRAMITACAO
-17,2012,Representação,"Solicita juntoa ao Ministério Público de Minas Gerais- 22ª Promotoria, suspensão de processo",Arquivada,Doutor Luiz Carlos,REP,19580,12/01/2012,SIM,SIM
+17,2012,Representação,"Solicita juntoa ao Ministério Público de Minas Gerais- 22ª Promotoria, suspensão de processo",Arquivada,Doutor Luiz Carlos,REP,19580,,,
 17,2012,Requerimento,"Solicita a operação tapa buraco em toda extensão da rua Martins Barbosa, bairro Benfica.",Em Tramitação,Julio Gasparette,REQ,14919,03/02/2012,NAO,TRAMITACAO
 17,2012,Representação,"Solicita junto a PMMG, mairo policiamento no bairro Santa Terezinha",Arquivada,Tico-Tico,REP,875,Data nao encontrada,SIM,NAO
 17,2012,Projeto de Lei,Dispõe sobre denominação de Logradouro Público.,Transformado em Norma Jurídica,Carlos Bonifácio,PLEI,39045,06/02/2012,SIM,SIM
@@ -4358,7 +4358,7 @@ Projeto,Ano,Tipo,Ementa,Situacao,Autor,Codigo_Tipo,Id_Projeto_Camara,Data_Projet
 4591,2013,Requerimento,"Solicita reconstrução de uma tampa de bueiro na Avenida Juiz de Fora, no bairro Grama.",Arquivada,João do Joaninho,REQ,45318,29/08/2013,SIM,SIM
 4590,2013,Requerimento,Solicita patrolamento das estradas de Rosário de Minas.,Arquivada,João do Joaninho,REQ,45317,29/08/2013,SIM,SIM
 4589,2013,Requerimento,"Solicita junto ao DEMLURB, limpeza e manutenção da fonte de água na Avenida Independência, no bairro Dom Bosco.",Arquivada,Jucelio,REQ,44657,29/08/2013,SIM,SIM
-1218,2014,Requerimento,"Solicita o pedido de reposição da Placa de Pisca Alerta - Acesso Máximo de 10 minutos - INICIO na Rua Vitorino Braga, em frente ao n° 318 (Farmácia Nova), no bairro Vitorino Braga.",Arquivada,Dr. Antônio Aguiar,REQ,48294,15/04/2014,SIM,SIM
+1218,2014,Requerimento,"Solicita o pedido de reposição da Placa de Pisca Alerta - Acesso Máximo de 10 minutos - INICIO na Rua Vitorino Braga, em frente ao n° 318 (Farmácia Nova), no bairro Vitorino Braga.",Arquivada,Dr. Antônio Aguiar,REQ,48294,,,
 4146,2014,Mensagem do Executivo (Projeto de Lei),Dispõe sobre a desafetação e autoriza a alienação do imóvel que menciona.,Transformado em Norma Jurídica,Executivo,MSGPL,50806,11/12/2014,SIM,SIM
 4145,2014,Mensagem do Executivo (Projeto de Lei),Dispõe sobre a transação de créditos tributários e não tributários do Município em fase de discussão judicial e dá outras providências.,Transformado em Norma Jurídica,Executivo,MSGPL,50803,11/12/2014,SIM,SIM
 4144,2014,Mensagem do Executivo (Projeto de Lei),"Cria a classe de Auxiliar Técnico III, integrante da Carreira de Auxiliar Técnico, pertencente ao quadro de servidores efetivos da Fundação Cultural Alfredo Ferreira Lage - FUNALFA e dá outras providências.",Transformado em Norma Jurídica,Executivo,MSGPL,50804,11/12/2014,SIM,SIM
@@ -7681,7 +7681,7 @@ Projeto,Ano,Tipo,Ementa,Situacao,Autor,Codigo_Tipo,Id_Projeto_Camara,Data_Projet
 290,2014,Requerimento,Solicita capina e limpeza nas ruas do bairro Grama,Arquivada,Luiz Otávio Fernandes Coelho - Pardal,REQ,46470,17/01/2014,SIM,SIM
 289,2014,Requerimento,Solicita capina e limpeza em todas as ruas do bairro Santo Antonio,Arquivada,Luiz Otávio Fernandes Coelho - Pardal,REQ,46469,17/01/2014,SIM,SIM
 288,2014,Requerimento,Solicita a EMPAV a capina e limpeza em todo o escadão localizado proximo ao nº 280 da rua Santo Antonio Maria de Souza no bairro São Mateus,Arquivada,Luiz Otávio Fernandes Coelho - Pardal,REQ,46468,17/01/2014,SIM,SIM
-287,2014,Requerimento,"Solicita reconstrução da escada da rua Antonio Maria de Souza, no bairro São Mateus.",Arquivada,Luiz Otávio Fernandes Coelho - Pardal,REQ,47900,17/01/2014,SIM,SIM
+287,2014,Requerimento,"Solicita reconstrução da escada da rua Antonio Maria de Souza, no bairro São Mateus.",Arquivada,Luiz Otávio Fernandes Coelho - Pardal,REQ,47900,,, 
 287,2014,Requerimento,Solicita a recontrução da escada localizada proximo ao nº 280 da rua Antonio M de Souza no bairro São Mateus,Arquivada,Luiz Otávio Fernandes Coelho - Pardal,REQ,46467,17/01/2014,SIM,SIM
 286,2014,Requerimento,"Solicita sinalização no trecho da BR-440, no Bairro São Pedro.",Em Tramitação,Zé Márcio,REQ,46256,17/01/2014,NAO,TRAMITACAO
 285,2014,Requerimento,Solicita que seja feita operação tapa buracos no trecho da BR 440 no Bairro São Pedro.,Em Tramitação,Zé Márcio,REQ,46255,17/01/2014,NAO,TRAMITACAO
@@ -8424,7 +8424,7 @@ Projeto,Ano,Tipo,Ementa,Situacao,Autor,Codigo_Tipo,Id_Projeto_Camara,Data_Projet
 41,2014,Representação,"Solicita junto a Secretaria de Estado e Defesa Social, por meio de sua subsecretaria de Atendimento às Medidas Sócio educativas (Suase), uma solicitação no sentido de adotar providências para que o quadro, de agentes de segurança do Centro Sócio educativo de Juiz de Fora",Arquivada,Jucelio,REP,47706,15/05/2014,SIM,SIM
 41,2014,Projeto de Lei,Institui a Campanha de Conscientização para a Vacinação de Cães Contra a Cinomose e Parvovirose.,Arquivada,Isauro Calais,PLEI,46906,20/02/2014,SIM,NAO
 41,2014,Moção,Moção de Aplauso,Arquivada,Wanderson Castelar,MOC,46886,18/02/2014,SIM,SIM
-41,2014,Moção,Moção de Pesar,Arquivada,Cido Reis,MOC,46887,17/02/2014,SIM,SIM
+41,2014,Moção,Moção de Pesar,Arquivada,Cido Reis,MOC,46887,,,
 41,2014,Requerimento,Solicita adequação das normas técnicas de acessibilidade na Rua Santo Antônio.,Arquivada,Jucelio,REQ,46736,06/01/2014,SIM,SIM
 40,2014,Pedido de Informação,"Soicito informação, quais são os terrenos públicos pertencentes à prefeitura no bairro Parque Guarani?",Arquivada,Noraldino Júnior,PEDIF,47734,Data nao encontrada,SIM,NAO
 40,2014,Projeto de Lei,"Dá nova redação ao inciso II do artigo 63 da Lei 12.345, de 04 de agosto de 2011, que ""Dispõe sobre o Estatuto de Defesa, Controle e Proteção dos Animais no Município de Juiz de Fora e dá outras providências"" .",Arquivada,Isauro Calais,PLEI,46905,20/02/2014,SIM,NAO
@@ -8715,7 +8715,7 @@ Projeto,Ano,Tipo,Ementa,Situacao,Autor,Codigo_Tipo,Id_Projeto_Camara,Data_Projet
 3288,2015,Requerimento,"Solicita , captação de água pluvial, na Rua José Henrique de Carvalho, localidade de Paula Lima.",Arquivada,Vagner de Oliveira,REQ,55076,14/12/2015,SIM,SIM
 3287,2015,Requerimento,"Solicita asfaltamento na Rua Vicente Hauk, localidade de Paula Lima.",Arquivada,Vagner de Oliveira,REQ,55075,14/12/2015,SIM,SIM
 3286,2015,Requerimento,"Solicita asfaltamento na Rua Domingos Barbosa Lopes, localidade de Paula Lima.",Arquivada,Vagner de Oliveira,REQ,55073,14/12/2015,SIM,SIM
-3286,2015,Requerimento,"Solicita asfaltamento na Rua Domingos Barbosa Lopes, localidade de Paula Lima.",Arquivada,Vagner de Oliveira,REQ,55074,14/12/2015,SIM,SIM
+3286,2015,Requerimento,"Solicita asfaltamento na Rua Domingos Barbosa Lopes, localidade de Paula Lima.",Arquivada,Vagner de Oliveira,REQ,55074,,,
 3285,2015,Requerimento,"Solicita captação de água pluvial, na Rua Marcos José de Oliveira, localidade de Paula Lima.",Arquivada,Vagner de Oliveira,REQ,55072,14/12/2015,SIM,SIM
 3284,2015,Requerimento,"Solicita captação de água pluvial, na Rua Vicente Hauk, localidade de Paula Lima.",Arquivada,Vagner de Oliveira,REQ,55071,14/12/2015,SIM,SIM
 3282,2015,Requerimento,"Solicita colocação de poste de iluminação pública com luminária , no final Rua Oito de Março Bairro Jardim Gaúcho.",Arquivada,Oliveira Tresse,REQ,55079,14/12/2015,SIM,SIM
@@ -8974,7 +8974,7 @@ Projeto,Ano,Tipo,Ementa,Situacao,Autor,Codigo_Tipo,Id_Projeto_Camara,Data_Projet
 2998,2015,Requerimento,Solicita implantação de capitação de rede de esgoto no Bairro Granjas Betânia.,Arquivada,Oliveira Tresse,REQ,54772,18/11/2015,SIM,SIM
 2997,2015,Requerimento,"Solicita reposição de tampa de bueiro na Rua Alexandre Ressurreição esquina com Pedro Trogo, localizado em frente à UBS e Escola do bairro Santo Antônio.",Arquivada,Oliveira Tresse,REQ,54777,18/11/2015,SIM,SIM
 2996,2015,Requerimento,"Solicita limpeza e manutenção Praça Pública, localizada no Bairro Parque das Torres.",Arquivada,Oliveira Tresse,REQ,54770,18/11/2015,SIM,SIM
-2996,2015,Requerimento,"Solicita reposição de tampa de bueiro na Rua Alexandre Ressurreição esquina com Pedro Trogo, localizado em frente à UBS e Escola do bairro Santo Antônio.",Arquivada,Oliveira Tresse,REQ,54771,18/11/2015,SIM,SIM
+2996,2015,Requerimento,"Solicita reposição de tampa de bueiro na Rua Alexandre Ressurreição esquina com Pedro Trogo, localizado em frente à UBS e Escola do bairro Santo Antônio.",Arquivada,Oliveira Tresse,REQ,54771,,,
 2995,2015,Requerimento,Solicita que tome providências em uma obra situada no início da Rua Barão do Retiro no Bairro Bonfim.,Arquivada,Oliveira Tresse,REQ,54776,18/11/2015,SIM,SIM
 2994,2015,Requerimento,"Solicita conserto de calçada quebrada, localizada na Rua Av. Olavo Bilac esquina com Eunice Wever no Bairro Cerâmica.",Arquivada,Oliveira Tresse,REQ,54769,18/11/2015,SIM,SIM
 2993,2015,Requerimento,Solicita a possibilidade de alteração para mão única a Rua Dr. Aloísio Muniz — Bairro Santa Luzia.,Arquivada,Oliveira Tresse,REQ,54768,18/11/2015,SIM,SIM
@@ -9835,7 +9835,7 @@ Projeto,Ano,Tipo,Ementa,Situacao,Autor,Codigo_Tipo,Id_Projeto_Camara,Data_Projet
 2121,2015,Requerimento,Solicita tapa buraco na Rua Martins Barbosa em frente ao numero 783 Bairro Benfica.,Arquivada,Cido Reis,REQ,53639,10/07/2015,SIM,SIM
 2120,2015,Requerimento,Solicita tapa buraco na Rua Martins Barbosa em frente ao numero 959 Bairro Benfica.,Arquivada,Cido Reis,REQ,53637,10/07/2015,SIM,SIM
 2119,2015,Requerimento,Solicita tapa buraco na Rua Martins Barbosa em frente ao numero 989 Bairro Benfica.,Arquivada,Cido Reis,REQ,53677,10/07/2015,SIM,SIM
-2119,2015,Requerimento,Solicita tapa buraco na Rua Martins Barbosa em frente ao numero 989 Bairro Benfica.,Arquivada,Cido Reis,REQ,53635,10/07/2015,SIM,SIM
+2119,2015,Requerimento,Solicita tapa buraco na Rua Martins Barbosa em frente ao numero 989 Bairro Benfica.,Arquivada,Cido Reis,REQ,53635,,,
 2118,2015,Requerimento,Solicita Capina e Limpeza na Rua Luiz Vicentim localizado no Bairro Nova Benfica.,Arquivada,Cido Reis,REQ,53633,10/07/2015,SIM,SIM
 2117,2015,Requerimento,"Solicita substituição de uma tampa de boca de lobo, no principio da rua Cabo Ferraz, no bairro Santa Terezinha.",Arquivada,André Mariano,REQ,53550,10/07/2015,SIM,SIM
 2116,2015,Requerimento,Solicita operação tapa buracos na rua Alves Júnior no Bairro Centenário.,Arquivada,André Mariano,REQ,53690,10/07/2015,SIM,SIM
@@ -12527,7 +12527,7 @@ Projeto,Ano,Tipo,Ementa,Situacao,Autor,Codigo_Tipo,Id_Projeto_Camara,Data_Projet
 44,2015,Pedido de Informação,"Solicita informações quanto ao cronograma da obra para pista de skate do Estádio Municipal, qual real situação da obra, o orçamento e a situação de liberação dos recursos.",Arquivada,Jucelio,PEDIF,52068,25/03/2015,SIM,SIM
 44,2015,Moção,Moção de Aplauso,Arquivada,Cido Reis,MOC,52051,25/03/2015,SIM,SIM
 44,2015,Projeto de Lei,Dispõe sobre a concessão de Título de Cidadania Honorária ao Ilustríssimo Senhor Eduardo Consentino Cunha.,Arquivada,Nilton Militão,PLEI,51440,11/02/2015,SIM,NAO
-44,2015,Requerimento,Solicita poda de árvore na Rua Iguaçu em frente ao número 94 no Bairro Monte Castelo.,Arquivada,Júlio Gasparette,REQ,51004,07/01/2015,SIM,SIM
+44,2015,Requerimento,Solicita poda de árvore na Rua Iguaçu em frente ao número 94 no Bairro Monte Castelo.,Arquivada,Júlio Gasparette,REQ,51004,,,
 44,2015,Requerimento,"Solicita que seja representado ao Exmo. Sr. Oleg Abramov Júnior, Superintendente Regional de Saúde do Estado de Minas Gerais, com endereço à Av. dos Andradas, n° 222. Centro. 36.036-000, para informar a esta Casa Legislativa da possibilidade do Estado dispensar os medicamentos com insulina Levemir e Lantus e NovoRapid, no lugar do que atualmente e dispensado pelo SUS (NHP e Regular).",Arquivada,Dr. Fiorilo,REQ,52921,21/05/2015,SIM,SIM
 43,2015,Moção,Moção de Aplauso,Arquivada,Rodrigo Mattos,MOC,52052,24/03/2015,SIM,SIM
 43,2015,Projeto de Lei,"Dispõe sobre a obrigatoriedade do nivelamento de quaisquer tampões na execução de serviços de pavimentação, recapeamento, construção em vias públicas e passeio no Município de Juiz de Fora.",Arquivada,Dr. Antônio Aguiar,PLEI,51439,11/02/2015,SIM,SIM
