@@ -1,15 +1,12 @@
 -- INSERT TABELA PROJETOS
 COPY atividade_camarajf.projeto(projeto,ano,tipo,ementa,situacao,codigo_tipo,id_projeto_camara,data_projeto,tramitacao_encerrada,aprovado)
-FROM 'D:\Estudo\IF\2022\TCC2\Analise-Camara\Analise-CamaraJF\ListagemExp\ListagemExport.csv'
---FROM 'D:\Estudo\IF\2022\TCC2\Analise-Camara\Analise-CamaraJF\ListagemExp\Trabalhados\ListagemExport_2012-2015_trab_manualfinal.csv'
---FROM 'D:\Estudo\IF\2022\TCC2\Analise-Camara\Analise-CamaraJF\ListagemExp\ListagemExport_Database.csv'
+FROM 'D:\Estudo\IF\2022\TCC2\Analise-Camara\Analise-CamaraJF\Database\SQL\CreateInsert\Arquivos_insert\Listagem_Projetos_2013-2022.csv'
 DELIMITER ','
 CSV HEADER;
 
 -- INSERT TABELA AUTORIA
 COPY atividade_camarajf.autoria(id_projeto_camara,nome_autor)
-FROM 'D:\Estudo\IF\2022\TCC2\Analise-Camara\Analise-CamaraJF\ListagemExp\AutoriasExport.csv'
---FROM 'D:\Estudo\IF\2022\TCC2\Analise-Camara\Analise-CamaraJF\ListagemExp\Trabalhados\AutoriasExport_2012-2015_trab_manualfinal.csv'
+FROM 'D:\Estudo\IF\2022\TCC2\Analise-Camara\Analise-CamaraJF\Database\SQL\CreateInsert\Arquivos_insert\Listagem_Autorias_2013.csv'
 DELIMITER ','
 CSV HEADER;
 

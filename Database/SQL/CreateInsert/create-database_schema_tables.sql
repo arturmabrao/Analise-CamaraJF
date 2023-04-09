@@ -109,10 +109,10 @@ CREATE TABLE IF NOT EXISTS atividade_camarajf.projeto (
   ano integer NOT NULL,
   ementa TEXT NULL,
 --  data_projeto CHAR(20) NOT NULL,
-  data_projeto DATE NOT NULL,
-  tramitacao_encerrada VARCHAR(15) NOT NULL,
+  data_projeto DATE NULL,
+  tramitacao_encerrada VARCHAR(30) NULL,
   situacao VARCHAR(50) NULL,
-  aprovado VARCHAR(15) NULL,
+  aprovado VARCHAR(30) NULL,
   codigo_tipo VARCHAR(10) NULL,
   tipo VARCHAR(70) NOT NULL -- integer CHECK(tipo > 0) NOT NULL
   );
