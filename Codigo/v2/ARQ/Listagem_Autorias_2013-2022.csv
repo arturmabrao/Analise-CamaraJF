@@ -630,7 +630,7 @@ id_projeto_camara,nome_autor
 45675,Júlio Gasparette
 45674,Júlio Gasparette
 45673,Júlio Gasparette
-45673,Júlio Gasparette
+45669,Júlio Gasparette
 45968,Noraldino Júnior
 45967,Noraldino Júnior
 45966,Noraldino Júnior
@@ -1378,7 +1378,7 @@ id_projeto_camara,nome_autor
 45318,João do Joaninho
 45317,João do Joaninho
 44657,Jucelio
-48293,Dr. Antônio Aguiar
+-1,Dr. Antônio Aguiar
 50806,Executivo
 50803,Executivo
 50804,Executivo
@@ -10971,7 +10971,7 @@ id_projeto_camara,nome_autor
 55636,Executivo
 55399,Executivo
 55373,Executivo
-55686,Dr. Antônio Aguiar
+-2,Dr. Antônio Aguiar
 58187,Wanderson Castelar
 58185,Wanderson Castelar
 58182,Wanderson Castelar
@@ -20355,9 +20355,9 @@ id_projeto_camara,nome_autor
 60445,Mesa Diretora - biênio 2017/2018
 60586,Marlon Siqueira
 58307,Zé Márcio
-64795,Rodrigo Mattos
-64795,Dr. Antônio Aguiar
-64795,Delegada Sheila
+62824,Rodrigo Mattos
+62824,Dr. Antônio Aguiar
+62824,Delegada Sheila
 63475,Sargento Mello Casal
 60689,Marlon Siqueira
 58306,Zé Márcio
@@ -26776,7 +26776,7 @@ id_projeto_camara,nome_autor
 69012,Marlon Siqueira
 64774,Charlles Evangelista
 69011,Marlon Siqueira
-68571,Betão
+-3,Betão
 64773,Charlles Evangelista
 69010,Marlon Siqueira
 64772,Charlles Evangelista
@@ -27162,7 +27162,7 @@ id_projeto_camara,nome_autor
 68093,Cido Reis
 64969,Delegada Sheila
 68087,Cido Reis
-68685,Dr. Adriano Miranda
+-4,Dr. Adriano Miranda
 64968,Delegada Sheila
 68085,Cido Reis
 72188,Zé Márcio
@@ -27193,7 +27193,7 @@ id_projeto_camara,nome_autor
 67978,Sargento Mello Casal
 71525,Dr. Antônio Aguiar
 71525,Rodrigo Mattos
-68490,Dr. Adriano Miranda
+-5,Dr. Adriano Miranda
 64953,Dr. Antônio Aguiar
 67977,Sargento Mello Casal
 71527,Júlio Obama Jr.
@@ -28927,7 +28927,7 @@ id_projeto_camara,nome_autor
 81037,Marlon Siqueira
 81036,Marlon Siqueira
 81035,Marlon Siqueira
-81586,Marlon Siqueira
+81030,Marlon Siqueira
 81029,Marlon Siqueira
 81026,Marlon Siqueira
 81025,Marlon Siqueira
@@ -29357,7 +29357,7 @@ id_projeto_camara,nome_autor
 80153,Kennedy Ribeiro
 80152,Kennedy Ribeiro
 80150,Kennedy Ribeiro
-80648,Kennedy Ribeiro
+80145,Kennedy Ribeiro
 80123,Kennedy Ribeiro
 79833,Kennedy Ribeiro
 79830,Kennedy Ribeiro
@@ -32889,7 +32889,7 @@ id_projeto_camara,nome_autor
 76246,Zé Márcio
 76245,Zé Márcio
 76244,Zé Márcio
-76436,Zé Márcio
+76228,Zé Márcio
 76364,Vagner de Oliveira
 76363,Vagner de Oliveira
 76361,Vagner de Oliveira
@@ -36198,7 +36198,7 @@ id_projeto_camara,nome_autor
 72654,Kennedy Ribeiro
 80067,Juraci Scheffer
 72622,Kennedy Ribeiro
-72626,Juraci Scheffer
+80066,Juraci Scheffer
 72620,Kennedy Ribeiro
 80065,Juraci Scheffer
 72617,Kennedy Ribeiro
@@ -46324,157 +46324,152 @@ id_projeto_camara,nome_autor
 83050,Luiz Otávio Fernandes Coelho - Pardal
 83050,Mesa Diretora - Biênio 2019/2020
 83050,Wanderson Castelar
--1,Juraci Scheffer
--2,Juraci Scheffer
--3,Juraci Scheffer
--4,Juraci Scheffer
--5,Juraci Scheffer
 -6,Juraci Scheffer
 -7,Juraci Scheffer
--8,João Wagner
--9,Vagner de Oliveira
+-8,Juraci Scheffer
+-9,Juraci Scheffer
 -10,Juraci Scheffer
--11,André Luiz
--12,André Luiz
--13,André Luiz
--14,André Luiz
--15,André Luiz
+-11,Juraci Scheffer
+-12,Juraci Scheffer
+-13,João Wagner
+-14,Vagner de Oliveira
+-15,Juraci Scheffer
 -16,André Luiz
 -17,André Luiz
 -18,André Luiz
 -19,André Luiz
--20,Nilton Militão
--21,Nilton Militão
--22,Nilton Militão
--23,Nilton Militão
--24,Nilton Militão
+-20,André Luiz
+-21,André Luiz
+-22,André Luiz
+-23,André Luiz
+-24,André Luiz
 -25,Nilton Militão
--26,Juraci Scheffer
--27,Vagner de Oliveira
--28,Juraci Scheffer
--29,Sargento Mello Casal
--30,Sargento Mello Casal
+-26,Nilton Militão
+-27,Nilton Militão
+-28,Nilton Militão
+-29,Nilton Militão
+-30,Nilton Militão
 -31,Juraci Scheffer
--32,Cido Reis
+-32,Vagner de Oliveira
 -33,Juraci Scheffer
--34,Juraci Scheffer
--35,Juraci Scheffer
+-34,Sargento Mello Casal
+-35,Sargento Mello Casal
 -36,Juraci Scheffer
--37,Tiago Bonecão
--38,Protetora Kátia Franco
--39,Marlon Siqueira
--40,Maurício Delgado
--40,Marlon Siqueira
--40,Tiago Bonecão
--41,Vagner de Oliveira
--42,Vagner de Oliveira
--43,Maurício Delgado
--44,Vagner de Oliveira
+-37,Cido Reis
+-38,Juraci Scheffer
+-39,Juraci Scheffer
+-40,Juraci Scheffer
+-41,Juraci Scheffer
+-42,Tiago Bonecão
+-43,Protetora Kátia Franco
+-44,Marlon Siqueira
+-45,Maurício Delgado
 -45,Marlon Siqueira
--46,Juraci Scheffer
--47,Juraci Scheffer
--48,Juraci Scheffer
--49,Juraci Scheffer
--50,Juraci Scheffer
--51,Marlon Siqueira
--52,Nilton Militão
+-45,Tiago Bonecão
+-46,Vagner de Oliveira
+-47,Vagner de Oliveira
+-48,Maurício Delgado
+-49,Vagner de Oliveira
+-50,Marlon Siqueira
+-51,Juraci Scheffer
+-52,Juraci Scheffer
 -53,Juraci Scheffer
--54,Cido Reis
--55,Maurício Delgado
--56,Vagner de Oliveira
--57,Tallia Sobral
--58,Cida Oliveira
--59,Laiz Perrut
--60,Tallia Sobral
--61,Tallia Sobral
--62,Marlon Siqueira
--63,Tallia Sobral
--64,Tallia Sobral
--65,Marlon Siqueira
+-54,Juraci Scheffer
+-55,Juraci Scheffer
+-56,Marlon Siqueira
+-57,Nilton Militão
+-58,Juraci Scheffer
+-59,Cido Reis
+-60,Maurício Delgado
+-61,Vagner de Oliveira
+-62,Tallia Sobral
+-63,Cida Oliveira
+-64,Laiz Perrut
+-65,Tallia Sobral
 -66,Tallia Sobral
--67,Tallia Sobral
+-67,Marlon Siqueira
 -68,Tallia Sobral
--69,Marlon Siqueira
+-69,Tallia Sobral
 -70,Marlon Siqueira
--71,Nilton Militão
--72,Vagner de Oliveira
--73,Nilton Militão
--74,Vagner de Oliveira
--75,Nilton Militão
--76,Vagner de Oliveira
--77,Marlon Siqueira
--78,Juraci Scheffer
--79,Nilton Militão
--80,Marlon Siqueira
--81,Marlon Siqueira
--82,Nilton Militão
--83,Marlon Siqueira
+-71,Tallia Sobral
+-72,Tallia Sobral
+-73,Tallia Sobral
+-74,Marlon Siqueira
+-75,Marlon Siqueira
+-76,Nilton Militão
+-77,Vagner de Oliveira
+-78,Nilton Militão
+-79,Vagner de Oliveira
+-80,Nilton Militão
+-81,Vagner de Oliveira
+-82,Marlon Siqueira
+-83,Juraci Scheffer
 -84,Nilton Militão
--85,Vagner de Oliveira
--86,Vagner de Oliveira
--87,Cido Reis
--88,Vagner de Oliveira
--89,Vagner de Oliveira
--90,Juraci Scheffer
+-85,Marlon Siqueira
+-86,Marlon Siqueira
+-87,Nilton Militão
+-88,Marlon Siqueira
+-89,Nilton Militão
+-90,Vagner de Oliveira
 -91,Vagner de Oliveira
--92,Vagner de Oliveira
+-92,Cido Reis
 -93,Vagner de Oliveira
--94,Cido Reis
--95,Marlon Siqueira
+-94,Vagner de Oliveira
+-95,Juraci Scheffer
 -96,Vagner de Oliveira
--97,Maurício Delgado
--98,Maurício Delgado
+-97,Vagner de Oliveira
+-98,Vagner de Oliveira
 -99,Cido Reis
 -100,Marlon Siqueira
--101,Tallia Sobral
+-101,Vagner de Oliveira
 -102,Maurício Delgado
--103,Marlon Siqueira
--104,Maurício Delgado
--105,Cido Reis
--106,Laiz Perrut
--107,Laiz Perrut
--108,Cido Reis
--109,Tallia Sobral
--110,Vagner de Oliveira
--111,Marlon Siqueira
--112,Marlon Siqueira
--113,Marlon Siqueira
--114,Marlon Siqueira
--115,Marlon Siqueira
--116,Tallia Sobral
--117,Laiz Perrut
+-103,Maurício Delgado
+-104,Cido Reis
+-105,Marlon Siqueira
+-106,Tallia Sobral
+-107,Maurício Delgado
+-108,Marlon Siqueira
+-109,Maurício Delgado
+-110,Cido Reis
+-111,Laiz Perrut
+-112,Laiz Perrut
+-113,Cido Reis
+-114,Tallia Sobral
+-115,Vagner de Oliveira
+-116,Marlon Siqueira
+-117,Marlon Siqueira
 -118,Marlon Siqueira
--119,Tallia Sobral
+-119,Marlon Siqueira
 -120,Marlon Siqueira
--121,Laiz Perrut
--122,Marlon Siqueira
+-121,Tallia Sobral
+-122,Laiz Perrut
 -123,Marlon Siqueira
--124,Marlon Siqueira
+-124,Tallia Sobral
 -125,Marlon Siqueira
--126,Marlon Siqueira
--127,Nilton Militão
+-126,Laiz Perrut
+-127,Marlon Siqueira
 -128,Marlon Siqueira
 -129,Marlon Siqueira
 -130,Marlon Siqueira
 -131,Marlon Siqueira
--132,Cido Reis
--133,Tiago Bonecão
--134,Vagner de Oliveira
--135,Vagner de Oliveira
--136,Dr. Antônio Aguiar
--137,Dr. Antônio Aguiar
--138,Dr. Antônio Aguiar
+-132,Nilton Militão
+-133,Marlon Siqueira
+-134,Marlon Siqueira
+-135,Marlon Siqueira
+-136,Marlon Siqueira
+-137,Cido Reis
+-138,Tiago Bonecão
 -139,Vagner de Oliveira
--140,Zé Márcio
--141,Zé Márcio
--142,Zé Márcio
--143,Zé Márcio
--144,Nilton Militão
--145,Juraci Scheffer
--146,Juraci Scheffer
--147,Juraci Scheffer
--148,Juraci Scheffer
--149,Juraci Scheffer
+-140,Vagner de Oliveira
+-141,Dr. Antônio Aguiar
+-142,Dr. Antônio Aguiar
+-143,Dr. Antônio Aguiar
+-144,Vagner de Oliveira
+-145,Zé Márcio
+-146,Zé Márcio
+-147,Zé Márcio
+-148,Zé Márcio
+-149,Nilton Militão
 -150,Juraci Scheffer
 -151,Juraci Scheffer
 -152,Juraci Scheffer
@@ -46487,176 +46482,176 @@ id_projeto_camara,nome_autor
 -159,Juraci Scheffer
 -160,Juraci Scheffer
 -161,Juraci Scheffer
--162,Protetora Kátia Franco
--163,Marlon Siqueira
--164,Protetora Kátia Franco
--165,Marlon Siqueira
--166,Protetora Kátia Franco
+-162,Juraci Scheffer
+-163,Juraci Scheffer
+-164,Juraci Scheffer
+-165,Juraci Scheffer
+-166,Juraci Scheffer
 -167,Protetora Kátia Franco
--168,Protetora Kátia Franco
+-168,Marlon Siqueira
 -169,Protetora Kátia Franco
--170,Protetora Kátia Franco
+-170,Marlon Siqueira
 -171,Protetora Kátia Franco
--172,Bejani Júnior
--173,João Wagner
+-172,Protetora Kátia Franco
+-173,Protetora Kátia Franco
 -174,Protetora Kátia Franco
--175,Marlon Siqueira
--176,Marlon Siqueira
--177,Zé Márcio
--178,Maurício Delgado
--178,Sargento Mello Casal
--178,Zé Márcio
--178,Marlon Siqueira
--179,Tallia Sobral
--180,Tallia Sobral
--181,Zé Márcio
--182,Tiago Bonecão
+-175,Protetora Kátia Franco
+-176,Protetora Kátia Franco
+-177,Bejani Júnior
+-178,João Wagner
+-179,Protetora Kátia Franco
+-180,Marlon Siqueira
+-181,Marlon Siqueira
+-182,Zé Márcio
+-183,Maurício Delgado
+-183,Sargento Mello Casal
 -183,Zé Márcio
--184,Zé Márcio
--185,Zé Márcio
+-183,Marlon Siqueira
+-184,Tallia Sobral
+-185,Tallia Sobral
 -186,Zé Márcio
--187,Zé Márcio
+-187,Tiago Bonecão
 -188,Zé Márcio
--189,Luiz Otávio Fernandes Coelho - Pardal
+-189,Zé Márcio
 -190,Zé Márcio
 -191,Zé Márcio
 -192,Zé Márcio
--193,Luiz Otávio Fernandes Coelho - Pardal
--194,Tallia Sobral
+-193,Zé Márcio
+-194,Luiz Otávio Fernandes Coelho - Pardal
 -195,Zé Márcio
 -196,Zé Márcio
 -197,Zé Márcio
--198,Zé Márcio
--199,Zé Márcio
+-198,Luiz Otávio Fernandes Coelho - Pardal
+-199,Tallia Sobral
 -200,Zé Márcio
 -201,Zé Márcio
 -202,Zé Márcio
--203,Laiz Perrut
+-203,Zé Márcio
 -204,Zé Márcio
 -205,Zé Márcio
 -206,Zé Márcio
 -207,Zé Márcio
--208,Luiz Otávio Fernandes Coelho - Pardal
+-208,Laiz Perrut
 -209,Zé Márcio
--210,Cido Reis
--211,João Wagner
--212,Luiz Otávio Fernandes Coelho - Pardal
--213,Tallia Sobral
+-210,Zé Márcio
+-211,Zé Márcio
+-212,Zé Márcio
+-213,Luiz Otávio Fernandes Coelho - Pardal
 -214,Zé Márcio
--215,Laiz Perrut
--216,Luiz Otávio Fernandes Coelho - Pardal
--217,Laiz Perrut
--218,Laiz Perrut
+-215,Cido Reis
+-216,João Wagner
+-217,Luiz Otávio Fernandes Coelho - Pardal
+-218,Tallia Sobral
 -219,Zé Márcio
--220,Zé Márcio
--221,Zé Márcio
--222,Zé Márcio
--223,Zé Márcio
+-220,Laiz Perrut
+-221,Luiz Otávio Fernandes Coelho - Pardal
+-222,Laiz Perrut
+-223,Laiz Perrut
 -224,Zé Márcio
 -225,Zé Márcio
 -226,Zé Márcio
 -227,Zé Márcio
--228,Sargento Mello Casal
--229,Tiago Bonecão
--230,Protetora Kátia Franco
--231,Protetora Kátia Franco
--232,Juraci Scheffer
--233,Juraci Scheffer
+-228,Zé Márcio
+-229,Zé Márcio
+-230,Zé Márcio
+-231,Zé Márcio
+-232,Zé Márcio
+-233,Sargento Mello Casal
 -234,Tiago Bonecão
--235,Maurício Delgado
--236,Maurício Delgado
--237,Maurício Delgado
--238,Maurício Delgado
--239,Maurício Delgado
+-235,Protetora Kátia Franco
+-236,Protetora Kátia Franco
+-237,Juraci Scheffer
+-238,Juraci Scheffer
+-239,Tiago Bonecão
 -240,Maurício Delgado
--241,Tiago Bonecão
--242,Tiago Bonecão
+-241,Maurício Delgado
+-242,Maurício Delgado
 -243,Maurício Delgado
--244,Tiago Bonecão
--245,Juraci Scheffer
--246,Maurício Delgado
--247,Cido Reis
--248,Juraci Scheffer
--249,Maurício Delgado
--250,Cido Reis
--251,Nilton Militão
--252,Juraci Scheffer
--253,Cido Reis
+-244,Maurício Delgado
+-245,Maurício Delgado
+-246,Tiago Bonecão
+-247,Tiago Bonecão
+-248,Maurício Delgado
+-249,Tiago Bonecão
+-250,Juraci Scheffer
+-251,Maurício Delgado
+-252,Cido Reis
+-253,Juraci Scheffer
 -254,Maurício Delgado
--255,Tiago Bonecão
+-255,Cido Reis
 -256,Nilton Militão
--257,Sargento Mello Casal
--258,Maurício Delgado
--259,Sargento Mello Casal
--260,Maurício Delgado
--261,Protetora Kátia Franco
--262,Nilton Militão
+-257,Juraci Scheffer
+-258,Cido Reis
+-259,Maurício Delgado
+-260,Tiago Bonecão
+-261,Nilton Militão
+-262,Sargento Mello Casal
 -263,Maurício Delgado
--264,Tiago Bonecão
--265,Laiz Perrut
--266,Cida Oliveira
--267,Cido Reis
--268,Bejani Júnior
--269,Bejani Júnior
--270,Bejani Júnior
--271,Bejani Júnior
--272,João Wagner
--273,João Wagner
--274,João Wagner
--275,João Wagner
--276,João Wagner
+-264,Sargento Mello Casal
+-265,Maurício Delgado
+-266,Protetora Kátia Franco
+-267,Nilton Militão
+-268,Maurício Delgado
+-269,Tiago Bonecão
+-270,Laiz Perrut
+-271,Cida Oliveira
+-272,Cido Reis
+-273,Bejani Júnior
+-274,Bejani Júnior
+-275,Bejani Júnior
+-276,Bejani Júnior
 -277,João Wagner
 -278,João Wagner
 -279,João Wagner
--280,Cido Reis
--281,Cido Reis
--282,Cido Reis
+-280,João Wagner
+-281,João Wagner
+-282,João Wagner
 -283,João Wagner
--284,Cido Reis
+-284,João Wagner
 -285,Cido Reis
--286,João Wagner
+-286,Cido Reis
 -287,Cido Reis
--288,Cido Reis
--289,Luiz Otávio Fernandes Coelho - Pardal
--290,Luiz Otávio Fernandes Coelho - Pardal
--291,Luiz Otávio Fernandes Coelho - Pardal
--292,Bejani Júnior
--293,Cida Oliveira
--294,Bejani Júnior
--295,Bejani Júnior
--296,Laiz Perrut
--297,Laiz Perrut
--298,Tiago Bonecão
+-288,João Wagner
+-289,Cido Reis
+-290,Cido Reis
+-291,João Wagner
+-292,Cido Reis
+-293,Cido Reis
+-294,Luiz Otávio Fernandes Coelho - Pardal
+-295,Luiz Otávio Fernandes Coelho - Pardal
+-296,Luiz Otávio Fernandes Coelho - Pardal
+-297,Bejani Júnior
+-298,Cida Oliveira
 -299,Bejani Júnior
--300,Dr. Antônio Aguiar
--301,Bejani Júnior
--302,Tallia Sobral
--303,Cido Reis
--304,Sargento Mello Casal
--305,Cido Reis
--306,Cido Reis
--307,Cida Oliveira
--308,Sargento Mello Casal
--309,Tiago Bonecão
--310,Tallia Sobral
--311,Bejani Júnior
--312,Tallia Sobral
--313,Luiz Otávio Fernandes Coelho - Pardal
--314,Bejani Júnior
--315,Cida Oliveira
--316,Cida Oliveira
--317,Cida Oliveira
--318,Cida Oliveira
+-300,Bejani Júnior
+-301,Laiz Perrut
+-302,Laiz Perrut
+-303,Tiago Bonecão
+-304,Bejani Júnior
+-305,Dr. Antônio Aguiar
+-306,Bejani Júnior
+-307,Tallia Sobral
+-308,Cido Reis
+-309,Sargento Mello Casal
+-310,Cido Reis
+-311,Cido Reis
+-312,Cida Oliveira
+-313,Sargento Mello Casal
+-314,Tiago Bonecão
+-315,Tallia Sobral
+-316,Bejani Júnior
+-317,Tallia Sobral
+-318,Luiz Otávio Fernandes Coelho - Pardal
 -319,Bejani Júnior
 -320,Cida Oliveira
 -321,Cida Oliveira
 -322,Cida Oliveira
--323,Luiz Otávio Fernandes Coelho - Pardal
--324,Cida Oliveira
+-323,Cida Oliveira
+-324,Bejani Júnior
 -325,Cida Oliveira
 -326,Cida Oliveira
 -327,Cida Oliveira
--328,Cida Oliveira
+-328,Luiz Otávio Fernandes Coelho - Pardal
 -329,Cida Oliveira
 -330,Cida Oliveira
 -331,Cida Oliveira
@@ -46664,53 +46659,53 @@ id_projeto_camara,nome_autor
 -333,Cida Oliveira
 -334,Cida Oliveira
 -335,Cida Oliveira
--336,Julinho Rossignoli
+-336,Cida Oliveira
 -337,Cida Oliveira
 -338,Cida Oliveira
 -339,Cida Oliveira
 -340,Cida Oliveira
--341,Dr. Antônio Aguiar
+-341,Julinho Rossignoli
 -342,Cida Oliveira
 -343,Cida Oliveira
--344,Sargento Mello Casal
--345,Sargento Mello Casal
--346,Sargento Mello Casal
--347,Julinho Rossignoli
+-344,Cida Oliveira
+-345,Cida Oliveira
+-346,Dr. Antônio Aguiar
+-347,Cida Oliveira
 -348,Cida Oliveira
--349,Luiz Otávio Fernandes Coelho - Pardal
--350,Laiz Perrut
--351,Laiz Perrut
--352,Laiz Perrut
--353,Laiz Perrut
--354,Laiz Perrut
+-349,Sargento Mello Casal
+-350,Sargento Mello Casal
+-351,Sargento Mello Casal
+-352,Julinho Rossignoli
+-353,Cida Oliveira
+-354,Luiz Otávio Fernandes Coelho - Pardal
 -355,Laiz Perrut
--356,Vagner de Oliveira
--357,Vagner de Oliveira
--358,Vagner de Oliveira
--359,Vagner de Oliveira
--360,Vagner de Oliveira
+-356,Laiz Perrut
+-357,Laiz Perrut
+-358,Laiz Perrut
+-359,Laiz Perrut
+-360,Laiz Perrut
 -361,Vagner de Oliveira
 -362,Vagner de Oliveira
 -363,Vagner de Oliveira
--364,Julinho Rossignoli
--365,Dr. Antônio Aguiar
--366,Dr. Antônio Aguiar
--367,Dr. Antônio Aguiar
--368,Dr. Antônio Aguiar
--369,Dr. Antônio Aguiar
--370,Julinho Rossignoli
--371,Julinho Rossignoli
--372,Sargento Mello Casal
--373,Sargento Mello Casal
--374,Sargento Mello Casal
--375,Sargento Mello Casal
--376,Sargento Mello Casal
+-364,Vagner de Oliveira
+-365,Vagner de Oliveira
+-366,Vagner de Oliveira
+-367,Vagner de Oliveira
+-368,Vagner de Oliveira
+-369,Julinho Rossignoli
+-370,Dr. Antônio Aguiar
+-371,Dr. Antônio Aguiar
+-372,Dr. Antônio Aguiar
+-373,Dr. Antônio Aguiar
+-374,Dr. Antônio Aguiar
+-375,Julinho Rossignoli
+-376,Julinho Rossignoli
 -377,Sargento Mello Casal
--378,Dr. Antônio Aguiar
--379,Dr. Antônio Aguiar
--380,Dr. Antônio Aguiar
--381,Dr. Antônio Aguiar
--382,Dr. Antônio Aguiar
+-378,Sargento Mello Casal
+-379,Sargento Mello Casal
+-380,Sargento Mello Casal
+-381,Sargento Mello Casal
+-382,Sargento Mello Casal
 -383,Dr. Antônio Aguiar
 -384,Dr. Antônio Aguiar
 -385,Dr. Antônio Aguiar
@@ -46723,8 +46718,13 @@ id_projeto_camara,nome_autor
 -392,Dr. Antônio Aguiar
 -393,Dr. Antônio Aguiar
 -394,Dr. Antônio Aguiar
--395,Julinho Rossignoli
--396,Julinho Rossignoli
+-395,Dr. Antônio Aguiar
+-396,Dr. Antônio Aguiar
+-397,Dr. Antônio Aguiar
+-398,Dr. Antônio Aguiar
+-399,Dr. Antônio Aguiar
+-400,Julinho Rossignoli
+-401,Julinho Rossignoli
 105740,Juraci Scheffer
 105738,Juraci Scheffer
 105720,Juraci Scheffer
@@ -66113,230 +66113,230 @@ id_projeto_camara,nome_autor
 117818,Luiz Otávio Fernandes Coelho - Pardal
 117783,Luiz Otávio Fernandes Coelho - Pardal
 117756,Luiz Otávio Fernandes Coelho - Pardal
--397,Vagner de Oliveira
+-402,Vagner de Oliveira
 117755,Luiz Otávio Fernandes Coelho - Pardal
--398,Cido Reis
--398,André Luiz
--398,Bejani Júnior
--398,Zé Márcio
--398,Luiz Otávio Fernandes Coelho - Pardal
--398,Marlon Siqueira
--398,Maurício Delgado
--398,Nilton Militão
--398,Tiago Bonecão
+-403,Cido Reis
+-403,André Luiz
+-403,Bejani Júnior
+-403,Zé Márcio
+-403,Luiz Otávio Fernandes Coelho - Pardal
+-403,Marlon Siqueira
+-403,Maurício Delgado
+-403,Nilton Militão
+-403,Tiago Bonecão
 117754,Luiz Otávio Fernandes Coelho - Pardal
--399,Tallia Sobral
+-404,Tallia Sobral
 117748,Luiz Otávio Fernandes Coelho - Pardal
 117747,Luiz Otávio Fernandes Coelho - Pardal
--400,Maurício Delgado
+-405,Maurício Delgado
 117716,Luiz Otávio Fernandes Coelho - Pardal
--401,Tiago Bonecão
+-406,Tiago Bonecão
 117680,Luiz Otávio Fernandes Coelho - Pardal
--402,João Wagner
+-407,João Wagner
 117515,Luiz Otávio Fernandes Coelho - Pardal
 118076,Dr. Antônio Aguiar
--403,Tallia Sobral
+-408,Tallia Sobral
 117852,Sargento Mello Casal
--404,Juraci Scheffer
+-409,Juraci Scheffer
 118070,Marlon Siqueira
--405,Marlon Siqueira
+-410,Marlon Siqueira
 118074,Bejani Júnior
 118073,Bejani Júnior
 118072,Bejani Júnior
--406,Cido Reis
+-411,Cido Reis
 118071,Bejani Júnior
--407,Cido Reis
+-412,Cido Reis
 117870,André Luiz
 117543,André Luiz
 117531,André Luiz
--408,Marlon Siqueira
+-413,Marlon Siqueira
 117305,André Luiz
--409,Marlon Siqueira
+-414,Marlon Siqueira
 117286,André Luiz
--410,Tiago Bonecão
+-415,Tiago Bonecão
 118034,Juraci Scheffer
 118033,Juraci Scheffer
 118032,Juraci Scheffer
--411,André Luiz
+-416,André Luiz
 118031,Juraci Scheffer
--412,Cido Reis
+-417,Cido Reis
 118030,Juraci Scheffer
--413,Sargento Mello Casal
+-418,Sargento Mello Casal
 118026,Juraci Scheffer
--414,André Luiz
+-419,André Luiz
 118025,Juraci Scheffer
--415,André Luiz
+-420,André Luiz
 118024,Juraci Scheffer
--416,Vagner de Oliveira
+-421,Vagner de Oliveira
 118023,Juraci Scheffer
--417,André Luiz
+-422,André Luiz
 118022,Juraci Scheffer
--418,Vagner de Oliveira
+-423,Vagner de Oliveira
 118021,Juraci Scheffer
 118006,Juraci Scheffer
--419,Tiago Bonecão
+-424,Tiago Bonecão
 118004,Juraci Scheffer
--420,Cido Reis
+-425,Cido Reis
 118000,Juraci Scheffer
--421,Protetora Kátia Franco
+-426,Protetora Kátia Franco
 118055,Luiz Otávio Fernandes Coelho - Pardal
--422,Marlon Siqueira
-118009,Luiz Otávio Fernandes Coelho - Pardal
--423,Marlon Siqueira
-117964,Luiz Otávio Fernandes Coelho - Pardal
--424,Marlon Siqueira
-117962,Luiz Otávio Fernandes Coelho - Pardal
--425,Marlon Siqueira
-117945,Luiz Otávio Fernandes Coelho - Pardal
--426,Marlon Siqueira
-117942,Luiz Otávio Fernandes Coelho - Pardal
 -427,Marlon Siqueira
+118009,Luiz Otávio Fernandes Coelho - Pardal
+-428,Marlon Siqueira
+117964,Luiz Otávio Fernandes Coelho - Pardal
+-429,Marlon Siqueira
+117962,Luiz Otávio Fernandes Coelho - Pardal
+-430,Marlon Siqueira
+117945,Luiz Otávio Fernandes Coelho - Pardal
+-431,Marlon Siqueira
+117942,Luiz Otávio Fernandes Coelho - Pardal
+-432,Marlon Siqueira
 117892,Luiz Otávio Fernandes Coelho - Pardal
 117817,Luiz Otávio Fernandes Coelho - Pardal
 117816,Luiz Otávio Fernandes Coelho - Pardal
--428,Marlon Siqueira
+-433,Marlon Siqueira
 117798,Luiz Otávio Fernandes Coelho - Pardal
--429,Marlon Siqueira
+-434,Marlon Siqueira
 117797,Luiz Otávio Fernandes Coelho - Pardal
--430,Marlon Siqueira
+-435,Marlon Siqueira
 118058,Dr. Antônio Aguiar
 118037,Vagner de Oliveira
--431,Laiz Perrut
+-436,Laiz Perrut
 118020,Vagner de Oliveira
--432,Marlon Siqueira
+-437,Marlon Siqueira
 118017,Vagner de Oliveira
--433,Protetora Kátia Franco
+-438,Protetora Kátia Franco
 117987,Vagner de Oliveira
--434,Marlon Siqueira
-117986,Vagner de Oliveira
--435,Marlon Siqueira
-117985,Vagner de Oliveira
--436,Marlon Siqueira
-118018,Sargento Mello Casal
--437,Maurício Delgado
-118059,Marlon Siqueira
--438,Maurício Delgado
-118044,Marlon Siqueira
 -439,Marlon Siqueira
-118029,Marlon Siqueira
--440,Vagner de Oliveira
-118045,Protetora Kátia Franco
+117986,Vagner de Oliveira
+-440,Marlon Siqueira
+117985,Vagner de Oliveira
 -441,Marlon Siqueira
+118018,Sargento Mello Casal
+-442,Maurício Delgado
+118059,Marlon Siqueira
+-443,Maurício Delgado
+118044,Marlon Siqueira
+-444,Marlon Siqueira
+118029,Marlon Siqueira
+-445,Vagner de Oliveira
+118045,Protetora Kátia Franco
+-446,Marlon Siqueira
 118043,Protetora Kátia Franco
 118041,Protetora Kátia Franco
 118040,Protetora Kátia Franco
--442,André Luiz
+-447,André Luiz
 118039,Protetora Kátia Franco
 118038,Protetora Kátia Franco
 118016,Protetora Kátia Franco
 118014,Protetora Kátia Franco
--443,André Luiz
+-448,André Luiz
 118013,Protetora Kátia Franco
--444,Juraci Scheffer
+-449,Juraci Scheffer
 118012,Protetora Kátia Franco
--445,Juraci Scheffer
+-450,Juraci Scheffer
 118011,Protetora Kátia Franco
--446,Juraci Scheffer
+-451,Juraci Scheffer
 118010,Protetora Kátia Franco
--447,João Wagner
+-452,João Wagner
 118007,Protetora Kátia Franco
--448,Maurício Delgado
+-453,Maurício Delgado
 117997,Protetora Kátia Franco
--449,João Wagner
+-454,João Wagner
 117996,Protetora Kátia Franco
--450,Julinho Rossignoli
+-455,Julinho Rossignoli
 117994,Protetora Kátia Franco
--451,Laiz Perrut
+-456,Laiz Perrut
 117894,Protetora Kátia Franco
--452,Laiz Perrut
+-457,Laiz Perrut
 118061,Tiago Bonecão
--453,Laiz Perrut
+-458,Laiz Perrut
 117989,Tiago Bonecão
--454,André Luiz
+-459,André Luiz
 118060,João Wagner
 118005,João Wagner
--455,André Luiz
+-460,André Luiz
 118002,João Wagner
--456,Nilton Militão
+-461,Nilton Militão
 117998,João Wagner
--457,Dr. Antônio Aguiar
+-462,Dr. Antônio Aguiar
 117995,João Wagner
--458,Tallia Sobral
+-463,Tallia Sobral
 117993,João Wagner
--459,André Luiz
+-464,André Luiz
 117990,João Wagner
--460,Tallia Sobral
+-465,Tallia Sobral
 117972,João Wagner
 117970,João Wagner
 117936,João Wagner
 117933,João Wagner
--461,Cido Reis
+-466,Cido Reis
 118057,André Luiz
--462,André Luiz
+-467,André Luiz
 117538,André Luiz
 117526,André Luiz
--463,André Luiz
+-468,André Luiz
 117519,André Luiz
--464,Zé Márcio
+-469,Zé Márcio
 117517,André Luiz
--465,Zé Márcio
+-470,Zé Márcio
 117302,André Luiz
 118048,Cida Oliveira
--466,Maurício Delgado
+-471,Maurício Delgado
 117960,Juraci Scheffer
--467,Maurício Delgado
+-472,Maurício Delgado
 117977,Luiz Otávio Fernandes Coelho - Pardal
--468,Zé Márcio
--468,João Wagner
--468,Luiz Otávio Fernandes Coelho - Pardal
+-473,Zé Márcio
+-473,João Wagner
+-473,Luiz Otávio Fernandes Coelho - Pardal
 117956,Luiz Otávio Fernandes Coelho - Pardal
--469,João Wagner
+-474,João Wagner
 117947,Luiz Otávio Fernandes Coelho - Pardal
 117946,Luiz Otávio Fernandes Coelho - Pardal
 117941,Luiz Otávio Fernandes Coelho - Pardal
--470,Tiago Bonecão
+-475,Tiago Bonecão
 117891,Luiz Otávio Fernandes Coelho - Pardal
 117890,Luiz Otávio Fernandes Coelho - Pardal
--471,Nilton Militão
+-476,Nilton Militão
 117889,Luiz Otávio Fernandes Coelho - Pardal
 117888,Luiz Otávio Fernandes Coelho - Pardal
 117887,Luiz Otávio Fernandes Coelho - Pardal
 117886,Luiz Otávio Fernandes Coelho - Pardal
--472,Juraci Scheffer
+-477,Juraci Scheffer
 117885,Luiz Otávio Fernandes Coelho - Pardal
--473,Juraci Scheffer
+-478,Juraci Scheffer
 117876,Luiz Otávio Fernandes Coelho - Pardal
--474,Luiz Otávio Fernandes Coelho - Pardal
+-479,Luiz Otávio Fernandes Coelho - Pardal
 117741,Luiz Otávio Fernandes Coelho - Pardal
--475,Luiz Otávio Fernandes Coelho - Pardal
+-480,Luiz Otávio Fernandes Coelho - Pardal
 117658,Luiz Otávio Fernandes Coelho - Pardal
--476,Juraci Scheffer
+-481,Juraci Scheffer
 117649,Luiz Otávio Fernandes Coelho - Pardal
--477,Tallia Sobral
+-482,Tallia Sobral
 117648,Luiz Otávio Fernandes Coelho - Pardal
--478,Tallia Sobral
+-483,Tallia Sobral
 117647,Luiz Otávio Fernandes Coelho - Pardal
--479,Tallia Sobral
+-484,Tallia Sobral
 117953,Cido Reis
--480,Juraci Scheffer
+-485,Juraci Scheffer
 117959,Tallia Sobral
 117958,Tallia Sobral
--481,Juraci Scheffer
+-486,Juraci Scheffer
 117980,Bejani Júnior
--482,Juraci Scheffer
+-487,Juraci Scheffer
 117979,Bejani Júnior
 117978,Bejani Júnior
 117957,Bejani Júnior
--483,Juraci Scheffer
+-488,Juraci Scheffer
 116908,Maurício Delgado
 117971,João Wagner
--484,Juraci Scheffer
+-489,Juraci Scheffer
 117968,João Wagner
--485,Sargento Mello Casal
+-490,Sargento Mello Casal
 117967,João Wagner
 117952,João Wagner
 117951,João Wagner
--486,Maurício Delgado
+-491,Maurício Delgado
 117949,João Wagner
 117944,João Wagner
 117937,João Wagner
@@ -66344,353 +66344,353 @@ id_projeto_camara,nome_autor
 117869,André Luiz
 117868,André Luiz
 117867,André Luiz
--487,Protetora Kátia Franco
+-492,Protetora Kátia Franco
 117535,André Luiz
--488,Zé Márcio
+-493,Zé Márcio
 117966,Cida Oliveira
 117954,Cida Oliveira
--489,Zé Márcio
+-494,Zé Márcio
 117880,Juraci Scheffer
--490,Zé Márcio
+-495,Zé Márcio
 117879,Juraci Scheffer
--491,Zé Márcio
+-496,Zé Márcio
 117878,Juraci Scheffer
 117877,Juraci Scheffer
 117861,Juraci Scheffer
--492,Vagner de Oliveira
+-497,Vagner de Oliveira
 117860,Juraci Scheffer
--493,Vagner de Oliveira
+-498,Vagner de Oliveira
 117859,Juraci Scheffer
 117857,Juraci Scheffer
 117856,Juraci Scheffer
 117855,Juraci Scheffer
 117828,Juraci Scheffer
--494,Marlon Siqueira
+-499,Marlon Siqueira
 117827,Juraci Scheffer
 117826,Juraci Scheffer
--495,Vagner de Oliveira
-117824,Juraci Scheffer
--496,Vagner de Oliveira
-117810,Juraci Scheffer
--497,Vagner de Oliveira
-117809,Juraci Scheffer
--498,Vagner de Oliveira
-117808,Juraci Scheffer
--499,Vagner de Oliveira
-117807,Juraci Scheffer
 -500,Vagner de Oliveira
-117806,Juraci Scheffer
+117824,Juraci Scheffer
 -501,Vagner de Oliveira
+117810,Juraci Scheffer
+-502,Vagner de Oliveira
+117809,Juraci Scheffer
+-503,Vagner de Oliveira
+117808,Juraci Scheffer
+-504,Vagner de Oliveira
+117807,Juraci Scheffer
+-505,Vagner de Oliveira
+117806,Juraci Scheffer
+-506,Vagner de Oliveira
 117805,Juraci Scheffer
 117804,Juraci Scheffer
--502,Vagner de Oliveira
+-507,Vagner de Oliveira
 117803,Juraci Scheffer
--503,Vagner de Oliveira
+-508,Vagner de Oliveira
 117802,Juraci Scheffer
 117799,Juraci Scheffer
--504,Julinho Rossignoli
+-509,Julinho Rossignoli
 117796,Juraci Scheffer
--505,Marlon Siqueira
+-510,Marlon Siqueira
 117792,Juraci Scheffer
--506,Juraci Scheffer
+-511,Juraci Scheffer
 117791,Juraci Scheffer
 117790,Juraci Scheffer
--507,Cido Reis
+-512,Cido Reis
 117789,Juraci Scheffer
 117788,Juraci Scheffer
--508,Juraci Scheffer
+-513,Juraci Scheffer
 117787,Juraci Scheffer
 117786,Juraci Scheffer
--509,Juraci Scheffer
+-514,Juraci Scheffer
 117785,Juraci Scheffer
 117784,Juraci Scheffer
--510,Laiz Perrut
+-515,Laiz Perrut
 117770,Juraci Scheffer
 117768,Juraci Scheffer
--511,Juraci Scheffer
+-516,Juraci Scheffer
 117766,Juraci Scheffer
--512,Laiz Perrut
+-517,Laiz Perrut
 117762,Juraci Scheffer
 117760,Juraci Scheffer
--513,André Luiz
+-518,André Luiz
 117759,Juraci Scheffer
--514,Juraci Scheffer
+-519,Juraci Scheffer
 117757,Juraci Scheffer
 117732,Juraci Scheffer
--515,Laiz Perrut
+-520,Laiz Perrut
 117731,Juraci Scheffer
--516,André Luiz
+-521,André Luiz
 117730,Juraci Scheffer
--517,Laiz Perrut
+-522,Laiz Perrut
 117729,Juraci Scheffer
 117728,Juraci Scheffer
--518,André Luiz
+-523,André Luiz
 117727,Juraci Scheffer
 117726,Juraci Scheffer
--519,André Luiz
+-524,André Luiz
 117725,Juraci Scheffer
--520,Laiz Perrut
+-525,Laiz Perrut
 117724,Juraci Scheffer
--521,André Luiz
+-526,André Luiz
 117723,Juraci Scheffer
 117722,Juraci Scheffer
--522,André Luiz
+-527,André Luiz
 117721,Juraci Scheffer
--523,Tallia Sobral
+-528,Tallia Sobral
 117720,Juraci Scheffer
--524,Tallia Sobral
+-529,Tallia Sobral
 117712,Juraci Scheffer
--525,Marlon Siqueira
+-530,Marlon Siqueira
 117710,Juraci Scheffer
--526,André Luiz
+-531,André Luiz
 117708,Juraci Scheffer
 117707,Juraci Scheffer
--527,Tallia Sobral
-117706,Juraci Scheffer
--528,Marlon Siqueira
-117705,Juraci Scheffer
--529,Laiz Perrut
-117704,Juraci Scheffer
--530,Tallia Sobral
-117701,Juraci Scheffer
--531,Marlon Siqueira
-117700,Juraci Scheffer
 -532,Tallia Sobral
+117706,Juraci Scheffer
+-533,Marlon Siqueira
+117705,Juraci Scheffer
+-534,Laiz Perrut
+117704,Juraci Scheffer
+-535,Tallia Sobral
+117701,Juraci Scheffer
+-536,Marlon Siqueira
+117700,Juraci Scheffer
+-537,Tallia Sobral
 117699,Juraci Scheffer
--533,Tallia Sobral
+-538,Tallia Sobral
 117698,Juraci Scheffer
 117695,Juraci Scheffer
--534,Laiz Perrut
-117694,Juraci Scheffer
--535,André Luiz
-117692,Juraci Scheffer
--536,Marlon Siqueira
-117686,Juraci Scheffer
--537,Laiz Perrut
-117685,Juraci Scheffer
--538,André Luiz
-117684,Juraci Scheffer
 -539,Laiz Perrut
-117683,Juraci Scheffer
--540,Marlon Siqueira
-117682,Juraci Scheffer
--541,Laiz Perrut
-117676,Juraci Scheffer
+117694,Juraci Scheffer
+-540,André Luiz
+117692,Juraci Scheffer
+-541,Marlon Siqueira
+117686,Juraci Scheffer
 -542,Laiz Perrut
+117685,Juraci Scheffer
+-543,André Luiz
+117684,Juraci Scheffer
+-544,Laiz Perrut
+117683,Juraci Scheffer
+-545,Marlon Siqueira
+117682,Juraci Scheffer
+-546,Laiz Perrut
+117676,Juraci Scheffer
+-547,Laiz Perrut
 117674,Juraci Scheffer
 117672,Juraci Scheffer
--543,Laiz Perrut
+-548,Laiz Perrut
 117671,Juraci Scheffer
 117670,Juraci Scheffer
--544,Juraci Scheffer
+-549,Juraci Scheffer
 117669,Juraci Scheffer
 117668,Juraci Scheffer
--545,Laiz Perrut
+-550,Laiz Perrut
 117667,Juraci Scheffer
 117666,Juraci Scheffer
 117665,Juraci Scheffer
--546,Juraci Scheffer
+-551,Juraci Scheffer
 117664,Juraci Scheffer
--547,Laiz Perrut
+-552,Laiz Perrut
 117663,Juraci Scheffer
--548,Juraci Scheffer
+-553,Juraci Scheffer
 117662,Juraci Scheffer
--549,Juraci Scheffer
+-554,Juraci Scheffer
 117631,Juraci Scheffer
--550,Laiz Perrut
+-555,Laiz Perrut
 117630,Juraci Scheffer
 117628,Juraci Scheffer
 117627,Juraci Scheffer
 117626,Juraci Scheffer
--551,Juraci Scheffer
+-556,Juraci Scheffer
 117625,Juraci Scheffer
--552,Laiz Perrut
+-557,Laiz Perrut
 117624,Juraci Scheffer
--553,Juraci Scheffer
+-558,Juraci Scheffer
 117623,Juraci Scheffer
 117622,Juraci Scheffer
--554,Juraci Scheffer
+-559,Juraci Scheffer
 117621,Juraci Scheffer
--555,Laiz Perrut
+-560,Laiz Perrut
 117605,Juraci Scheffer
--556,Juraci Scheffer
+-561,Juraci Scheffer
 117599,Juraci Scheffer
 117598,Juraci Scheffer
--557,Juraci Scheffer
+-562,Juraci Scheffer
 117597,Juraci Scheffer
 117596,Juraci Scheffer
--558,Juraci Scheffer
+-563,Juraci Scheffer
 117595,Juraci Scheffer
--559,Laiz Perrut
+-564,Laiz Perrut
 117594,Juraci Scheffer
 117593,Juraci Scheffer
 117573,Juraci Scheffer
 117572,Juraci Scheffer
--560,Juraci Scheffer
+-565,Juraci Scheffer
 117571,Juraci Scheffer
--561,Juraci Scheffer
+-566,Juraci Scheffer
 117570,Juraci Scheffer
 117569,Juraci Scheffer
--562,Vagner de Oliveira
+-567,Vagner de Oliveira
 117568,Juraci Scheffer
--563,Juraci Scheffer
+-568,Juraci Scheffer
 117556,Juraci Scheffer
 117555,Juraci Scheffer
 117554,Juraci Scheffer
--564,Juraci Scheffer
-117553,Juraci Scheffer
--565,Juraci Scheffer
-117513,Juraci Scheffer
--566,Nilton Militão
-117847,Luiz Otávio Fernandes Coelho - Pardal
--567,Laiz Perrut
-117845,Luiz Otávio Fernandes Coelho - Pardal
--568,Vagner de Oliveira
-117844,Luiz Otávio Fernandes Coelho - Pardal
 -569,Juraci Scheffer
+117553,Juraci Scheffer
+-570,Juraci Scheffer
+117513,Juraci Scheffer
+-571,Nilton Militão
+117847,Luiz Otávio Fernandes Coelho - Pardal
+-572,Laiz Perrut
+117845,Luiz Otávio Fernandes Coelho - Pardal
+-573,Vagner de Oliveira
+117844,Luiz Otávio Fernandes Coelho - Pardal
+-574,Juraci Scheffer
 117842,Luiz Otávio Fernandes Coelho - Pardal
 117823,Luiz Otávio Fernandes Coelho - Pardal
--570,Laiz Perrut
+-575,Laiz Perrut
 117822,Luiz Otávio Fernandes Coelho - Pardal
--571,Tallia Sobral
+-576,Tallia Sobral
 117821,Luiz Otávio Fernandes Coelho - Pardal
--572,Juraci Scheffer
+-577,Juraci Scheffer
 117750,Luiz Otávio Fernandes Coelho - Pardal
 117749,Luiz Otávio Fernandes Coelho - Pardal
--573,Juraci Scheffer
+-578,Juraci Scheffer
 117742,Luiz Otávio Fernandes Coelho - Pardal
 117738,Luiz Otávio Fernandes Coelho - Pardal
--574,Juraci Scheffer
+-579,Juraci Scheffer
 117737,Luiz Otávio Fernandes Coelho - Pardal
 117715,Luiz Otávio Fernandes Coelho - Pardal
--575,Juraci Scheffer
+-580,Juraci Scheffer
 117714,Luiz Otávio Fernandes Coelho - Pardal
--576,Tallia Sobral
+-581,Tallia Sobral
 117922,Cido Reis
 117548,Cido Reis
 117829,Dr. Antônio Aguiar
--577,Tallia Sobral
+-582,Tallia Sobral
 117935,Vagner de Oliveira
 117934,Vagner de Oliveira
--578,Tallia Sobral
+-583,Tallia Sobral
 117932,Vagner de Oliveira
--579,Nilton Militão
+-584,Nilton Militão
 117931,Vagner de Oliveira
--580,Marlon Siqueira
+-585,Marlon Siqueira
 117926,Vagner de Oliveira
--581,Juraci Scheffer
+-586,Juraci Scheffer
 117874,Vagner de Oliveira
--582,Laiz Perrut
+-587,Laiz Perrut
 117850,Vagner de Oliveira
--583,Maurício Delgado
+-588,Maurício Delgado
 117843,Vagner de Oliveira
 117825,Vagner de Oliveira
--584,Maurício Delgado
+-589,Maurício Delgado
 117815,Vagner de Oliveira
 117814,Vagner de Oliveira
--585,Juraci Scheffer
+-590,Juraci Scheffer
 117812,Vagner de Oliveira
 117774,Vagner de Oliveira
--586,Cida Oliveira
+-591,Cida Oliveira
 117773,Vagner de Oliveira
--587,Laiz Perrut
+-592,Laiz Perrut
 117765,Vagner de Oliveira
 117761,Vagner de Oliveira
--588,Juraci Scheffer
+-593,Juraci Scheffer
 117758,Vagner de Oliveira
--589,Marlon Siqueira
+-594,Marlon Siqueira
 117751,Vagner de Oliveira
 117719,Vagner de Oliveira
--590,Tallia Sobral
+-595,Tallia Sobral
 117693,Vagner de Oliveira
--591,Juraci Scheffer
+-596,Juraci Scheffer
 117691,Vagner de Oliveira
--592,André Luiz
+-597,André Luiz
 117687,Vagner de Oliveira
 117678,Vagner de Oliveira
--593,Laiz Perrut
+-598,Laiz Perrut
 117675,Vagner de Oliveira
--594,Tallia Sobral
+-599,Tallia Sobral
 117673,Vagner de Oliveira
 117629,Vagner de Oliveira
--595,Maurício Delgado
+-600,Maurício Delgado
 117612,Vagner de Oliveira
 117549,Vagner de Oliveira
--596,Nilton Militão
+-601,Nilton Militão
 117547,Vagner de Oliveira
 117506,Vagner de Oliveira
--597,Laiz Perrut
+-602,Laiz Perrut
 117502,Vagner de Oliveira
--598,Bejani Júnior
+-603,Bejani Júnior
 117873,Zé Márcio
--599,Tallia Sobral
+-604,Tallia Sobral
 117872,Zé Márcio
--600,Maurício Delgado
+-605,Maurício Delgado
 117620,Zé Márcio
 117619,Zé Márcio
--601,Nilton Militão
+-606,Nilton Militão
 117616,Zé Márcio
--602,Juraci Scheffer
+-607,Juraci Scheffer
 117613,Zé Márcio
--603,André Luiz
+-608,André Luiz
 117608,Zé Márcio
--604,Juraci Scheffer
+-609,Juraci Scheffer
 117772,Nilton Militão
--605,Juraci Scheffer
+-610,Juraci Scheffer
 117771,Nilton Militão
--606,Tallia Sobral
+-611,Tallia Sobral
 117503,Nilton Militão
 117918,Sargento Mello Casal
--607,Protetora Kátia Franco
+-612,Protetora Kátia Franco
 117736,Sargento Mello Casal
--608,André Luiz
+-613,André Luiz
 117735,Sargento Mello Casal
 117734,Sargento Mello Casal
--609,Nilton Militão
+-614,Nilton Militão
 117733,Sargento Mello Casal
--610,Maurício Delgado
+-615,Maurício Delgado
 117883,Marlon Siqueira
 117875,Marlon Siqueira
 117864,Marlon Siqueira
--611,Maurício Delgado
+-616,Maurício Delgado
 117858,Marlon Siqueira
--612,Marlon Siqueira
+-617,Marlon Siqueira
 117854,Marlon Siqueira
--613,André Luiz
+-618,André Luiz
 117853,Marlon Siqueira
 117811,Marlon Siqueira
 117634,Marlon Siqueira
--614,Tallia Sobral
+-619,Tallia Sobral
 117633,Marlon Siqueira
 117632,Marlon Siqueira
 117607,Marlon Siqueira
--615,Tallia Sobral
+-620,Tallia Sobral
 117557,Marlon Siqueira
--616,Juraci Scheffer
+-621,Juraci Scheffer
 117508,Marlon Siqueira
--617,André Luiz
+-622,André Luiz
 117504,Marlon Siqueira
--618,Juraci Scheffer
+-623,Juraci Scheffer
 117837,Protetora Kátia Franco
 117836,Protetora Kátia Franco
--619,Tallia Sobral
+-624,Tallia Sobral
 117835,Protetora Kátia Franco
--620,Maurício Delgado
+-625,Maurício Delgado
 117834,Protetora Kátia Franco
--621,Marlon Siqueira
+-626,Marlon Siqueira
 117833,Protetora Kátia Franco
 117832,Protetora Kátia Franco
--622,Juraci Scheffer
+-627,Juraci Scheffer
 117831,Protetora Kátia Franco
--623,Tallia Sobral
+-628,Tallia Sobral
 117505,Protetora Kátia Franco
--624,Bejani Júnior
+-629,Bejani Júnior
 117697,Tallia Sobral
--625,Tallia Sobral
+-630,Tallia Sobral
 117930,Bejani Júnior
 117929,Bejani Júnior
 117928,Bejani Júnior
--626,Maurício Delgado
+-631,Maurício Delgado
 117927,Bejani Júnior
 117924,Bejani Júnior
 117923,Bejani Júnior
@@ -66698,365 +66698,365 @@ id_projeto_camara,nome_autor
 117780,Bejani Júnior
 117779,Bejani Júnior
 117778,Bejani Júnior
--627,Tallia Sobral
+-632,Tallia Sobral
 117776,Bejani Júnior
--628,Maurício Delgado
+-633,Maurício Delgado
 117775,Bejani Júnior
--629,Protetora Kátia Franco
+-634,Protetora Kátia Franco
 117588,Bejani Júnior
 117587,Bejani Júnior
 117586,Bejani Júnior
 117585,Bejani Júnior
--630,Cido Reis
+-635,Cido Reis
 117584,Bejani Júnior
--631,Cido Reis
+-636,Cido Reis
 117583,Bejani Júnior
--632,Marlon Siqueira
+-637,Marlon Siqueira
 117582,Bejani Júnior
--633,Protetora Kátia Franco
+-638,Protetora Kátia Franco
 117581,Bejani Júnior
--634,Cido Reis
+-639,Cido Reis
 117580,Bejani Júnior
 117579,Bejani Júnior
 117578,Bejani Júnior
--635,João Wagner
+-640,João Wagner
 117577,Bejani Júnior
--636,João Wagner
+-641,João Wagner
 117576,Bejani Júnior
 117575,Bejani Júnior
--637,Sargento Mello Casal
+-642,Sargento Mello Casal
 117574,Bejani Júnior
 117552,Bejani Júnior
 117512,Bejani Júnior
 117511,Bejani Júnior
 117510,Bejani Júnior
--638,João Wagner
+-643,João Wagner
 117921,Tiago Bonecão
--639,Dr. Antônio Aguiar
+-644,Dr. Antônio Aguiar
 117919,Tiago Bonecão
--640,Dr. Antônio Aguiar
+-645,Dr. Antônio Aguiar
 117915,Tiago Bonecão
--641,Dr. Antônio Aguiar
+-646,Dr. Antônio Aguiar
 117863,Tiago Bonecão
 117862,Tiago Bonecão
 117782,Tiago Bonecão
--642,Cida Oliveira
+-647,Cida Oliveira
 117917,Maurício Delgado
--643,Cida Oliveira
+-648,Cida Oliveira
 117914,Maurício Delgado
--644,Cida Oliveira
+-649,Cida Oliveira
 117913,Maurício Delgado
--645,Luiz Otávio Fernandes Coelho - Pardal
+-650,Luiz Otávio Fernandes Coelho - Pardal
 117911,Maurício Delgado
 117910,Maurício Delgado
--646,Luiz Otávio Fernandes Coelho - Pardal
+-651,Luiz Otávio Fernandes Coelho - Pardal
 117908,Maurício Delgado
 117907,Maurício Delgado
--647,Zé Márcio
+-652,Zé Márcio
 117905,Maurício Delgado
--648,Laiz Perrut
+-653,Laiz Perrut
 117904,Maurício Delgado
--649,Zé Márcio
+-654,Zé Márcio
 117902,Maurício Delgado
--650,Zé Márcio
+-655,Zé Márcio
 117899,Maurício Delgado
--651,Zé Márcio
+-656,Zé Márcio
 117703,João Wagner
 117656,João Wagner
--652,Zé Márcio
+-657,Zé Márcio
 117655,João Wagner
--653,Laiz Perrut
+-658,Laiz Perrut
 117654,João Wagner
--654,Zé Márcio
+-659,Zé Márcio
 117653,João Wagner
 117871,André Luiz
--655,Zé Márcio
+-660,Zé Márcio
 117866,André Luiz
 117865,André Luiz
--656,Zé Márcio
+-661,Zé Márcio
 117769,André Luiz
 117767,André Luiz
 117764,André Luiz
 117763,André Luiz
--657,Protetora Kátia Franco
+-662,Protetora Kátia Franco
 117546,André Luiz
--658,João Wagner
+-663,João Wagner
 117545,André Luiz
--659,Nilton Militão
+-664,Nilton Militão
 117544,André Luiz
--660,Laiz Perrut
+-665,Laiz Perrut
 117542,André Luiz
 117541,André Luiz
--661,Zé Márcio
+-666,Zé Márcio
 117540,André Luiz
--662,João Wagner
+-667,João Wagner
 117536,André Luiz
 117534,André Luiz
--663,Nilton Militão
+-668,Nilton Militão
 117533,André Luiz
 117530,André Luiz
--664,Zé Márcio
+-669,Zé Márcio
 117528,André Luiz
--665,Marlon Siqueira
+-670,Marlon Siqueira
 117527,André Luiz
--666,Zé Márcio
-117524,André Luiz
--667,João Wagner
-117523,André Luiz
--668,Zé Márcio
-117522,André Luiz
--669,Laiz Perrut
-117468,André Luiz
--670,João Wagner
-117299,André Luiz
 -671,Zé Márcio
-117298,André Luiz
--672,Protetora Kátia Franco
-117292,André Luiz
+117524,André Luiz
+-672,João Wagner
+117523,André Luiz
 -673,Zé Márcio
+117522,André Luiz
+-674,Laiz Perrut
+117468,André Luiz
+-675,João Wagner
+117299,André Luiz
+-676,Zé Márcio
+117298,André Luiz
+-677,Protetora Kátia Franco
+117292,André Luiz
+-678,Zé Márcio
 117289,André Luiz
 117213,André Luiz
 117017,André Luiz
--674,Laiz Perrut
+-679,Laiz Perrut
 115207,André Luiz
--675,Protetora Kátia Franco
+-680,Protetora Kátia Franco
 117551,Laiz Perrut
--676,Zé Márcio
-117550,Laiz Perrut
--677,Zé Márcio
-117920,Cida Oliveira
--678,Bejani Júnior
-117912,Cida Oliveira
--679,Zé Márcio
-117909,Cida Oliveira
--680,Zé Márcio
-117906,Cida Oliveira
 -681,Zé Márcio
+117550,Laiz Perrut
+-682,Zé Márcio
+117920,Cida Oliveira
+-683,Bejani Júnior
+117912,Cida Oliveira
+-684,Zé Márcio
+117909,Cida Oliveira
+-685,Zé Márcio
+117906,Cida Oliveira
+-686,Zé Márcio
 117903,Cida Oliveira
 117901,Cida Oliveira
--682,Zé Márcio
+-687,Zé Márcio
 117898,Cida Oliveira
 117897,Cida Oliveira
--683,Bejani Júnior
+-688,Bejani Júnior
 117896,Cida Oliveira
--684,Zé Márcio
+-689,Zé Márcio
 117895,Cida Oliveira
 117893,Cida Oliveira
--685,João Wagner
+-690,João Wagner
 117507,Cida Oliveira
 117496,Juraci Scheffer
--686,Zé Márcio
+-691,Zé Márcio
 117493,Juraci Scheffer
--687,Protetora Kátia Franco
+-692,Protetora Kátia Franco
 117492,Juraci Scheffer
 117485,Juraci Scheffer
 117483,Juraci Scheffer
--688,Maurício Delgado
+-693,Maurício Delgado
 117462,Juraci Scheffer
 117461,Juraci Scheffer
--689,Tallia Sobral
+-694,Tallia Sobral
 117460,Juraci Scheffer
--690,Luiz Otávio Fernandes Coelho - Pardal
+-695,Luiz Otávio Fernandes Coelho - Pardal
 117459,Juraci Scheffer
 117458,Juraci Scheffer
--691,Tallia Sobral
+-696,Tallia Sobral
 117457,Juraci Scheffer
--692,Tallia Sobral
+-697,Tallia Sobral
 117456,Juraci Scheffer
 117454,Juraci Scheffer
--693,Protetora Kátia Franco
+-698,Protetora Kátia Franco
 117453,Juraci Scheffer
 117451,Juraci Scheffer
--694,Laiz Perrut
+-699,Laiz Perrut
 117450,Juraci Scheffer
--695,Tallia Sobral
+-700,Tallia Sobral
 117449,Juraci Scheffer
--696,Tallia Sobral
+-701,Tallia Sobral
 117448,Juraci Scheffer
--697,Tallia Sobral
+-702,Tallia Sobral
 117447,Juraci Scheffer
 117446,Juraci Scheffer
--698,Tallia Sobral
+-703,Tallia Sobral
 117445,Luiz Otávio Fernandes Coelho - Pardal
--699,Tallia Sobral
+-704,Tallia Sobral
 117229,Luiz Otávio Fernandes Coelho - Pardal
--700,Vagner de Oliveira
+-705,Vagner de Oliveira
 115791,Luiz Otávio Fernandes Coelho - Pardal
--701,Tallia Sobral
+-706,Tallia Sobral
 117491,Cido Reis
--702,Laiz Perrut
+-707,Laiz Perrut
 117455,Dr. Antônio Aguiar
 117452,Vagner de Oliveira
 117426,Vagner de Oliveira
 117437,Zé Márcio
--703,Laiz Perrut
+-708,Laiz Perrut
 117470,Nilton Militão
--704,Laiz Perrut
+-709,Laiz Perrut
 117467,Nilton Militão
--705,Protetora Kátia Franco
+-710,Protetora Kátia Franco
 117440,Sargento Mello Casal
 117469,Marlon Siqueira
--706,Maurício Delgado
+-711,Maurício Delgado
 117488,Protetora Kátia Franco
--707,Tallia Sobral
+-712,Tallia Sobral
 117486,Protetora Kátia Franco
--708,Protetora Kátia Franco
+-713,Protetora Kátia Franco
 117481,Protetora Kátia Franco
--709,Maurício Delgado
+-714,Maurício Delgado
 117479,Protetora Kátia Franco
--710,Tallia Sobral
+-715,Tallia Sobral
 117478,Protetora Kátia Franco
--711,Tallia Sobral
+-716,Tallia Sobral
 117476,Protetora Kátia Franco
--712,Maurício Delgado
+-717,Maurício Delgado
 117474,Protetora Kátia Franco
--713,Tallia Sobral
+-718,Tallia Sobral
 117438,Protetora Kátia Franco
 117490,Bejani Júnior
--714,Tallia Sobral
+-719,Tallia Sobral
 117489,Bejani Júnior
--715,Maurício Delgado
+-720,Maurício Delgado
 117482,Bejani Júnior
 117480,Bejani Júnior
--716,Maurício Delgado
+-721,Maurício Delgado
 117477,Bejani Júnior
--717,Maurício Delgado
+-722,Maurício Delgado
 117475,Bejani Júnior
 117471,Bejani Júnior
 117444,Bejani Júnior
 117443,Bejani Júnior
--718,Tallia Sobral
+-723,Tallia Sobral
 117442,Bejani Júnior
--719,Maurício Delgado
+-724,Maurício Delgado
 117441,Bejani Júnior
--720,Maurício Delgado
+-725,Maurício Delgado
 117410,Tiago Bonecão
 117409,Tiago Bonecão
--721,Tallia Sobral
+-726,Tallia Sobral
 117408,Tiago Bonecão
--722,Tallia Sobral
+-727,Tallia Sobral
 117407,Tiago Bonecão
--723,Maurício Delgado
+-728,Maurício Delgado
 117402,Tiago Bonecão
--724,Tallia Sobral
+-729,Tallia Sobral
 117435,Julinho Rossignoli
 117434,Julinho Rossignoli
 117432,Julinho Rossignoli
--725,Maurício Delgado
+-730,Maurício Delgado
 117431,Julinho Rossignoli
--726,Tallia Sobral
-117430,Julinho Rossignoli
--727,Tallia Sobral
-117429,Julinho Rossignoli
--728,Julinho Rossignoli
-117428,Julinho Rossignoli
--729,Protetora Kátia Franco
-117427,Julinho Rossignoli
--730,Julinho Rossignoli
-117484,João Wagner
 -731,Tallia Sobral
-117472,João Wagner
--732,Cido Reis
-117439,João Wagner
+117430,Julinho Rossignoli
+-732,Tallia Sobral
+117429,Julinho Rossignoli
 -733,Julinho Rossignoli
+117428,Julinho Rossignoli
+-734,Protetora Kátia Franco
+117427,Julinho Rossignoli
+-735,Julinho Rossignoli
+117484,João Wagner
+-736,Tallia Sobral
+117472,João Wagner
+-737,Cido Reis
+117439,João Wagner
+-738,Julinho Rossignoli
 117436,André Luiz
--734,Julinho Rossignoli
+-739,Julinho Rossignoli
 117415,André Luiz
 117415,Bejani Júnior
 117415,Sargento Mello Casal
 117415,Julinho Rossignoli
--735,Julinho Rossignoli
+-740,Julinho Rossignoli
 117337,André Luiz
--736,Julinho Rossignoli
+-741,Julinho Rossignoli
 117331,André Luiz
--737,Protetora Kátia Franco
+-742,Protetora Kátia Franco
 117297,André Luiz
--738,Maurício Delgado
-117296,André Luiz
--739,Maurício Delgado
-117416,Juraci Scheffer
--740,Maurício Delgado
-117414,Juraci Scheffer
--741,Maurício Delgado
-117413,Juraci Scheffer
--742,Maurício Delgado
-117272,Luiz Otávio Fernandes Coelho - Pardal
 -743,Maurício Delgado
+117296,André Luiz
+-744,Maurício Delgado
+117416,Juraci Scheffer
+-745,Maurício Delgado
+117414,Juraci Scheffer
+-746,Maurício Delgado
+117413,Juraci Scheffer
+-747,Maurício Delgado
+117272,Luiz Otávio Fernandes Coelho - Pardal
+-748,Maurício Delgado
 117240,Luiz Otávio Fernandes Coelho - Pardal
 117223,Luiz Otávio Fernandes Coelho - Pardal
--744,Maurício Delgado
+-749,Maurício Delgado
 116398,Luiz Otávio Fernandes Coelho - Pardal
--745,Maurício Delgado
+-750,Maurício Delgado
 116057,Luiz Otávio Fernandes Coelho - Pardal
--746,Maurício Delgado
+-751,Maurício Delgado
 116016,Luiz Otávio Fernandes Coelho - Pardal
--747,Maurício Delgado
+-752,Maurício Delgado
 115799,Luiz Otávio Fernandes Coelho - Pardal
--748,Julinho Rossignoli
-115796,Luiz Otávio Fernandes Coelho - Pardal
--749,Julinho Rossignoli
-115795,Luiz Otávio Fernandes Coelho - Pardal
--750,Julinho Rossignoli
-115794,Luiz Otávio Fernandes Coelho - Pardal
--751,Julinho Rossignoli
-115793,Luiz Otávio Fernandes Coelho - Pardal
--752,Julinho Rossignoli
-115792,Luiz Otávio Fernandes Coelho - Pardal
 -753,Julinho Rossignoli
-117425,Protetora Kátia Franco
+115796,Luiz Otávio Fernandes Coelho - Pardal
 -754,Julinho Rossignoli
-117424,Protetora Kátia Franco
+115795,Luiz Otávio Fernandes Coelho - Pardal
 -755,Julinho Rossignoli
+115794,Luiz Otávio Fernandes Coelho - Pardal
+-756,Julinho Rossignoli
+115793,Luiz Otávio Fernandes Coelho - Pardal
+-757,Julinho Rossignoli
+115792,Luiz Otávio Fernandes Coelho - Pardal
+-758,Julinho Rossignoli
+117425,Protetora Kátia Franco
+-759,Julinho Rossignoli
+117424,Protetora Kátia Franco
+-760,Julinho Rossignoli
 117423,Maurício Delgado
--756,Luiz Otávio Fernandes Coelho - Pardal
-117422,Maurício Delgado
--757,Luiz Otávio Fernandes Coelho - Pardal
-117421,Maurício Delgado
--758,Luiz Otávio Fernandes Coelho - Pardal
-117420,Maurício Delgado
--759,Luiz Otávio Fernandes Coelho - Pardal
-117419,Maurício Delgado
--760,Luiz Otávio Fernandes Coelho - Pardal
-117418,Maurício Delgado
 -761,Luiz Otávio Fernandes Coelho - Pardal
-117417,Maurício Delgado
+117422,Maurício Delgado
 -762,Luiz Otávio Fernandes Coelho - Pardal
-117338,André Luiz
+117421,Maurício Delgado
 -763,Luiz Otávio Fernandes Coelho - Pardal
+117420,Maurício Delgado
+-764,Luiz Otávio Fernandes Coelho - Pardal
+117419,Maurício Delgado
+-765,Luiz Otávio Fernandes Coelho - Pardal
+117418,Maurício Delgado
+-766,Luiz Otávio Fernandes Coelho - Pardal
+117417,Maurício Delgado
+-767,Luiz Otávio Fernandes Coelho - Pardal
+117338,André Luiz
+-768,Luiz Otávio Fernandes Coelho - Pardal
 117328,André Luiz
 117303,André Luiz
--764,Luiz Otávio Fernandes Coelho - Pardal
-117028,André Luiz
--765,Luiz Otávio Fernandes Coelho - Pardal
-117411,Cida Oliveira
--766,Luiz Otávio Fernandes Coelho - Pardal
-117385,Juraci Scheffer
--767,Luiz Otávio Fernandes Coelho - Pardal
-117384,Juraci Scheffer
--768,Luiz Otávio Fernandes Coelho - Pardal
-117383,Juraci Scheffer
 -769,Luiz Otávio Fernandes Coelho - Pardal
+117028,André Luiz
+-770,Luiz Otávio Fernandes Coelho - Pardal
+117411,Cida Oliveira
+-771,Luiz Otávio Fernandes Coelho - Pardal
+117385,Juraci Scheffer
+-772,Luiz Otávio Fernandes Coelho - Pardal
+117384,Juraci Scheffer
+-773,Luiz Otávio Fernandes Coelho - Pardal
+117383,Juraci Scheffer
+-774,Luiz Otávio Fernandes Coelho - Pardal
 117382,Juraci Scheffer
 117381,Juraci Scheffer
--770,Luiz Otávio Fernandes Coelho - Pardal
+-775,Luiz Otávio Fernandes Coelho - Pardal
 117380,Juraci Scheffer
--771,Luiz Otávio Fernandes Coelho - Pardal
+-776,Luiz Otávio Fernandes Coelho - Pardal
 117379,Juraci Scheffer
--772,Luiz Otávio Fernandes Coelho - Pardal
+-777,Luiz Otávio Fernandes Coelho - Pardal
 117378,Juraci Scheffer
--773,Protetora Kátia Franco
+-778,Protetora Kátia Franco
 117377,Juraci Scheffer
 117376,Juraci Scheffer
--774,Cido Reis
+-779,Cido Reis
 117374,Juraci Scheffer
--775,Protetora Kátia Franco
+-780,Protetora Kátia Franco
 117373,Juraci Scheffer
--776,Cido Reis
+-781,Cido Reis
 117372,Juraci Scheffer
--777,Cido Reis
+-782,Cido Reis
 117370,Juraci Scheffer
 117369,Juraci Scheffer
--778,Protetora Kátia Franco
+-783,Protetora Kátia Franco
 117375,Luiz Otávio Fernandes Coelho - Pardal
 116397,Luiz Otávio Fernandes Coelho - Pardal
 116257,Luiz Otávio Fernandes Coelho - Pardal
@@ -67064,179 +67064,179 @@ id_projeto_camara,nome_autor
 115955,Luiz Otávio Fernandes Coelho - Pardal
 115952,Luiz Otávio Fernandes Coelho - Pardal
 115920,Luiz Otávio Fernandes Coelho - Pardal
--779,Luiz Otávio Fernandes Coelho - Pardal
+-784,Luiz Otávio Fernandes Coelho - Pardal
 115919,Luiz Otávio Fernandes Coelho - Pardal
 115797,Luiz Otávio Fernandes Coelho - Pardal
 117393,Vagner de Oliveira
--780,Luiz Otávio Fernandes Coelho - Pardal
+-785,Luiz Otávio Fernandes Coelho - Pardal
 117392,Vagner de Oliveira
 117391,Vagner de Oliveira
 117386,Vagner de Oliveira
--781,Tallia Sobral
+-786,Tallia Sobral
 117364,Marlon Siqueira
--782,Tallia Sobral
+-787,Tallia Sobral
 117398,Protetora Kátia Franco
--783,Tallia Sobral
+-788,Tallia Sobral
 117397,Protetora Kátia Franco
 117396,Protetora Kátia Franco
--784,Julinho Rossignoli
+-789,Julinho Rossignoli
 117395,Protetora Kátia Franco
 117367,Protetora Kátia Franco
--785,Cido Reis
+-790,Cido Reis
 117366,Protetora Kátia Franco
 117401,Bejani Júnior
 117400,Bejani Júnior
 117399,Bejani Júnior
--786,Cido Reis
+-791,Cido Reis
 117394,João Wagner
 117390,João Wagner
 117389,João Wagner
 117388,João Wagner
--787,Tallia Sobral
-117340,André Luiz
--788,Cido Reis
-117339,André Luiz
--789,Cido Reis
-117301,André Luiz
--790,Cido Reis
-117300,André Luiz
--791,Cido Reis
-116563,André Luiz
 -792,Tallia Sobral
+117340,André Luiz
+-793,Cido Reis
+117339,André Luiz
+-794,Cido Reis
+117301,André Luiz
+-795,Cido Reis
+117300,André Luiz
+-796,Cido Reis
+116563,André Luiz
+-797,Tallia Sobral
 117371,Laiz Perrut
 117406,Cida Oliveira
--793,Tiago Bonecão
+-798,Tiago Bonecão
 117405,Cida Oliveira
 117404,Cida Oliveira
--794,Dr. Antônio Aguiar
+-799,Dr. Antônio Aguiar
 117335,Juraci Scheffer
 117334,Juraci Scheffer
 117332,Juraci Scheffer
--795,Nilton Militão
+-800,Nilton Militão
 117326,Juraci Scheffer
 117325,Juraci Scheffer
 117324,Juraci Scheffer
--796,Laiz Perrut
+-801,Laiz Perrut
 117323,Juraci Scheffer
 117322,Juraci Scheffer
--797,Laiz Perrut
+-802,Laiz Perrut
 117321,Juraci Scheffer
--798,Zé Márcio
+-803,Zé Márcio
 117320,Juraci Scheffer
 117319,Juraci Scheffer
--799,Tallia Sobral
+-804,Tallia Sobral
 117318,Juraci Scheffer
 117317,Juraci Scheffer
--800,Zé Márcio
+-805,Zé Márcio
 117310,Juraci Scheffer
 117308,Juraci Scheffer
--801,Zé Márcio
+-806,Zé Márcio
 117270,Luiz Otávio Fernandes Coelho - Pardal
--802,Zé Márcio
+-807,Zé Márcio
 117269,Luiz Otávio Fernandes Coelho - Pardal
--803,João Wagner
+-808,João Wagner
 117267,Luiz Otávio Fernandes Coelho - Pardal
--804,Tallia Sobral
+-809,Tallia Sobral
 116460,Luiz Otávio Fernandes Coelho - Pardal
--805,Laiz Perrut
+-810,Laiz Perrut
 116179,Luiz Otávio Fernandes Coelho - Pardal
 116140,Luiz Otávio Fernandes Coelho - Pardal
--806,Tallia Sobral
+-811,Tallia Sobral
 116134,Luiz Otávio Fernandes Coelho - Pardal
--807,João Wagner
+-812,João Wagner
 116131,Luiz Otávio Fernandes Coelho - Pardal
--808,Zé Márcio
+-813,Zé Márcio
 116071,Luiz Otávio Fernandes Coelho - Pardal
--809,Laiz Perrut
+-814,Laiz Perrut
 116015,Luiz Otávio Fernandes Coelho - Pardal
--810,Tallia Sobral
+-815,Tallia Sobral
 115951,Luiz Otávio Fernandes Coelho - Pardal
 115918,Luiz Otávio Fernandes Coelho - Pardal
 117349,Dr. Antônio Aguiar
--811,Tallia Sobral
+-816,Tallia Sobral
 117348,Dr. Antônio Aguiar
--812,Tallia Sobral
+-817,Tallia Sobral
 117347,Dr. Antônio Aguiar
--813,Zé Márcio
+-818,Zé Márcio
 117343,Vagner de Oliveira
--814,Tiago Bonecão
+-819,Tiago Bonecão
 117312,Vagner de Oliveira
 117311,Vagner de Oliveira
--815,Nilton Militão
+-820,Nilton Militão
 117316,Zé Márcio
--816,Luiz Otávio Fernandes Coelho - Pardal
+-821,Luiz Otávio Fernandes Coelho - Pardal
 117315,Zé Márcio
 117314,Zé Márcio
--817,João Wagner
+-822,João Wagner
 117313,Zé Márcio
--818,João Wagner
+-823,João Wagner
 117361,Marlon Siqueira
--819,Luiz Otávio Fernandes Coelho - Pardal
+-824,Luiz Otávio Fernandes Coelho - Pardal
 117341,Marlon Siqueira
--820,João Wagner
+-825,João Wagner
 117363,Bejani Júnior
--821,João Wagner
+-826,João Wagner
 117358,Bejani Júnior
 117355,Bejani Júnior
--822,João Wagner
-117354,Bejani Júnior
--823,João Wagner
-117353,Bejani Júnior
--824,João Wagner
-117352,Bejani Júnior
--825,João Wagner
-117351,Bejani Júnior
--826,João Wagner
-117309,Bejani Júnior
 -827,João Wagner
+117354,Bejani Júnior
+-828,João Wagner
+117353,Bejani Júnior
+-829,João Wagner
+117352,Bejani Júnior
+-830,João Wagner
+117351,Bejani Júnior
+-831,João Wagner
+117309,Bejani Júnior
+-832,João Wagner
 117307,Bejani Júnior
 117293,Tiago Bonecão
 117287,Tiago Bonecão
--828,João Wagner
+-833,João Wagner
 117282,Tiago Bonecão
--829,João Wagner
+-834,João Wagner
 117197,Tiago Bonecão
--830,João Wagner
+-835,João Wagner
 117345,Maurício Delgado
 117362,João Wagner
 117356,João Wagner
 117350,João Wagner
--831,João Wagner
+-836,João Wagner
 117306,André Luiz
--832,João Wagner
+-837,João Wagner
 117304,André Luiz
--833,João Wagner
+-838,João Wagner
 117278,André Luiz
--834,João Wagner
+-839,João Wagner
 117033,André Luiz
 116565,André Luiz
--835,João Wagner
+-840,João Wagner
 117294,Laiz Perrut
--836,João Wagner
+-841,João Wagner
 117288,Laiz Perrut
 117277,Laiz Perrut
--837,Dr. Antônio Aguiar
+-842,Dr. Antônio Aguiar
 117274,Laiz Perrut
--838,Dr. Antônio Aguiar
+-843,Dr. Antônio Aguiar
 117273,Laiz Perrut
--839,Dr. Antônio Aguiar
+-844,Dr. Antônio Aguiar
 117247,Juraci Scheffer
 117243,Juraci Scheffer
--840,Sargento Mello Casal
+-845,Sargento Mello Casal
 117239,Juraci Scheffer
 117237,Juraci Scheffer
--841,Laiz Perrut
+-846,Laiz Perrut
 117230,Juraci Scheffer
 117224,Luiz Otávio Fernandes Coelho - Pardal
--842,Laiz Perrut
+-847,Laiz Perrut
 117222,Luiz Otávio Fernandes Coelho - Pardal
 117221,Luiz Otávio Fernandes Coelho - Pardal
--843,João Wagner
+-848,João Wagner
 117219,Luiz Otávio Fernandes Coelho - Pardal
 117199,Luiz Otávio Fernandes Coelho - Pardal
 116694,Luiz Otávio Fernandes Coelho - Pardal
 116692,Luiz Otávio Fernandes Coelho - Pardal
--844,Laiz Perrut
+-849,Laiz Perrut
 116691,Luiz Otávio Fernandes Coelho - Pardal
 116685,Luiz Otávio Fernandes Coelho - Pardal
 116438,Luiz Otávio Fernandes Coelho - Pardal
@@ -67244,284 +67244,284 @@ id_projeto_camara,nome_autor
 116142,Luiz Otávio Fernandes Coelho - Pardal
 117242,Cido Reis
 117285,Dr. Antônio Aguiar
--845,Dr. Antônio Aguiar
+-850,Dr. Antônio Aguiar
 117271,Vagner de Oliveira
--846,Cida Oliveira
+-851,Cida Oliveira
 117233,Vagner de Oliveira
--847,Dr. Antônio Aguiar
+-852,Dr. Antônio Aguiar
 117232,Vagner de Oliveira
--848,Cida Oliveira
+-853,Cida Oliveira
 117227,Vagner de Oliveira
--849,Dr. Antônio Aguiar
+-854,Dr. Antônio Aguiar
 117249,Zé Márcio
 117246,Zé Márcio
 117245,Zé Márcio
--850,Julinho Rossignoli
+-855,Julinho Rossignoli
 117241,Zé Márcio
--851,Dr. Antônio Aguiar
+-856,Dr. Antônio Aguiar
 117238,Zé Márcio
--852,Sargento Mello Casal
+-857,Sargento Mello Casal
 117236,Zé Márcio
--853,Laiz Perrut
+-858,Laiz Perrut
 117235,Zé Márcio
 117295,Marlon Siqueira
 117254,Marlon Siqueira
--854,Laiz Perrut
+-859,Laiz Perrut
 117253,Marlon Siqueira
 117252,Marlon Siqueira
 117251,Marlon Siqueira
--855,Cida Oliveira
+-860,Cida Oliveira
 117250,Marlon Siqueira
 117248,Marlon Siqueira
 117244,Marlon Siqueira
 117234,Marlon Siqueira
--856,Cida Oliveira
+-861,Cida Oliveira
 117231,Marlon Siqueira
--857,Dr. Antônio Aguiar
+-862,Dr. Antônio Aguiar
 117228,Marlon Siqueira
 117226,Marlon Siqueira
--858,Tiago Bonecão
+-863,Tiago Bonecão
 117260,Protetora Kátia Franco
--859,Dr. Antônio Aguiar
+-864,Dr. Antônio Aguiar
 117259,Protetora Kátia Franco
 117258,Protetora Kátia Franco
--860,Tiago Bonecão
+-865,Tiago Bonecão
 117257,Protetora Kátia Franco
 117256,Protetora Kátia Franco
--861,Sargento Mello Casal
+-866,Sargento Mello Casal
 117266,Bejani Júnior
 117265,Bejani Júnior
--862,Sargento Mello Casal
+-867,Sargento Mello Casal
 117264,Bejani Júnior
--863,Vagner de Oliveira
+-868,Vagner de Oliveira
 117263,Bejani Júnior
--864,Tiago Bonecão
+-869,Tiago Bonecão
 117261,Bejani Júnior
--865,Sargento Mello Casal
+-870,Sargento Mello Casal
 117220,André Luiz
--866,Julinho Rossignoli
+-871,Julinho Rossignoli
 117024,André Luiz
 117015,André Luiz
--867,Nilton Militão
+-872,Nilton Militão
 116920,André Luiz
 116566,André Luiz
--868,Nilton Militão
+-873,Nilton Militão
 117200,Laiz Perrut
 116225,Laiz Perrut
--869,Marlon Siqueira
+-874,Marlon Siqueira
 117193,Juraci Scheffer
--870,Julinho Rossignoli
+-875,Julinho Rossignoli
 117188,Juraci Scheffer
--871,Nilton Militão
+-876,Nilton Militão
 117187,Juraci Scheffer
 117186,Juraci Scheffer
 117185,Juraci Scheffer
 117184,Juraci Scheffer
 117183,Juraci Scheffer
--872,Nilton Militão
+-877,Nilton Militão
 117182,Juraci Scheffer
 117181,Juraci Scheffer
 117180,Juraci Scheffer
 117170,Juraci Scheffer
 117169,Juraci Scheffer
--873,Nilton Militão
+-878,Nilton Militão
 117168,Juraci Scheffer
 117166,Juraci Scheffer
 117164,Juraci Scheffer
 117198,Luiz Otávio Fernandes Coelho - Pardal
--874,Tiago Bonecão
+-879,Tiago Bonecão
 117196,Luiz Otávio Fernandes Coelho - Pardal
--875,Tiago Bonecão
+-880,Tiago Bonecão
 117162,Luiz Otávio Fernandes Coelho - Pardal
 117159,Luiz Otávio Fernandes Coelho - Pardal
 117083,Luiz Otávio Fernandes Coelho - Pardal
 117079,Luiz Otávio Fernandes Coelho - Pardal
--876,Nilton Militão
+-881,Nilton Militão
 117078,Luiz Otávio Fernandes Coelho - Pardal
 117076,Luiz Otávio Fernandes Coelho - Pardal
--877,Nilton Militão
+-882,Nilton Militão
 117075,Luiz Otávio Fernandes Coelho - Pardal
 117065,Luiz Otávio Fernandes Coelho - Pardal
 116681,Luiz Otávio Fernandes Coelho - Pardal
--878,Laiz Perrut
+-883,Laiz Perrut
 116138,Luiz Otávio Fernandes Coelho - Pardal
--879,Marlon Siqueira
+-884,Marlon Siqueira
 116137,Luiz Otávio Fernandes Coelho - Pardal
 116136,Luiz Otávio Fernandes Coelho - Pardal
 116099,Luiz Otávio Fernandes Coelho - Pardal
 115956,Luiz Otávio Fernandes Coelho - Pardal
--880,Nilton Militão
+-885,Nilton Militão
 115922,Luiz Otávio Fernandes Coelho - Pardal
 115921,Luiz Otávio Fernandes Coelho - Pardal
 117171,Vagner de Oliveira
--881,Protetora Kátia Franco
+-886,Protetora Kátia Franco
 117195,Nilton Militão
--882,Cida Oliveira
+-887,Cida Oliveira
 117194,Nilton Militão
--883,Cida Oliveira
+-888,Cida Oliveira
 117173,Nilton Militão
--884,Cida Oliveira
+-889,Cida Oliveira
 117179,Marlon Siqueira
--885,Cida Oliveira
+-890,Cida Oliveira
 117167,Marlon Siqueira
 117165,Marlon Siqueira
--886,Cida Oliveira
+-891,Cida Oliveira
 117210,Protetora Kátia Franco
--887,Laiz Perrut
+-892,Laiz Perrut
 117209,Protetora Kátia Franco
--888,Cida Oliveira
+-893,Cida Oliveira
 117208,Protetora Kátia Franco
--889,Cida Oliveira
-117160,Protetora Kátia Franco
--890,Cida Oliveira
-117158,Protetora Kátia Franco
--891,Dr. Antônio Aguiar
-117157,Protetora Kátia Franco
--892,Cida Oliveira
-117155,Protetora Kátia Franco
--893,Dr. Antônio Aguiar
-117154,Protetora Kátia Franco
 -894,Cida Oliveira
-117153,Protetora Kátia Franco
+117160,Protetora Kátia Franco
 -895,Cida Oliveira
+117158,Protetora Kátia Franco
+-896,Dr. Antônio Aguiar
+117157,Protetora Kátia Franco
+-897,Cida Oliveira
+117155,Protetora Kátia Franco
+-898,Dr. Antônio Aguiar
+117154,Protetora Kátia Franco
+-899,Cida Oliveira
+117153,Protetora Kátia Franco
+-900,Cida Oliveira
 117152,Protetora Kátia Franco
 117151,Protetora Kátia Franco
--896,Cida Oliveira
-117207,Bejani Júnior
--897,Cida Oliveira
-117206,Bejani Júnior
--898,Cida Oliveira
-117205,Bejani Júnior
--899,Cida Oliveira
-117204,Bejani Júnior
--900,Cida Oliveira
-117203,Bejani Júnior
 -901,Cida Oliveira
+117207,Bejani Júnior
+-902,Cida Oliveira
+117206,Bejani Júnior
+-903,Cida Oliveira
+117205,Bejani Júnior
+-904,Cida Oliveira
+117204,Bejani Júnior
+-905,Cida Oliveira
+117203,Bejani Júnior
+-906,Cida Oliveira
 117202,Bejani Júnior
 117201,Bejani Júnior
 117178,Bejani Júnior
--902,Cida Oliveira
+-907,Cida Oliveira
 117176,Bejani Júnior
--903,Cida Oliveira
-117175,Bejani Júnior
--904,Cida Oliveira
-117174,Bejani Júnior
--905,Cida Oliveira
-117190,Tiago Bonecão
--906,Cida Oliveira
-117177,Tiago Bonecão
--907,Vagner de Oliveira
-117163,Tiago Bonecão
 -908,Cida Oliveira
-117156,Tiago Bonecão
+117175,Bejani Júnior
 -909,Cida Oliveira
-117191,João Wagner
+117174,Bejani Júnior
 -910,Cida Oliveira
-117189,João Wagner
+117190,Tiago Bonecão
 -911,Cida Oliveira
+117177,Tiago Bonecão
+-912,Vagner de Oliveira
+117163,Tiago Bonecão
+-913,Cida Oliveira
+117156,Tiago Bonecão
+-914,Cida Oliveira
+117191,João Wagner
+-915,Cida Oliveira
+117189,João Wagner
+-916,Cida Oliveira
 117040,André Luiz
--912,Cida Oliveira
+-917,Cida Oliveira
 117036,André Luiz
 117022,André Luiz
 117007,André Luiz
 116659,André Luiz
 117090,Luiz Otávio Fernandes Coelho - Pardal
--913,Dr. Antônio Aguiar
+-918,Dr. Antônio Aguiar
 117089,Luiz Otávio Fernandes Coelho - Pardal
 117087,Luiz Otávio Fernandes Coelho - Pardal
 117085,Luiz Otávio Fernandes Coelho - Pardal
--914,Tiago Bonecão
+-919,Tiago Bonecão
 117081,Luiz Otávio Fernandes Coelho - Pardal
 117080,Luiz Otávio Fernandes Coelho - Pardal
--915,Marlon Siqueira
+-920,Marlon Siqueira
 117072,Luiz Otávio Fernandes Coelho - Pardal
--916,Tiago Bonecão
+-921,Tiago Bonecão
 117069,Luiz Otávio Fernandes Coelho - Pardal
--917,Tiago Bonecão
+-922,Tiago Bonecão
 117068,Luiz Otávio Fernandes Coelho - Pardal
--918,Marlon Siqueira
+-923,Marlon Siqueira
 117067,Luiz Otávio Fernandes Coelho - Pardal
--919,Tiago Bonecão
+-924,Tiago Bonecão
 117064,Luiz Otávio Fernandes Coelho - Pardal
 117063,Luiz Otávio Fernandes Coelho - Pardal
 116258,Luiz Otávio Fernandes Coelho - Pardal
--920,Sargento Mello Casal
+-925,Sargento Mello Casal
 117145,Vagner de Oliveira
--921,Dr. Antônio Aguiar
+-926,Dr. Antônio Aguiar
 117144,Vagner de Oliveira
 117143,Vagner de Oliveira
--922,Tiago Bonecão
+-927,Tiago Bonecão
 117142,Vagner de Oliveira
--923,Sargento Mello Casal
+-928,Sargento Mello Casal
 117141,Vagner de Oliveira
 117140,Vagner de Oliveira
--924,Dr. Antônio Aguiar
+-929,Dr. Antônio Aguiar
 117139,Vagner de Oliveira
--925,Dr. Antônio Aguiar
+-930,Dr. Antônio Aguiar
 117130,Marlon Siqueira
 117150,Protetora Kátia Franco
--926,Dr. Antônio Aguiar
+-931,Dr. Antônio Aguiar
 117149,Protetora Kátia Franco
 117148,Protetora Kátia Franco
 117138,Tallia Sobral
 117137,Tallia Sobral
 117135,Bejani Júnior
--927,Nilton Militão
+-932,Nilton Militão
 117134,Bejani Júnior
--928,Dr. Antônio Aguiar
+-933,Dr. Antônio Aguiar
 117133,Bejani Júnior
 117132,Bejani Júnior
--929,Sargento Mello Casal
+-934,Sargento Mello Casal
 117131,Bejani Júnior
 117147,Maurício Delgado
--930,Dr. Antônio Aguiar
+-935,Dr. Antônio Aguiar
 117146,Maurício Delgado
--931,Tiago Bonecão
+-936,Tiago Bonecão
 117041,André Luiz
--932,Dr. Antônio Aguiar
+-937,Dr. Antônio Aguiar
 117038,André Luiz
--933,Sargento Mello Casal
+-938,Sargento Mello Casal
 117031,André Luiz
 117020,André Luiz
--934,Dr. Antônio Aguiar
+-939,Dr. Antônio Aguiar
 116562,André Luiz
--935,Sargento Mello Casal
+-940,Sargento Mello Casal
 117129,Juraci Scheffer
--936,Dr. Antônio Aguiar
+-941,Dr. Antônio Aguiar
 117118,Juraci Scheffer
 117091,Juraci Scheffer
 117086,Juraci Scheffer
--937,Dr. Antônio Aguiar
+-942,Dr. Antônio Aguiar
 117084,Juraci Scheffer
--938,Dr. Antônio Aguiar
+-943,Dr. Antônio Aguiar
 117082,Juraci Scheffer
--939,Dr. Antônio Aguiar
+-944,Dr. Antônio Aguiar
 117077,Juraci Scheffer
 117073,Juraci Scheffer
--940,Dr. Antônio Aguiar
+-945,Dr. Antônio Aguiar
 117070,Juraci Scheffer
 117066,Juraci Scheffer
 117100,Luiz Otávio Fernandes Coelho - Pardal
--941,Dr. Antônio Aguiar
+-946,Dr. Antônio Aguiar
 117058,Luiz Otávio Fernandes Coelho - Pardal
 117047,Luiz Otávio Fernandes Coelho - Pardal
--942,Cida Oliveira
+-947,Cida Oliveira
 116993,Luiz Otávio Fernandes Coelho - Pardal
--943,Cida Oliveira
+-948,Cida Oliveira
 116454,Luiz Otávio Fernandes Coelho - Pardal
 116437,Luiz Otávio Fernandes Coelho - Pardal
--944,Dr. Antônio Aguiar
+-949,Dr. Antônio Aguiar
 116402,Luiz Otávio Fernandes Coelho - Pardal
--945,Dr. Antônio Aguiar
+-950,Dr. Antônio Aguiar
 116287,Luiz Otávio Fernandes Coelho - Pardal
--946,Dr. Antônio Aguiar
+-951,Dr. Antônio Aguiar
 116283,Luiz Otávio Fernandes Coelho - Pardal
--947,Dr. Antônio Aguiar
+-952,Dr. Antônio Aguiar
 116260,Luiz Otávio Fernandes Coelho - Pardal
 116226,Luiz Otávio Fernandes Coelho - Pardal
--948,Dr. Antônio Aguiar
+-953,Dr. Antônio Aguiar
 116139,Luiz Otávio Fernandes Coelho - Pardal
--949,Dr. Antônio Aguiar
+-954,Dr. Antônio Aguiar
 117096,Vagner de Oliveira
 117101,Zé Márcio
 117099,Zé Márcio
@@ -67531,361 +67531,361 @@ id_projeto_camara,nome_autor
 117104,Marlon Siqueira
 117128,Protetora Kátia Franco
 117127,Protetora Kátia Franco
--950,Cida Oliveira
+-955,Cida Oliveira
 117126,Protetora Kátia Franco
--951,Cida Oliveira
+-956,Cida Oliveira
 117125,Protetora Kátia Franco
 117124,Protetora Kátia Franco
 117123,Protetora Kátia Franco
--952,Sargento Mello Casal
+-957,Sargento Mello Casal
 117122,Protetora Kátia Franco
 117121,Protetora Kátia Franco
--953,Sargento Mello Casal
+-958,Sargento Mello Casal
 117120,Protetora Kátia Franco
--954,Dr. Antônio Aguiar
+-959,Dr. Antônio Aguiar
 117119,Protetora Kátia Franco
 116982,Protetora Kátia Franco
 117117,Bejani Júnior
--955,Dr. Antônio Aguiar
+-960,Dr. Antônio Aguiar
 117116,Bejani Júnior
--956,Nilton Militão
+-961,Nilton Militão
 117115,Bejani Júnior
--957,Dr. Antônio Aguiar
+-962,Dr. Antônio Aguiar
 117114,Bejani Júnior
 117113,Bejani Júnior
--958,Julinho Rossignoli
+-963,Julinho Rossignoli
 117111,Bejani Júnior
--959,Dr. Antônio Aguiar
+-964,Dr. Antônio Aguiar
 117110,Bejani Júnior
--960,Dr. Antônio Aguiar
+-965,Dr. Antônio Aguiar
 117109,Bejani Júnior
 117108,Bejani Júnior
--961,Dr. Antônio Aguiar
+-966,Dr. Antônio Aguiar
 117107,Bejani Júnior
 117106,Bejani Júnior
--962,Dr. Antônio Aguiar
+-967,Dr. Antônio Aguiar
 117105,Bejani Júnior
 117102,Bejani Júnior
--963,Dr. Antônio Aguiar
+-968,Dr. Antônio Aguiar
 117071,Tiago Bonecão
 117062,Tiago Bonecão
 117061,Tiago Bonecão
--964,Sargento Mello Casal
+-969,Sargento Mello Casal
 117060,Tiago Bonecão
--965,Dr. Antônio Aguiar
+-970,Dr. Antônio Aguiar
 117059,Tiago Bonecão
--966,Sargento Mello Casal
+-971,Sargento Mello Casal
 116981,Tiago Bonecão
 116972,Tiago Bonecão
--967,Marlon Siqueira
+-972,Marlon Siqueira
 117098,Julinho Rossignoli
--968,Julinho Rossignoli
+-973,Julinho Rossignoli
 117097,Julinho Rossignoli
 117042,André Luiz
 117019,André Luiz
 117012,André Luiz
--969,Bejani Júnior
+-974,Bejani Júnior
 116930,André Luiz
--970,Julinho Rossignoli
+-975,Julinho Rossignoli
 116922,André Luiz
--971,Vagner de Oliveira
+-976,Vagner de Oliveira
 116723,André Luiz
--972,Vagner de Oliveira
+-977,Vagner de Oliveira
 117095,Cida Oliveira
--973,Vagner de Oliveira
--974,Vagner de Oliveira
+-978,Vagner de Oliveira
+-979,Vagner de Oliveira
 116980,Juraci Scheffer
 116979,Juraci Scheffer
--975,Tiago Bonecão
+-980,Tiago Bonecão
 116978,Juraci Scheffer
 116977,Juraci Scheffer
 116976,Juraci Scheffer
 116975,Juraci Scheffer
 116974,Juraci Scheffer
 116973,Juraci Scheffer
--976,Tiago Bonecão
-116971,Juraci Scheffer
--977,Sargento Mello Casal
-116970,Juraci Scheffer
--978,Sargento Mello Casal
-116968,Juraci Scheffer
--979,Sargento Mello Casal
-116967,Juraci Scheffer
--980,Sargento Mello Casal
-116965,Juraci Scheffer
 -981,Tiago Bonecão
+116971,Juraci Scheffer
+-982,Sargento Mello Casal
+116970,Juraci Scheffer
+-983,Sargento Mello Casal
+116968,Juraci Scheffer
+-984,Sargento Mello Casal
+116967,Juraci Scheffer
+-985,Sargento Mello Casal
+116965,Juraci Scheffer
+-986,Tiago Bonecão
 116964,Juraci Scheffer
--982,Julinho Rossignoli
+-987,Julinho Rossignoli
 116963,Juraci Scheffer
--983,Tiago Bonecão
+-988,Tiago Bonecão
 116962,Juraci Scheffer
--984,Tiago Bonecão
+-989,Tiago Bonecão
 116960,Juraci Scheffer
 116958,Juraci Scheffer
 116957,Juraci Scheffer
--985,Julinho Rossignoli
+-990,Julinho Rossignoli
 116956,Juraci Scheffer
 116955,Juraci Scheffer
--986,Julinho Rossignoli
+-991,Julinho Rossignoli
 116954,Juraci Scheffer
--987,Sargento Mello Casal
+-992,Sargento Mello Casal
 117043,Luiz Otávio Fernandes Coelho - Pardal
--988,Sargento Mello Casal
-116998,Luiz Otávio Fernandes Coelho - Pardal
--989,Julinho Rossignoli
-116996,Luiz Otávio Fernandes Coelho - Pardal
--990,Julinho Rossignoli
-116669,Luiz Otávio Fernandes Coelho - Pardal
--991,Sargento Mello Casal
-116545,Luiz Otávio Fernandes Coelho - Pardal
--992,Julinho Rossignoli
-116455,Luiz Otávio Fernandes Coelho - Pardal
 -993,Sargento Mello Casal
+116998,Luiz Otávio Fernandes Coelho - Pardal
+-994,Julinho Rossignoli
+116996,Luiz Otávio Fernandes Coelho - Pardal
+-995,Julinho Rossignoli
+116669,Luiz Otávio Fernandes Coelho - Pardal
+-996,Sargento Mello Casal
+116545,Luiz Otávio Fernandes Coelho - Pardal
+-997,Julinho Rossignoli
+116455,Luiz Otávio Fernandes Coelho - Pardal
+-998,Sargento Mello Casal
 116452,Luiz Otávio Fernandes Coelho - Pardal
 116451,Luiz Otávio Fernandes Coelho - Pardal
--994,Julinho Rossignoli
+-999,Julinho Rossignoli
 116446,Luiz Otávio Fernandes Coelho - Pardal
 116445,Luiz Otávio Fernandes Coelho - Pardal
 116444,Luiz Otávio Fernandes Coelho - Pardal
 116443,Luiz Otávio Fernandes Coelho - Pardal
 116439,Luiz Otávio Fernandes Coelho - Pardal
--995,Bejani Júnior
+-1000,Bejani Júnior
 117025,Cido Reis
 116992,Protetora Kátia Franco
--996,Sargento Mello Casal
+-1001,Sargento Mello Casal
 116991,Protetora Kátia Franco
--997,Sargento Mello Casal
+-1002,Sargento Mello Casal
 116990,Protetora Kátia Franco
 116989,Protetora Kátia Franco
 116988,Protetora Kátia Franco
--998,Sargento Mello Casal
+-1003,Sargento Mello Casal
 116987,Protetora Kátia Franco
--999,Sargento Mello Casal
+-1004,Sargento Mello Casal
 116986,Protetora Kátia Franco
--1000,Sargento Mello Casal
+-1005,Sargento Mello Casal
 116985,Protetora Kátia Franco
 116984,Protetora Kátia Franco
--1001,Sargento Mello Casal
+-1006,Sargento Mello Casal
 116983,Protetora Kátia Franco
--1002,Marlon Siqueira
+-1007,Marlon Siqueira
 117054,Bejani Júnior
 117052,Bejani Júnior
--1003,Vagner de Oliveira
+-1008,Vagner de Oliveira
 117051,Bejani Júnior
--1004,Juraci Scheffer
+-1009,Juraci Scheffer
 117050,Bejani Júnior
--1005,Juraci Scheffer
+-1010,Juraci Scheffer
 117049,Bejani Júnior
--1006,Dr. Antônio Aguiar
--1006,Juraci Scheffer
--1006,Nilton Militão
+-1011,Dr. Antônio Aguiar
+-1011,Juraci Scheffer
+-1011,Nilton Militão
 117048,Bejani Júnior
--1007,Tiago Bonecão
+-1012,Tiago Bonecão
 117046,Bejani Júnior
--1008,Tiago Bonecão
+-1013,Tiago Bonecão
 117045,Bejani Júnior
 117044,Bejani Júnior
--1009,Tiago Bonecão
+-1014,Tiago Bonecão
 117039,Bejani Júnior
 117037,Bejani Júnior
--1010,Dr. Antônio Aguiar
--1010,Juraci Scheffer
--1010,Nilton Militão
+-1015,Dr. Antônio Aguiar
+-1015,Juraci Scheffer
+-1015,Nilton Militão
 117034,Bejani Júnior
 117029,Bejani Júnior
--1011,Bejani Júnior
+-1016,Bejani Júnior
 117027,Bejani Júnior
--1012,Bejani Júnior
+-1017,Bejani Júnior
 117023,Bejani Júnior
--1013,Bejani Júnior
+-1018,Bejani Júnior
 117021,Bejani Júnior
--1014,Bejani Júnior
+-1019,Bejani Júnior
 117018,Bejani Júnior
 117016,Bejani Júnior
--1015,Bejani Júnior
+-1020,Bejani Júnior
 117011,Bejani Júnior
--1016,Tiago Bonecão
+-1021,Tiago Bonecão
 117008,Bejani Júnior
 117006,Bejani Júnior
 117005,Bejani Júnior
 117004,Bejani Júnior
 117003,Bejani Júnior
--1017,Bejani Júnior
+-1022,Bejani Júnior
 117002,Bejani Júnior
--1018,Vagner de Oliveira
-117001,Bejani Júnior
--1019,Vagner de Oliveira
-117000,Bejani Júnior
--1020,Vagner de Oliveira
-116999,Bejani Júnior
--1021,Vagner de Oliveira
-116997,Bejani Júnior
--1022,Vagner de Oliveira
-116995,Bejani Júnior
 -1023,Vagner de Oliveira
-116994,Bejani Júnior
+117001,Bejani Júnior
 -1024,Vagner de Oliveira
+117000,Bejani Júnior
+-1025,Vagner de Oliveira
+116999,Bejani Júnior
+-1026,Vagner de Oliveira
+116997,Bejani Júnior
+-1027,Vagner de Oliveira
+116995,Bejani Júnior
+-1028,Vagner de Oliveira
+116994,Bejani Júnior
+-1029,Vagner de Oliveira
 116892,Tiago Bonecão
 116969,João Wagner
--1025,Vagner de Oliveira
-116966,João Wagner
--1026,Vagner de Oliveira
-116951,João Wagner
--1027,Vagner de Oliveira
-116950,João Wagner
--1028,Vagner de Oliveira
-116943,João Wagner
--1029,Vagner de Oliveira
-116937,João Wagner
 -1030,Vagner de Oliveira
+116966,João Wagner
+-1031,Vagner de Oliveira
+116951,João Wagner
+-1032,Vagner de Oliveira
+116950,João Wagner
+-1033,Vagner de Oliveira
+116943,João Wagner
+-1034,Vagner de Oliveira
+116937,João Wagner
+-1035,Vagner de Oliveira
 116936,João Wagner
--1031,Cida Oliveira
-116935,João Wagner
--1032,Cida Oliveira
-116914,João Wagner
--1033,Cida Oliveira
-116190,João Wagner
--1034,Cida Oliveira
-116186,João Wagner
--1035,Cida Oliveira
-116934,André Luiz
 -1036,Cida Oliveira
-116932,André Luiz
+116935,João Wagner
 -1037,Cida Oliveira
-116918,André Luiz
+116914,João Wagner
 -1038,Cida Oliveira
+116190,João Wagner
+-1039,Cida Oliveira
+116186,João Wagner
+-1040,Cida Oliveira
+116934,André Luiz
+-1041,Cida Oliveira
+116932,André Luiz
+-1042,Cida Oliveira
+116918,André Luiz
+-1043,Cida Oliveira
 116433,André Luiz
 116432,André Luiz
--1039,Cida Oliveira
-116959,Cida Oliveira
--1040,Cida Oliveira
-116839,Juraci Scheffer
--1041,Cida Oliveira
-116838,Juraci Scheffer
--1042,Cida Oliveira
-116837,Juraci Scheffer
--1043,Cida Oliveira
-116836,Juraci Scheffer
 -1044,Cida Oliveira
-116828,Juraci Scheffer
--1045,Tallia Sobral
-116827,Juraci Scheffer
+116959,Cida Oliveira
+-1045,Cida Oliveira
+116839,Juraci Scheffer
 -1046,Cida Oliveira
-116743,Juraci Scheffer
+116838,Juraci Scheffer
 -1047,Cida Oliveira
+116837,Juraci Scheffer
+-1048,Cida Oliveira
+116836,Juraci Scheffer
+-1049,Cida Oliveira
+116828,Juraci Scheffer
+-1050,Tallia Sobral
+116827,Juraci Scheffer
+-1051,Cida Oliveira
+116743,Juraci Scheffer
+-1052,Cida Oliveira
 116742,Juraci Scheffer
 116741,Juraci Scheffer
--1048,Cida Oliveira
+-1053,Cida Oliveira
 116705,Juraci Scheffer
--1049,Tallia Sobral
+-1054,Tallia Sobral
 116704,Juraci Scheffer
--1050,Cida Oliveira
+-1055,Cida Oliveira
 116702,Juraci Scheffer
--1051,Cida Oliveira
+-1056,Cida Oliveira
 116700,Juraci Scheffer
--1052,Tallia Sobral
+-1057,Tallia Sobral
 116688,Juraci Scheffer
 116667,Juraci Scheffer
--1053,Tallia Sobral
+-1058,Tallia Sobral
 116648,Juraci Scheffer
--1054,Cida Oliveira
-116643,Juraci Scheffer
--1055,Tallia Sobral
-116639,Juraci Scheffer
--1056,Cida Oliveira
-116634,Juraci Scheffer
--1057,Cida Oliveira
-116631,Juraci Scheffer
--1058,Cida Oliveira
-116629,Juraci Scheffer
 -1059,Cida Oliveira
+116643,Juraci Scheffer
+-1060,Tallia Sobral
+116639,Juraci Scheffer
+-1061,Cida Oliveira
+116634,Juraci Scheffer
+-1062,Cida Oliveira
+116631,Juraci Scheffer
+-1063,Cida Oliveira
+116629,Juraci Scheffer
+-1064,Cida Oliveira
 116609,Juraci Scheffer
--1060,Cida Oliveira
+-1065,Cida Oliveira
 116607,Juraci Scheffer
--1061,Tallia Sobral
+-1066,Tallia Sobral
 116606,Juraci Scheffer
 116603,Juraci Scheffer
--1062,Cida Oliveira
+-1067,Cida Oliveira
 116602,Juraci Scheffer
--1063,Tallia Sobral
+-1068,Tallia Sobral
 116601,Juraci Scheffer
--1064,Cida Oliveira
+-1069,Cida Oliveira
 116600,Juraci Scheffer
--1065,Cida Oliveira
-116599,Juraci Scheffer
--1066,Bejani Júnior
-116598,Juraci Scheffer
--1067,Tallia Sobral
-116597,Juraci Scheffer
--1068,Cida Oliveira
-116596,Juraci Scheffer
--1069,Bejani Júnior
-116595,Juraci Scheffer
 -1070,Cida Oliveira
-116594,Juraci Scheffer
--1071,Tallia Sobral
-116593,Juraci Scheffer
--1072,Bejani Júnior
-116592,Juraci Scheffer
--1073,Bejani Júnior
-116576,Juraci Scheffer
+116599,Juraci Scheffer
+-1071,Bejani Júnior
+116598,Juraci Scheffer
+-1072,Tallia Sobral
+116597,Juraci Scheffer
+-1073,Cida Oliveira
+116596,Juraci Scheffer
 -1074,Bejani Júnior
-116572,Juraci Scheffer
--1075,Bejani Júnior
-116571,Juraci Scheffer
--1076,Bejani Júnior
-116567,Juraci Scheffer
+116595,Juraci Scheffer
+-1075,Cida Oliveira
+116594,Juraci Scheffer
+-1076,Tallia Sobral
+116593,Juraci Scheffer
 -1077,Bejani Júnior
+116592,Juraci Scheffer
+-1078,Bejani Júnior
+116576,Juraci Scheffer
+-1079,Bejani Júnior
+116572,Juraci Scheffer
+-1080,Bejani Júnior
+116571,Juraci Scheffer
+-1081,Bejani Júnior
+116567,Juraci Scheffer
+-1082,Bejani Júnior
 116564,Juraci Scheffer
 116561,Juraci Scheffer
 116557,Juraci Scheffer
--1078,Bejani Júnior
+-1083,Bejani Júnior
 116554,Juraci Scheffer
--1079,Bejani Júnior
+-1084,Bejani Júnior
 116553,Juraci Scheffer
 116552,Juraci Scheffer
--1080,Bejani Júnior
-116546,Juraci Scheffer
--1081,Bejani Júnior
-116544,Juraci Scheffer
--1082,Bejani Júnior
-116512,Juraci Scheffer
--1083,Bejani Júnior
-116511,Juraci Scheffer
--1084,Bejani Júnior
-116509,Juraci Scheffer
 -1085,Bejani Júnior
+116546,Juraci Scheffer
+-1086,Bejani Júnior
+116544,Juraci Scheffer
+-1087,Bejani Júnior
+116512,Juraci Scheffer
+-1088,Bejani Júnior
+116511,Juraci Scheffer
+-1089,Bejani Júnior
+116509,Juraci Scheffer
+-1090,Bejani Júnior
 116505,Juraci Scheffer
--1086,Vagner de Oliveira
+-1091,Vagner de Oliveira
 116503,Juraci Scheffer
 116502,Juraci Scheffer
--1087,Cida Oliveira
+-1092,Cida Oliveira
 116500,Juraci Scheffer
 116499,Juraci Scheffer
 116492,Juraci Scheffer
--1088,Vagner de Oliveira
+-1093,Vagner de Oliveira
 116491,Juraci Scheffer
 116490,Juraci Scheffer
 116489,Juraci Scheffer
--1089,Vagner de Oliveira
+-1094,Vagner de Oliveira
 116488,Juraci Scheffer
 116487,Juraci Scheffer
 116486,Juraci Scheffer
--1090,Vagner de Oliveira
+-1095,Vagner de Oliveira
 116485,Juraci Scheffer
 116484,Juraci Scheffer
 116482,Juraci Scheffer
 116477,Juraci Scheffer
--1091,Vagner de Oliveira
+-1096,Vagner de Oliveira
 116474,Juraci Scheffer
 116473,Juraci Scheffer
 116472,Juraci Scheffer
--1092,Vagner de Oliveira
+-1097,Vagner de Oliveira
 116471,Juraci Scheffer
 116470,Juraci Scheffer
--1093,Vagner de Oliveira
+-1098,Vagner de Oliveira
 116468,Juraci Scheffer
--1094,Vagner de Oliveira
+-1099,Vagner de Oliveira
 116466,Juraci Scheffer
 116465,Juraci Scheffer
 116464,Juraci Scheffer
@@ -79073,8 +79073,8 @@ id_projeto_camara,nome_autor
 107609,Marlon Siqueira
 106663,Sargento Mello Casal
 105891,André Luiz
--1095,Sargento Mello Casal
--1095,Bejani Júnior
+-1100,Sargento Mello Casal
+-1100,Bejani Júnior
 114426,Juraci Scheffer
 108380,Laiz Perrut
 107425,Bejani Júnior
@@ -79087,21 +79087,21 @@ id_projeto_camara,nome_autor
 106983,Protetora Kátia Franco
 106609,Cida Oliveira
 105884,André Luiz
--1096,Luiz Otávio Fernandes Coelho - Pardal
+-1101,Luiz Otávio Fernandes Coelho - Pardal
 113017,Julinho Rossignoli
 108246,Laiz Perrut
 106979,Protetora Kátia Franco
 106977,Vagner de Oliveira
 106501,Juraci Scheffer
 105705,André Luiz
--1097,Luiz Otávio Fernandes Coelho - Pardal
+-1102,Luiz Otávio Fernandes Coelho - Pardal
 112891,Marlon Siqueira
 108040,Juraci Scheffer
 107221,Tallia Sobral
 106967,Protetora Kátia Franco
 106600,Tallia Sobral
 103286,André Luiz
--1098,João Wagner
+-1103,João Wagner
 112586,Luiz Otávio Fernandes Coelho - Pardal
 112586,Zé Márcio
 108048,Vagner de Oliveira
@@ -79114,7 +79114,7 @@ id_projeto_camara,nome_autor
 106953,Bejani Júnior
 106580,Tallia Sobral
 101257,André Luiz
--1099,João Wagner
+-1104,João Wagner
 112461,Vagner de Oliveira
 108047,Vagner de Oliveira
 107956,Bejani Júnior
@@ -79122,38 +79122,38 @@ id_projeto_camara,nome_autor
 106958,Cida Oliveira
 106514,Tallia Sobral
 100808,André Luiz
--1100,João Wagner
+-1105,João Wagner
 112416,Cida Oliveira
 107648,Juraci Scheffer
 107424,Bejani Júnior
 106865,Tiago Bonecão
 106511,Tallia Sobral
 106101,Laiz Perrut
--1101,Bejani Júnior
--1101,André Luiz
--1101,Tiago Bonecão
+-1106,Bejani Júnior
+-1106,André Luiz
+-1106,Tiago Bonecão
 111619,Dr. Antônio Aguiar
 107274,Sargento Mello Casal
 107421,Bejani Júnior
 106830,Tiago Bonecão
 106489,Vagner de Oliveira
 106100,Laiz Perrut
--1102,Cida Oliveira
+-1107,Cida Oliveira
 111310,Zé Márcio
 107964,João Wagner
 107420,Bejani Júnior
 106829,Tiago Bonecão
 106483,Bejani Júnior
 106097,Laiz Perrut
--1103,Luiz Otávio Fernandes Coelho - Pardal
--1103,André Luiz
--1103,Bejani Júnior
--1103,Sargento Mello Casal
--1103,Zé Márcio
--1103,João Wagner
--1103,Protetora Kátia Franco
--1103,Marlon Siqueira
--1103,Maurício Delgado
+-1108,Luiz Otávio Fernandes Coelho - Pardal
+-1108,André Luiz
+-1108,Bejani Júnior
+-1108,Sargento Mello Casal
+-1108,Zé Márcio
+-1108,João Wagner
+-1108,Protetora Kátia Franco
+-1108,Marlon Siqueira
+-1108,Maurício Delgado
 111194,Zé Márcio
 107991,Cida Oliveira
 106959,Cida Oliveira
@@ -79163,14 +79163,14 @@ id_projeto_camara,nome_autor
 106468,Protetora Kátia Franco
 106468,Marlon Siqueira
 106096,Laiz Perrut
--1104,Sargento Mello Casal
+-1109,Sargento Mello Casal
 110971,Vagner de Oliveira
 106754,João Wagner
 106755,Juraci Scheffer
 106424,Bejani Júnior
 106408,Juraci Scheffer
 106095,Laiz Perrut
--1105,João Wagner
+-1110,João Wagner
 111056,Maurício Delgado
 111056,Dr. Antônio Aguiar
 106791,Cida Oliveira
@@ -79212,14 +79212,14 @@ id_projeto_camara,nome_autor
 117498,Vagner de Oliveira
 117498,Bejani Júnior
 117498,Sargento Mello Casal
--1106,João Wagner
+-1111,João Wagner
 110202,Luiz Otávio Fernandes Coelho - Pardal
 106360,Juraci Scheffer
 106448,Marlon Siqueira
 106322,Bejani Júnior
 106324,Bejani Júnior
 106086,Laiz Perrut
--1107,João Wagner
+-1112,João Wagner
 112917,Juraci Scheffer
 112917,Dr. Antônio Aguiar
 112917,Zé Márcio
@@ -79247,7 +79247,7 @@ id_projeto_camara,nome_autor
 119942,Nilton Militão
 119942,Tallia Sobral
 119942,Tiago Bonecão
--1108,André Luiz
+-1113,André Luiz
 111579,Juraci Scheffer
 111579,Cido Reis
 111579,Zé Márcio
@@ -79260,7 +79260,7 @@ id_projeto_camara,nome_autor
 105969,Juraci Scheffer
 119416,Sargento Mello Casal
 117961,Maurício Delgado
--1109,Luiz Otávio Fernandes Coelho - Pardal
+-1114,Luiz Otávio Fernandes Coelho - Pardal
 110828,Juraci Scheffer
 110828,Zé Márcio
 110828,Nilton Militão
@@ -79270,7 +79270,7 @@ id_projeto_camara,nome_autor
 106103,Sargento Mello Casal
 106079,Laiz Perrut
 105968,Juraci Scheffer
--1110,Bejani Júnior
+-1115,Bejani Júnior
 117368,Sargento Mello Casal
 109404,Juraci Scheffer
 109404,Dr. Antônio Aguiar
@@ -79283,7 +79283,7 @@ id_projeto_camara,nome_autor
 106077,Laiz Perrut
 105820,Dr. Antônio Aguiar
 105755,Marlon Siqueira
--1111,Bejani Júnior
+-1116,Bejani Júnior
 114905,André Luiz
 114905,Bejani Júnior
 114905,Sargento Mello Casal
@@ -79300,26 +79300,26 @@ id_projeto_camara,nome_autor
 105943,Bejani Júnior
 106015,João Wagner
 105746,Laiz Perrut
--1112,Dr. Antônio Aguiar
--1112,Maurício Delgado
--1113,Laiz Perrut
--1114,Bejani Júnior
--1115,Sargento Mello Casal
--1115,André Luiz
--1115,Cida Oliveira
--1115,Bejani Júnior
--1115,Vagner de Oliveira
--1115,João Wagner
--1115,Julinho Rossignoli
--1115,Protetora Kátia Franco
--1115,Tallia Sobral
--1116,Luiz Otávio Fernandes Coelho - Pardal
--1116,Bejani Júnior
--1116,Zé Márcio
--1116,João Wagner
--1116,Protetora Kátia Franco
--1116,Laiz Perrut
--1116,Tallia Sobral
+-1117,Dr. Antônio Aguiar
+-1117,Maurício Delgado
+-1118,Laiz Perrut
+-1119,Bejani Júnior
+-1120,Sargento Mello Casal
+-1120,André Luiz
+-1120,Cida Oliveira
+-1120,Bejani Júnior
+-1120,Vagner de Oliveira
+-1120,João Wagner
+-1120,Julinho Rossignoli
+-1120,Protetora Kátia Franco
+-1120,Tallia Sobral
+-1121,Luiz Otávio Fernandes Coelho - Pardal
+-1121,Bejani Júnior
+-1121,Zé Márcio
+-1121,João Wagner
+-1121,Protetora Kátia Franco
+-1121,Laiz Perrut
+-1121,Tallia Sobral
 114756,André Luiz
 114756,Bejani Júnior
 114756,Sargento Mello Casal
@@ -79328,27 +79328,27 @@ id_projeto_camara,nome_autor
 114756,Julinho Rossignoli
 114756,Protetora Kátia Franco
 114756,Tiago Bonecão
--1117,Luiz Otávio Fernandes Coelho - Pardal
+-1122,Luiz Otávio Fernandes Coelho - Pardal
 107192,Laiz Perrut
 106668,Zé Márcio
 106668,Marlon Siqueira
 106668,Tallia Sobral
 106668,Tiago Bonecão
--1118,João Wagner
+-1123,João Wagner
 105977,João Wagner
 106055,Vagner de Oliveira
 106054,Cida Oliveira
 105967,Cida Oliveira
 106010,João Wagner
 103879,João Wagner
--1119,João Wagner
--1120,Dr. Antônio Aguiar
--1120,Maurício Delgado
--1121,André Luiz
--1121,Protetora Kátia Franco
--1121,Nilton Militão
--1122,Protetora Kátia Franco
--1123,Protetora Kátia Franco
+-1124,João Wagner
+-1125,Dr. Antônio Aguiar
+-1125,Maurício Delgado
+-1126,André Luiz
+-1126,Protetora Kátia Franco
+-1126,Nilton Militão
+-1127,Protetora Kátia Franco
+-1128,Protetora Kátia Franco
 118591,Nilton Militão
 118591,Cido Reis
 118609,Luiz Otávio Fernandes Coelho - Pardal
@@ -79364,24 +79364,24 @@ id_projeto_camara,nome_autor
 120071,Maurício Delgado
 120071,Tiago Bonecão
 120438,Protetora Kátia Franco
--1124,Maurício Delgado
--1125,Luiz Otávio Fernandes Coelho - Pardal
--1126,Nilton Militão
--1127,André Luiz
--1127,Dr. Antônio Aguiar
--1128,Luiz Otávio Fernandes Coelho - Pardal
--1128,Cida Oliveira
--1128,Bejani Júnior
--1128,Sargento Mello Casal
--1128,Vagner de Oliveira
--1128,Zé Márcio
--1128,João Wagner
--1128,Julinho Rossignoli
--1128,Protetora Kátia Franco
--1128,Laiz Perrut
--1128,Marlon Siqueira
--1128,Maurício Delgado
--1128,Nilton Militão
+-1129,Maurício Delgado
+-1130,Luiz Otávio Fernandes Coelho - Pardal
+-1131,Nilton Militão
+-1132,André Luiz
+-1132,Dr. Antônio Aguiar
+-1133,Luiz Otávio Fernandes Coelho - Pardal
+-1133,Cida Oliveira
+-1133,Bejani Júnior
+-1133,Sargento Mello Casal
+-1133,Vagner de Oliveira
+-1133,Zé Márcio
+-1133,João Wagner
+-1133,Julinho Rossignoli
+-1133,Protetora Kátia Franco
+-1133,Laiz Perrut
+-1133,Marlon Siqueira
+-1133,Maurício Delgado
+-1133,Nilton Militão
 121457,Zé Márcio
 121457,Bejani Júnior
 121457,Sargento Mello Casal
@@ -79391,4 +79391,4 @@ id_projeto_camara,nome_autor
 121457,Protetora Kátia Franco
 121457,Laiz Perrut
 121457,Marlon Siqueira
--1129,Luiz Otávio Fernandes Coelho - Pardal
+-1134,Luiz Otávio Fernandes Coelho - Pardal

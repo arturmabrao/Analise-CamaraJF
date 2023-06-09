@@ -4,9 +4,23 @@ FROM 'D:\Estudo\IF\2022\TCC2\Analise-Camara\Analise-CamaraJF\Database\SQL\Create
 DELIMITER ','
 CSV HEADER;
 
+/*
+id_projeto_camara duplicados que tem seus valores retirados da base: (60890,53677,55073)
+
+delete 
+--select *
+from atividade_camarajf_2013_2022.projeto
+where 0=1
+and id_projeto in	(select id_projeto from atividade_camarajf_2013_2022.projeto
+						where id_projeto_camara in (60890,53677,55073)
+					)
+
+
+*/
+
 -- INSERT TABELA AUTORIA
 COPY atividade_camarajf.autoria(id_projeto_camara,nome_autor)
-FROM 'D:\Estudo\IF\2022\TCC2\Analise-Camara\Analise-CamaraJF\Database\SQL\CreateInsert\Arquivos_insert\Listagem_Autorias_2013.csv'
+FROM 'D:\Estudo\IF\2022\TCC2\Analise-Camara\Analise-CamaraJF\Database\SQL\CreateInsert\Arquivos_insert\Listagem_Autorias_2013-2022.csv'
 DELIMITER ','
 CSV HEADER;
 
@@ -19,6 +33,9 @@ UPDATE atividade_camarajf.autoria
 							FROM atividade_camarajf.projeto
 							WHERE atividade_camarajf.projeto.id_projeto_camara = atividade_camarajf.autoria.id_projeto_camara);
 							
+
+-- executado ate aqui para atividade_camarajf_2013_2022
+
 
 -- INSERT TABELA PARLAMENTAR
 INSERT INTO atividade_camarajf.parlamentar  (nome_camara)
